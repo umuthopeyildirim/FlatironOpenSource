@@ -2,10 +2,18 @@
 This repo contains the lessons and labs for the Flatiron School's Open Source curriculum. The curriculum is designed to teach students JavaScript, Ruby and Python. This repo is a work in progress and will be updated as the curriculum is developed.
 
 ## Table of Contents
+* [Usage](#usage)
 * [Software Engineering](#software-engineering)
 * [Data Science](#data-science)
 * [Contributing](#contributing)
 * [License](#license)
+
+## Usage
+To use this repo you need to install [live-server](https://www.npmjs.com/package/live-server) and [node](https://nodejs.org/en/). Once you have those installed, you can run the following commands to start the server:
+```bash
+yarn 
+yarn start
+```
 
 ## Software Engineering
 * [Data Structures and Algorithms](SoftwareEngineering/Data-Structures-and-Algorithms-2022/index.html)
