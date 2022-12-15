@@ -1,0 +1,18 @@
+{
+  "name": "FlatironSchoolOpenSource",
+  "version": "1.0.0",
+  "description": "Flatiron School lessons for graduated students.",
+  "repository": "git@github.com:umuthopeyildirim/FlatironSchoolOpenSource.git",
+  "author": "Umut Hope YILDIRIM <umut475@gmail.com>",
+  "license": "MIT&Learn.co",
+  "private": false,
+  "dependencies": {
+    "live-server": "^1.2.0"
+  },
+  "scripts": {
+    "start": "live-server"
+  },
+  "engines": {
+    "node": ">=16.14"
+  }
+}
