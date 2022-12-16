@@ -8,7 +8,7 @@ function CoreBar(){
                 <Navbar.Start>
                     <Button href="/" className='text-white'>
                         <img src="./logo-primary.svg" alt="FSOS" className="w-10 h-10 p-2"/>
-                        FSOS
+                        Ian rules
                     </Button>
                 </Navbar.Start>
                 <Navbar.End>
