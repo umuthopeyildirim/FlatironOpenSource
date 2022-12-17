@@ -7,8 +7,8 @@ function CoreBar(){
             <Navbar className='text-white'>
                 <Navbar.Start>
                     <Button href="/" className='text-white'>
-                        <img src="./download.jpg" alt="FSOS" className="w-10 h-10 p-2"/>
-                        Ian rules
+                        <img src="./img/logo-primary.svg" alt="FSOS" className="w-10 h-10 p-2"/>
+                        FSOS
                     </Button>
                 </Navbar.Start>
                 <Navbar.End>
