@@ -23,6 +23,9 @@ function CoreBar(){
                             <Link href="#our-mission">Our Mission</Link>
                         </Menu.Item>
                         <Menu.Item>
+                            <Link href="#newsletter">Newsletter</Link>
+                        </Menu.Item>
+                        <Menu.Item>
                             <Link href="https://github.com/umuthopeyildirim/FlatironSchoolOpenSource" target="_blank"><BsGithub />Github</Link>
                         </Menu.Item>
                     </Menu>
