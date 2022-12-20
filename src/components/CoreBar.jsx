@@ -3,7 +3,7 @@ import { BsGithub } from "react-icons/bs";
 
 function CoreBar(){
     return (
-        <div className="flex w-full component-preview items-center justify-center font-sans">
+        <div className="flex w-full component-preview p-4 items-center justify-center gap-2 font-sans">
             <Navbar className='text-white'>
                 <Navbar.Start>
                     <Button href="/" className='text-white'>
@@ -22,9 +22,9 @@ function CoreBar(){
                         <Menu.Item>
                             <Link href="#our-mission">Our Mission</Link>
                         </Menu.Item>
-                        <Menu.Item>
+                        {/* <Menu.Item>
                             <Link href="#newsletter">Newsletter</Link>
-                        </Menu.Item>
+                        </Menu.Item> */}
                         <Menu.Item>
                             <Link href="https://github.com/umuthopeyildirim/FlatironSchoolOpenSource" target="_blank"><BsGithub />Github</Link>
                         </Menu.Item>
