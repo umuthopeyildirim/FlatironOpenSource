@@ -12,7 +12,7 @@ This repo contains the lessons and labs for the Flatiron School's Open Source cu
 To use this repo you need to install [live-server](https://www.npmjs.com/package/live-server) and [node](https://nodejs.org/en/). Once you have those installed, you can run the following commands to start the server:
 ```bash
 yarn 
-yarn start
+yarn dev
 ```
 
 ## Software Engineering
