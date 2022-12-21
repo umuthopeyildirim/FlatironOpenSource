@@ -17,7 +17,7 @@ function About(){
                     </p>
                 </div>
                 <img
-                    alt="Why do I need a password manager?"
+                    alt="Why do i need Flatiron School?"
                     src="/img/about.jpg"
                     className="rounded-lg max-w-md"
                 />
