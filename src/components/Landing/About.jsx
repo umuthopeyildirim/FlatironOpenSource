@@ -5,25 +5,21 @@ function About(){
         <Hero className="py-8 px-8">
             <Hero.Content className="flex flex-col md:flex-row">
                 <div>
-                    <h1 className="text-5xl font-bold">Why do I need a password manager?</h1>
+                    <h1 className="text-5xl font-bold">Our Mission: Empowering tomorrow's workforce through education...<br></br> For FREE</h1>
                     <p className="py-6">
-                        81% of data breaches are caused by weak or reused passwords. 
-                        To keep your information secure, you need a strong, unique password for every account. 
-                        But when you have hundreds of accounts, how do you keep track of all your passwords?
+                        As a leader in the tech industry, Flatiron School believes that education is the best investment you can make in your future. We're committed to helping  change lives and the world for the better.
                     </p>
                     <p>
-                        That's where password managers come in. 
-                        They help you create strong passwords and sign in to your accounts quickly.
+                        Our courses provide an immersive, outcomes-driven curriculum for students looking to launch a career in Software Engineering, Cybersecurity, Data Science, or Product Design. Courses are offered both online and in-person on campuses across the country.
                     </p>
                     <p>
-                        MyPass Manager saves all your passwords and encrypts them with your Account Password - which only you know. 
-                        To sign in to an account, just click or tap to fill your details with MyPass Manager.
+                        Flatiron School is frequently ranked as a top coding bootcamp by industry publications. In addition to student programs, we also offer targeted education solutions for organizations.
                     </p>
                 </div>
                 <img
                     alt="Why do I need a password manager?"
-                    src="https://1password.com/img/password-manager/password-gen.4f50c59efa7adeba1945556bcb90526a.png"
-                    className="rounded-lg"
+                    src="/img/about.jpg"
+                    className="rounded-lg max-w-md"
                 />
             </Hero.Content>
         </Hero>
