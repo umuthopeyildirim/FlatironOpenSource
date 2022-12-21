@@ -2,11 +2,11 @@ import { Hero } from "react-daisyui"
 
 function About(){
     return (
-        <Hero className="py-8 px-8">
+        <Hero>
             <Hero.Content className="flex flex-col md:flex-row">
                 <div>
                     <h1 className="text-5xl font-bold">Our Mission: Empowering tomorrow's workforce through education...<br></br> For FREE</h1>
-                    <p className="py-6">
+                    <p>
                         As a leader in the tech industry, Flatiron School believes that education is the best investment you can make in your future. We're committed to helping  change lives and the world for the better.
                     </p>
                     <p>
