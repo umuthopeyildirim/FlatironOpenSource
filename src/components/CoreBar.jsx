@@ -6,7 +6,7 @@ function CoreBar(){
         <div className="flex w-full component-preview p-4 items-center justify-center gap-2 font-sans">
             <Navbar>
                 <Navbar.Start>
-                    <Button href="/">
+                    <Button className="border-0" href="/">
                         <img src="./img/logo-primary.svg" alt="FSOS" className="w-10 h-10 p-2"/>
                         FSOS
                     </Button>

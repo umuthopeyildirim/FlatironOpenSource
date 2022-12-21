@@ -3,7 +3,7 @@ import { Hero } from "react-daisyui";
 function OurMission({ img, imgAlt, title, description }) {
   return (
     <Hero className="rounded-lg px-10 py-10">
-        <Hero.Content className="rounded-lg px-10 py-10">
+        <Hero.Content className="flex flex-col md:flex-row rounded-lg px-10 py-10">
             <img
                 alt={imgAlt}
                 src={img}
