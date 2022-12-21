@@ -1,6 +1,6 @@
 import { Hero } from "react-daisyui";
 
-function OurMission({ img, imgAlt, money ,title, description }) {
+function Salaries({ img, imgAlt, money ,title, description }) {
   return (
     <Hero className="rounded-lg px-10 py-10">
         <Hero.Content className="flex flex-col md:flex-row rounded-lg">
@@ -19,4 +19,4 @@ function OurMission({ img, imgAlt, money ,title, description }) {
   );
 }
 
-export default OurMission;
+export default Salaries;

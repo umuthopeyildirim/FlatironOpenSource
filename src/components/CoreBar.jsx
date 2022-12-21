@@ -20,7 +20,7 @@ function CoreBar(){
                             <Link href="#about">About</Link>
                         </Menu.Item>
                         <Menu.Item>
-                            <Link href="#our-mission">Our Mission</Link>
+                            <Link href="#salaries">Salaries</Link>
                         </Menu.Item>
                         {/* <Menu.Item>
                             <Link href="#newsletter">Newsletter</Link>
