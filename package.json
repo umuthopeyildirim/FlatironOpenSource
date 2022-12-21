@@ -4,7 +4,7 @@
   "description": "Flatiron School lessons for graduated students.",
   "repository": "git@github.com:umuthopeyildirim/FlatironSchoolOpenSource.git",
   "author": "Umut Hope YILDIRIM <umut475@gmail.com>",
-  "license": "MIT&Learn.co",
+  "license": "MIT",
   "private": false,
   "scripts": {
     "dev": "vite",
