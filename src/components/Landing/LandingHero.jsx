@@ -6,17 +6,14 @@ function LandingHero() {
       <Hero.Overlay />
       <Hero.Content className="text-center md:flex md:shrink-0">
         <div className="max-w-md">
-          <h1 className="text-5xl font-bold">Your last password manager</h1>
+          <h1 className="text-5xl font-bold">10 years of shaping tech talent,<br></br> They say...</h1>
           <p className="py-6">
-            The easiest and safest way to share logins, passwords, credit cards and more, with the people that matter most. 
-            Go ahead, forget your passwords – MyPass Manager remembers them all for you.
+          Flatiron School has been building tech talent since 2012. Their courses include software engineering, cybersecurity, data science, and product design.<br></br> They say so here all of them for free!
           </p>
-          <Button href="pricing" color="accent">Try MyPass for 14 days</Button>
+          <Button href="/#lessons" color="accent">Check out their lessons</Button>
           <br></br>
-          <span>No credit card is required</span>
+          <span>For free ;)</span>
         </div>
-        <img style={{left:"calc(50% + 80px)"}} src="https://flatironschool.com/wp-content/uploads/2021/11/SE-Hero-Image-2.svg" alt="Hero" className="object-cover h-96 rounded-xl mt-10" />
-
       </Hero.Content>
     </Hero>
   )
