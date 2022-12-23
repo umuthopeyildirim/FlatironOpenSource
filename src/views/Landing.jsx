@@ -5,7 +5,7 @@ import About from "../components/Landing/About"
 import Salaries from "../components/Landing/Salaries"
 import CoreFooter from "../components/CoreFooter"
 
-function App() {
+function Landing() {
   return (
     <div>
       <CoreBar />
@@ -26,4 +26,4 @@ function App() {
   )
 }
 
-export default App
+export default Landing;

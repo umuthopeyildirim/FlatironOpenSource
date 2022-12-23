@@ -23,9 +23,9 @@ function Lessons() {
     <Hero className="rounded-lg px-10 py-10">
         <Hero.Content className="rounded-lg">
           <div className="flex flex-col md:flex-row md:space-x-3 ">
-            <IndivudalLesson img="/img/Product-Design-Hero-Image-8.svg" title="Product Design" description="The UX / UI product design program at Flatiron School focuses on digital product design — designing digital products such as websites, mobile applications, and computer programs." link="" />
-            <IndivudalLesson img="/img/SE-Hero-Image-2.svg" title="Software Engineering" description="Become a software engineer to help businesses develop software, build web apps, and products that will help shape the future of the company." link="" />
-            <IndivudalLesson img="/img/DataScience.svg" title="Data Science" description="Become a data scientist to help businesses leverage data, analyze data, and provide data-driven insights so businesses can make informed decisions." link="" />
+            <IndivudalLesson img="/img/Product-Design-Hero-Image-8.svg" title="Product Design" description="The UX / UI product design program at Flatiron School focuses on digital product design — designing digital products such as websites, mobile applications, and computer programs." link="/courses#product-design" />
+            <IndivudalLesson img="/img/SE-Hero-Image-2.svg" title="Software Engineering" description="Become a software engineer to help businesses develop software, build web apps, and products that will help shape the future of the company." link="/courses#software-engineering" />
+            <IndivudalLesson img="/img/DataScience.svg" title="Data Science" description="Become a data scientist to help businesses leverage data, analyze data, and provide data-driven insights so businesses can make informed decisions." link="/courses#data-science" />
           </div>
         </Hero.Content>
     </Hero>

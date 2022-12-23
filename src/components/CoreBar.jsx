@@ -14,13 +14,13 @@ function CoreBar(){
                 <Navbar.End>
                     <Menu horizontal className="p-0 rounded-lg">
                         <Menu.Item>
-                            <Link href="#lessons">Lessons</Link>
+                            <Link href="/#lessons">Lessons</Link>
                         </Menu.Item>
                         <Menu.Item>
-                            <Link href="#about">About</Link>
+                            <Link href="/#about">About</Link>
                         </Menu.Item>
                         <Menu.Item>
-                            <Link href="#salaries">Salaries</Link>
+                            <Link href="/#salaries">Salaries</Link>
                         </Menu.Item>
                         {/* <Menu.Item>
                             <Link href="#newsletter">Newsletter</Link>
