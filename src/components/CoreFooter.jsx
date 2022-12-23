@@ -4,7 +4,7 @@ function CoreFooter(){
     return (
         <Footer className="p-10">
             <div>
-                <img src="./img/logo-primary.svg" alt="FSOS" className="w-10 h-10"/>
+                <img src="/img/logo-primary.svg" alt="FSOS" className="w-10 h-10"/>
                 <p>
                     Flatiron School Open Source
                     <br />

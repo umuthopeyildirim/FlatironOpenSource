@@ -7,20 +7,20 @@ function CoreBar(){
             <Navbar>
                 <Navbar.Start>
                     <Button className="border-0" href="/">
-                        <img src="./img/logo-primary.svg" alt="FSOS" className="w-10 h-10 p-2"/>
+                        <img src="/img/logo-primary.svg" alt="FSOS" className="w-10 h-10 p-2"/>
                         FSOS
                     </Button>
                 </Navbar.Start>
                 <Navbar.End>
                     <Menu horizontal className="p-0 rounded-lg">
                         <Menu.Item>
-                            <Link href="#lessons">Lessons</Link>
+                            <Link href="/#lessons">Lessons</Link>
                         </Menu.Item>
                         <Menu.Item>
-                            <Link href="#about">About</Link>
+                            <Link href="/#about">About</Link>
                         </Menu.Item>
                         <Menu.Item>
-                            <Link href="#salaries">Salaries</Link>
+                            <Link href="/#salaries">Salaries</Link>
                         </Menu.Item>
                         {/* <Menu.Item>
                             <Link href="#newsletter">Newsletter</Link>

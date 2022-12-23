@@ -4,6 +4,7 @@ This repo contains the lessons and labs for the Flatiron School's Open Source cu
 ## Table of Contents
 * [Usage](#usage)
 * [Software Engineering](#software-engineering)
+* [Data Structures and Algorithms](#data-structures-and-algorithms)
 * [Data Science](#data-science)
 * [Contributing](#contributing)
 * [License](#license)
@@ -16,7 +17,6 @@ yarn dev
 ```
 
 ## Software Engineering
-* [Data Structures and Algorithms](SoftwareEngineering/Data-Structures-and-Algorithms-2022/index.html)
 * [Software Engineering Prep](SoftwareEngineering/Software-Engineering-Prep-2022/index.html)
 * [Software Engineering Phase 1](SoftwareEngineering/Phase-1-2022/index.html)
 * [Software Engineering Phase 2](SoftwareEngineering/Phase-2-2022/index.html)
@@ -32,6 +32,9 @@ yarn dev
 * [Data Science Phase 3](DataScience/Phase-3-2022/index.html)
 * [Data Science Phase 4](DataScience/Phase-4-2022/index.html)
 * [Data Science Phase 5](DataScience/Phase-5-2022/index.html)
+
+## Data Structures and Algorithms
+* [Data Structures and Algorithms](DataStructuresAndAlgorithms/index.html)
 
 ## Contributing
 We welcome contributions to the curriculum. Please see the [contributing guidelines](CONTRIBUTING.md) for more information.
