@@ -4,5 +4,8 @@
   "devDependencies": {
     "wrangler": "2.6.2"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "workers-qb": "^0.1.2"
+  }
 }

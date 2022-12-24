@@ -4,3 +4,12 @@ compatibility_date = "2022-12-24"
 
 account_id = "d26499da33ddd3d0e13f3a8efb2708d1"
 workers_dev = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "flatironopensource"
+database_id = "d5bb79d5-d176-4eed-80dd-37d958e0df6e"
+
+[[r2_buckets]]
+binding = "bucket"
+bucket_name = "flatironopensource"
