@@ -6,22 +6,19 @@ export default {
   }
 }
 
-async function handleRequest(request) {
+async function handleRequest(request, env) {
   const { pathname } = new URL(request.url);
-
-  if (pathname.startsWith("/api")) {
-    return new Response(JSON.stringify({ pathname }), {
-      headers: { "Content-Type": "application/json" },
+  if (pathname.startsWith("/course/")) {
+    const course = pathname.split("/")[2];
+    console.log(course);
+    let value = await env.COURSES.get(course);
+    return new Response(JSON.stringify({ value }), {
+      headers: { "Content-Type": "application/json" }
     });
   }
-
   if (pathname.startsWith("/status")) {
     const httpStatusCode = Number(pathname.split("/")[2]);
-
-    return Number.isInteger(httpStatusCode)
-      ? fetch("https://http.cat/" + httpStatusCode)
-      : new Response("That's not a valid HTTP status code.");
+    return Number.isInteger(httpStatusCode) ? fetch("https://http.cat/" + httpStatusCode) : new Response("That's not a valid HTTP status code.");
   }
-
-  return fetch("https://welcome.developers.workers.dev");
+  return fetch("https://flatironopensource.ml/404");
 }
