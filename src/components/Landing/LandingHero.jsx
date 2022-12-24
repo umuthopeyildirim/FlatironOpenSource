@@ -12,7 +12,7 @@ function LandingHero() {
           </p>
           <Button href="/#lessons" color="accent">Check out their lessons</Button>
           <br></br>
-          <span>For free ;</span>
+          <span>For free ;)</span>
         </div>
       </Hero.Content>
     </Hero>
