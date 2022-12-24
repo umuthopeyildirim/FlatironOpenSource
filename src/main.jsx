@@ -7,6 +7,7 @@ import './assets/css/index.css'
 /* Landing Pages */
 import Landing from './views/Landing'
 import Courses from './views/Courses'
+import Course from './views/Course';
 
 /* Error Pages */
 import NotFound from './views/errors/NotFound'
@@ -18,6 +19,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         {/* Landing Pages */}
         <Route path="/" element={<Landing />} />
         <Route path="/courses" element={<Courses />} />
+        <Route path="/course" element={<Course />}/>
 
         {/* Error Pages */}
         <Route path='*' element={<NotFound />}/>
