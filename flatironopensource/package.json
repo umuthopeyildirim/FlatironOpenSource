@@ -1,0 +1,8 @@
+{
+  "name": "flatironopensource",
+  "version": "0.0.1",
+  "devDependencies": {
+    "wrangler": "2.6.2"
+  },
+  "private": true
+}

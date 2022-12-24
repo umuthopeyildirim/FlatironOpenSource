@@ -1,0 +1,6 @@
+name = "flatironopensource"
+main = "src/index.js"
+compatibility_date = "2022-12-24"
+
+account_id = "d26499da33ddd3d0e13f3a8efb2708d1"
+workers_dev = true
