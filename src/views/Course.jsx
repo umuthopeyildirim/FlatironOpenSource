@@ -1,9 +1,11 @@
-import Courses from "../components/Course/Courses";
+import CoursesHero from "../components/Courses/CoursesHero";
+import CourseTextArea from "../components/Course/CourseTextArea";
 
 function Course() {
   return (
     <div>
-   <Courses/>
+   <CoursesHero/>
+   <CourseTextArea/>
     </div>
   )
 }
