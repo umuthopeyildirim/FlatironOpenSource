@@ -1,6 +1,6 @@
 
 
-function SoftwareEngineeringCourse() {
+function Courses() {
   return(
     <>
       <div>
@@ -11,4 +11,4 @@ function SoftwareEngineeringCourse() {
   )
 }
 
-export default SoftwareEngineeringCourse;
+export default Courses;

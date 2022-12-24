@@ -1,9 +1,9 @@
-import SoftwareEngineeringCourse from "../components/Course/SoftwareEngineering";
+import Courses from "../components/Course/Courses";
 
 function Course() {
   return (
     <div>
-   <SoftwareEngineeringCourse/>
+   <Courses/>
     </div>
   )
 }
