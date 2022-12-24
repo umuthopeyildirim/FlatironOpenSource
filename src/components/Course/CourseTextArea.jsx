@@ -2,10 +2,10 @@ import { Hero , Textarea} from "react-daisyui";
 
 
 
-function CourseTextArea() {
+function CourseTextArea({course}) {
   return(
     <Textarea>
-    Lessons will go here
+   {course.course}
   </Textarea>
   )
 }

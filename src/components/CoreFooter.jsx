@@ -13,8 +13,10 @@ function CoreFooter(){
             </div>
             <div>
                 <Footer.Title>Lessons</Footer.Title>
-                <a href="/software-engineering" className="link link-hover">Software Engineering</a>
-                <a href="/data-science" className="link link-hover">Data Science</a>
+                <a href="/course/software-engineering" className="link link-hover">Software Engineering</a>
+                <a href="/course/data-science" className="link link-hover">Data Science</a>
+                <a href="/course/product-design" className="link link-hover">Product Design</a>
+                <a href="/course/data-structures-and-algorithms" className="link link-hover">Data Structures and Algorithms</a>
             </div>
             <div>
                 <Footer.Title>Company</Footer.Title>
