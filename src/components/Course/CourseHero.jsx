@@ -1,10 +1,6 @@
 import { Hero } from "react-daisyui";
 
-
-
 function CourseHero({course}) {
-
-  console.log(course)
   return(
     <Hero>
     <Hero.Overlay />

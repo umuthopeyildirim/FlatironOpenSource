@@ -19,7 +19,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         {/* Landing Pages */}
         <Route path="/" element={<Landing />} />
         <Route path="/courses" element={<Courses />} />
-        <Route path="/course/:course" element={<Course /* course = {course} *//>}/>
+        <Route path="/course/:course" element={<Course />}/>
       
 
         {/* Error Pages */}
