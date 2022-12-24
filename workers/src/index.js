@@ -1,6 +1,6 @@
 export default {
   async fetch(request, env) {
-    return await handleRequest(request).catch(
+    return await handleRequest(request, env).catch(
       (err) => new Response(err.stack, { status: 500 })
     )
   }
