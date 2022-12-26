@@ -1,9 +1,10 @@
 import { useParams, Navigate } from "react-router-dom";
 
-import CourseHero from "../components/Course/CourseHero";
+
 import CourseTextArea from "../components/Course/CourseTextArea";
 import CoreBar from "../components/CoreBar";
 import CoreFooter from "../components/CoreFooter";
+import CourseBreadCrumb from "../components/Course/CourseBreadCrumb";
 
 import coursesData from "../data/_Courses";
 
@@ -16,11 +17,13 @@ function Course() {
     return <Navigate replace to="/404" />;
   }
 
+
+
   return (
     <div>
       <CoreBar />
-      <CourseHero course={course} />
-      <CourseTextArea course={course} />
+      <CourseBreadCrumb course={course} phase = {routeParams.phase} />
+      <CourseTextArea course={course} phase = {routeParams.phase}/>
       <CoreFooter />
     </div>
   )

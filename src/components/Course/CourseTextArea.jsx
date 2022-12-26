@@ -1,10 +1,21 @@
-import { Textarea} from "react-daisyui";
+import { Textarea, Divider, Button} from "react-daisyui";
 
-function CourseTextArea({course}) {
+function CourseTextArea({course, phase}) {
+
+  
   return(
-    <Textarea>
-      {course.name}
-    </Textarea>
+    <div className="flex flex-row w-full">
+    <div className="flex-grow card h-400  rounded-box place-items-center outline">
+    {course.phases.map((phase) => (
+          <Button>{phase.name}</Button>
+        ))}
+    </div>
+    <Divider> </Divider>
+    <div className="w-5/6 flex-grow h-400 card rounded-box place-items-center outline">
+    {phase}
+    </div>
+  
+  </div>
   );
 }
 
