@@ -1,13 +1,14 @@
 import { Textarea, Divider, Button} from "react-daisyui";
 
 function CourseTextArea({course, phase}) {
+ 
 
-  
+
   return(
     <div className="flex flex-row w-full">
     <div className="flex-grow card h-400  rounded-box place-items-center outline">
     {course.phases.map((phase) => (
-          <Button>{phase.name}</Button>
+          <Button key= {phase.name} href={phase.link}>{phase.name} </Button>
         ))}
     </div>
     <Divider> </Divider>

@@ -3,6 +3,7 @@ import { Breadcrumbs} from "react-daisyui";
 
 
 function CourseBreadCrumb({course, phase}){
+   
 const phaseLink = course.phases.find((phase1)=> phase1.slug===phase)
 console.log(phaseLink.link)
 console.log(phase)

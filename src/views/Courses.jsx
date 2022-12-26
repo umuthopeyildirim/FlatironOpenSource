@@ -16,13 +16,14 @@ function Courses() {
     return <Navigate replace to="/404" />;
   }
 
+  console.log(course)
   return (
     <div>
       <CoreBar />
       <CoursesHero course={course}/>
       <div id="lessons">
         {course.phases.map((phase) => (
-          <Lessons key = {phase.name} img={phase.image} imgAlt={phase.name} title={phase.name} description={phase.description} link={phase.link} />
+          <Lessons course = {course} key = {phase.name} img={phase.image} imgAlt={phase.name} title={phase.name} description={phase.description} link={phase.link} />
         ))}
       </div>
       <CoreFooter />

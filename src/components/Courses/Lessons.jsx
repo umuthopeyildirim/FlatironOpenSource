@@ -1,7 +1,9 @@
 import { Hero, Button } from "react-daisyui";
 
-function Lessons({ img, imgAlt ,title, description, link }) {
-  return (
+function Lessons({ img, imgAlt ,title, description, link, course}) {
+  console.log(link)
+  console.log(course)
+    return (
     <Hero className="rounded-lg px-10 py-10">
         <Hero.Content className="flex flex-col md:flex-row rounded-lg">
             <img
