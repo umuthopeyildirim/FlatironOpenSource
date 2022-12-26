@@ -2,8 +2,8 @@ import { Hero } from "react-daisyui";
 
 function CourseHero({course}) {
 
-  fetch('https://workers.flatironopensource.ml/course/se-phase1')
-  .then(res=>console.log(res))
+  // fetch('https://workers.flatironopensource.ml/course/se-phase1')
+  // .then(res=>console.log(res))
   
   return(
     <Hero>
