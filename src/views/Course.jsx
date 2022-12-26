@@ -19,8 +19,8 @@ function Course() {
   return (
     <div>
       <CoreBar />
-      <CourseHero course={routeParams} />
-      <CourseTextArea course={routeParams} />
+      <CourseHero course={course} />
+      <CourseTextArea course={course} />
       <CoreFooter />
     </div>
   )

@@ -22,7 +22,7 @@ function Courses() {
       <CoursesHero course={course}/>
       <div id="lessons">
         {course.phases.map((phase) => (
-          <Lessons img={phase.image} imgAlt={phase.name} title={phase.name} description={phase.description} link={phase.link} />
+          <Lessons key = {phase.name} img={phase.image} imgAlt={phase.name} title={phase.name} description={phase.description} link={phase.link} />
         ))}
       </div>
       <CoreFooter />

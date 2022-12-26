@@ -3,7 +3,7 @@ import { Textarea} from "react-daisyui";
 function CourseTextArea({course}) {
   return(
     <Textarea>
-      {course.course}
+      {course.name}
     </Textarea>
   );
 }
