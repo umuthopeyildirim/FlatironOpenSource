@@ -1,4 +1,4 @@
-import { Hero, Button } from "react-daisyui"
+import { Hero, Button } from "react-daisyui";
 
 function ErrorsHero({ errorCode, errorTitle, errorDescription, errorImage, errorImageAlt }) {
   return(

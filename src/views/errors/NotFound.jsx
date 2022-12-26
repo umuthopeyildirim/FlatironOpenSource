@@ -1,6 +1,6 @@
-import CoreBar from "../../components/CoreBar"
-import ErrorsHero from "../../components/Errors/ErrorsHero"
-import CoreFooter from "../../components/CoreFooter"
+import CoreBar from "../../components/CoreBar";
+import ErrorsHero from "../../components/Errors/ErrorsHero";
+import CoreFooter from "../../components/CoreFooter";
 
 function NotFound() {
   return (

@@ -1,9 +1,9 @@
 import { useParams, Navigate } from "react-router-dom";
 
-import CoreBar from "../components/CoreBar"
-import CoursesHero from "../components/Courses/CoursesHero"
-import Lessons from "../components/Courses/Lessons"
-import CoreFooter from "../components/CoreFooter"
+import CoreBar from "../components/CoreBar";
+import CoursesHero from "../components/Courses/CoursesHero";
+import Lessons from "../components/Courses/Lessons";
+import CoreFooter from "../components/CoreFooter";
 
 import coursesData from "../data/_Courses";
 

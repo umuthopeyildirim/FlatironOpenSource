@@ -1,4 +1,4 @@
-import { Hero, Button } from "react-daisyui"
+import { Hero, Button } from "react-daisyui";
 
 function LandingHero() {
   return(

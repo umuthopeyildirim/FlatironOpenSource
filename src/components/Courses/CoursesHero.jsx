@@ -1,4 +1,4 @@
-import { Hero } from "react-daisyui"
+import { Hero } from "react-daisyui";
 
 function CoursesHero({ course }) {
   return(

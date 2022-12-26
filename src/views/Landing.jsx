@@ -1,13 +1,13 @@
-import CoreBar from "../components/CoreBar"
-import LandingHero from "../components/Landing/LandingHero"
-import Lessons from "../components/Landing/Lessons"
-import About from "../components/Landing/About"
-import Salaries from "../components/Landing/Salaries"
-import CoreFooter from "../components/CoreFooter"
+import CoreBar from "../components/CoreBar";
+import LandingHero from "../components/Landing/LandingHero";
+import Lessons from "../components/Landing/Lessons";
+import About from "../components/Landing/About";
+import Salaries from "../components/Landing/Salaries";
+import CoreFooter from "../components/CoreFooter";
 
 // Datas
-import coursesData from "../data/_Courses"
-import salariesData from "../data/_Salaries"
+import coursesData from "../data/_Courses";
+import salariesData from "../data/_Salaries";
 
 function Landing() {
 
