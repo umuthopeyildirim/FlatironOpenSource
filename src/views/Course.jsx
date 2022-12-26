@@ -28,5 +28,4 @@ function Course() {
     </div>
   )
 }
-
 export default Course;
