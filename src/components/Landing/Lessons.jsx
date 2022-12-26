@@ -6,12 +6,13 @@ function IndivudalLesson({ img, name, description, link}) {
       <Card.Image
         src={img}
         alt={name}
+        className="rounded-t-lg w-72"
       />
       <Card.Body>
         <Card.Title tag="h2">{name}</Card.Title>
         <p>{description}</p>
         <Card.Actions className="justify-end">
-          <Button href={link} color="primary">Check it out</Button>
+          <Button href={link} color="primary">Start Course</Button>
         </Card.Actions>
       </Card.Body>
     </Card>

@@ -4,7 +4,7 @@ const coursesData = [
         description: "The UX / UI product design program at Flatiron School focuses on digital product design — designing digital products such as websites, mobile applications, and computer programs.",
         slug: "product-design",
         image: "/img/Product-Design-Hero-Image-8.svg",
-        link: "/course/product-design",
+        link: "/courses/product-design",
         phases: [
             {
                 name: "Phase 1",
@@ -43,7 +43,7 @@ const coursesData = [
         description: "Become a software engineer to help businesses develop software, build web apps, and products that will help shape the future of the company.",
         slug: "software-engineering",
         image: "/img/SE-Hero-Image-2.svg",
-        link: "/course/software-engineering",
+        link: "/courses/software-engineering",
         phases: [
             {
                 name: "Prep Course",
@@ -88,7 +88,7 @@ const coursesData = [
         description: "Become a data scientist to help businesses leverage data, analyze data, and provide data-driven insights so businesses can make informed decisions.",
         slug: "data-science",
         image: "/img/DataScience.svg",
-        link: "/course/data-science",
+        link: "/courses/data-science",
         phases: [
             {
                 name: "Prep Course",
@@ -133,7 +133,7 @@ const coursesData = [
         description: "An algorithm is just a procedure that solves a problem. If you're wondering if that's any different from the work you've already been doing, we've got good news: It's not! In this reading, we'll go over the importance of solving such problems and how to approach coming up with solutions.",
         slug: "data-structures-and-algorithms",
         image: "/img/4-SE-Career.svg",
-        link: "/course/data-structures-and-algorithms",
+        link: "/courses/data-structures-and-algorithms",
         phases: [
             {
                 name: "Start Course",
