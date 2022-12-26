@@ -9,31 +9,31 @@ const coursesData = [
             {
                 name: "Phase 1",
                 description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
-                image: "/img/UX-UI-Phase-1.svg",
+                image: "/img/1.webp",
                 link: "/course/product-design/phase-1"
             },
             {
                 name: "Phase 2",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-                image: "/img/UX-UI-Phase-2.svg",
+                image: "/img/2.webp",
                 link: "/course/product-design/phase-2"
             },
             {
                 name: "Phase 3",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-                image: "/img/UX-UI-Phase-3.svg",
+                image: "/img/3.webp",
                 link: "/course/product-design/phase-3"
             },
             {
                 name: "Phase 4",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-                image: "/img/UX-UI-Phase-4.svg",
+                image: "/img/4.webp",
                 link: "/course/product-design/phase-4"
             },
             {
                 name: "Phase 5",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-                image: "/img/UX-UI-Phase-5.svg",
+                image: "/img/5.webp",
                 link: "/course/product-design/phase-5"
             }
         ]
@@ -48,37 +48,37 @@ const coursesData = [
             {
                 name: "Prep Course",
                 description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
-                image: "/img/SE-Prep-Course.svg",
+                image: "/img/prep.webp",
                 link: "/course/software-engineering/prep-course"
             },
             {
                 name: "Phase 1",
                 description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
-                image: "/img/SE-Phase-1.svg",
+                image: "/img/1.webp",
                 link: "/course/software-engineering/phase-1"
             },
             {
                 name: "Phase 2",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-                image: "/img/SE-Phase-2.svg",
+                image: "/img/2.webp",
                 link: "/course/software-engineering/phase-2"
             },
             {
                 name: "Phase 3",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-                image: "/img/SE-Phase-3.svg",
+                image: "/img/3.webp",
                 link: "/course/software-engineering/phase-3"
             },
             {
                 name: "Phase 4",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-                image: "/img/SE-Phase-4.svg",
+                image: "/img/4.webp",
                 link: "/course/software-engineering/phase-4"
             },
             {
                 name: "Phase 5",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-                image: "/img/SE-Phase-5.svg",
+                image: "/img/5.webp",
                 link: "/course/software-engineering/phase-5"
             }
         ]
@@ -93,37 +93,37 @@ const coursesData = [
             {
                 name: "Prep Course",
                 description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
-                image: "/img/SE-Prep-Course.svg",
+                image: "/img/prep.webp",
                 link: "/course/software-engineering/prep-course"
             },
             {
                 name: "Phase 1",
                 description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
-                image: "/img/SE-Phase-1.svg",
+                image: "/img/1.webp",
                 link: "/course/software-engineering/phase-1"
             },
             {
                 name: "Phase 2",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-                image: "/img/SE-Phase-2.svg",
+                image: "/img/2.webp",
                 link: "/course/software-engineering/phase-2"
             },
             {
                 name: "Phase 3",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-                image: "/img/SE-Phase-3.svg",
+                image: "/img/3.webp",
                 link: "/course/software-engineering/phase-3"
             },
             {
                 name: "Phase 4",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-                image: "/img/SE-Phase-4.svg",
+                image: "/img/4.webp",
                 link: "/course/software-engineering/phase-4"
             },
             {
                 name: "Phase 5",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-                image: "/img/SE-Phase-5.svg",
+                image: "/img/5.webp",
                 link: "/course/software-engineering/phase-5"
             }
         ]
@@ -138,7 +138,7 @@ const coursesData = [
             {
                 name: "Start Course",
                 description: "Learn the fundamanetals of data structures and algorithms.",
-                image: "/img/SE-Prep-Course.svg",
+                image: "/img/prep.webp",
                 link: "/course/data-structures-and-algorithms/start-course"
             }
         ]
