@@ -24,7 +24,7 @@ function Lessons({ coursesData }) {
     <Hero className="rounded-lg px-10 py-10">
       <div className="flex flex-col lg:flex-row lg:space-x-3 ">
         {coursesData.map((course) => (
-          <IndivudalLesson img={course.image} name={course.name} description={course.description} link={course.link} />
+          <IndivudalLesson key={course.name} img={course.image} name={course.name} description={course.description} link={course.link} />
         ))}
       </div>
     </Hero>
