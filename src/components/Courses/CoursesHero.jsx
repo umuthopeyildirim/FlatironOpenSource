@@ -13,7 +13,7 @@ function CoursesHero({ course }) {
         </div>
       </Hero.Content>
     </Hero>
-  )
+  );
 }
 
 export default CoursesHero;

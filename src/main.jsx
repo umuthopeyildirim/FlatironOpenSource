@@ -19,9 +19,10 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         {/* Landing Pages */}
         <Route path="/" element={<Landing />} />
         <Route path="/courses/:course" element={<Courses />} />
-        <Route path="/course/:course/:phase" element={<Course />}/>
+        <Route path="/course/:course/:phase" element={<Course />} />
+
         {/* Error Pages */}
-        <Route path='*' element={<NotFound />}/>
+        <Route path='*' element={<NotFound />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>

@@ -1,6 +1,5 @@
 import { useParams, Navigate } from "react-router-dom";
 
-
 import CourseTextArea from "../components/Course/CourseTextArea";
 import CoreBar from "../components/CoreBar";
 import CoreFooter from "../components/CoreFooter";
@@ -22,8 +21,8 @@ function Course() {
   return (
     <div>
       <CoreBar />
-      <CourseBreadCrumb course={course} phase = {routeParams.phase} />
-      <CourseTextArea course={course} phase = {routeParams.phase}/>
+      <CourseBreadCrumb course={course} phase={routeParams.phase} />
+      <CourseTextArea course={course} phase={routeParams.phase}/>
       <CoreFooter />
     </div>
   )
