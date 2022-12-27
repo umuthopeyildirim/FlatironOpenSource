@@ -2,7 +2,6 @@ import { Button, ButtonGroup} from "react-daisyui";
 import { BsGithub } from "react-icons/bs";
 
 function CourseTextArea({course, phase}) {
-  console.log(course)
   return(
     <div className="flex md:flex-row flex-col mx-5">
       <ButtonGroup className="md:w-60 w-full" vertical>

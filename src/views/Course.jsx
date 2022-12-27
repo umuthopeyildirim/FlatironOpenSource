@@ -1,29 +1,30 @@
+import { useState, useEffect } from "react";
 import { useParams, Navigate } from "react-router-dom";
+import { useCourses } from "../utils/Courses"
 
-import CourseTextArea from "../components/Course/CourseTextArea";
 import CoreBar from "../components/CoreBar";
-import CoreFooter from "../components/CoreFooter";
+import CourseTextArea from "../components/Course/CourseTextArea";
 import CourseBreadCrumb from "../components/Course/CourseBreadCrumb";
+import CoreFooter from "../components/CoreFooter";
 
 import coursesData from "../data/_Courses";
 
 function Course() {
   const routeParams = useParams();
+  useCourses("se-phase1");
 
   // Check if routeParams is valid by checking slug in coursesData if not redirect to 404
   const course = coursesData.find((course) => course.slug === routeParams.course);
-  if (!course) {
+  const phase = course.phases.find((phase1)=> phase1.slug === routeParams.phase)
+  if (!course || !phase) {
     return <Navigate replace to="/404" />;
   }
-
-  const phase = course.phases.find((phase1)=> phase1.slug === routeParams.phase)
-  console.log(phase)
 
   return (
     <div>
       <CoreBar />
       <CourseBreadCrumb course={course} phase={phase} />
-      <CourseTextArea course={course} phase={phase}/>
+      <CourseTextArea course={course} phase={phase} />
       <CoreFooter />
     </div>
   )

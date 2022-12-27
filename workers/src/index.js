@@ -10,10 +10,14 @@ async function handleRequest(request, env) {
   const { pathname } = new URL(request.url);
   if (pathname.startsWith("/course/")) {
     const course = pathname.split("/")[2];
-    console.log(course);
     let value = await env.COURSES.get(course);
     return new Response(JSON.stringify({ value }), {
-      headers: { "Content-Type": "application/json" }
+      headers: { 
+        "Content-Type": "application/json",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, OPTIONS",
+        "Access-Control-Allow-Headers": "*",
+      }
     });
   }
   if (pathname.startsWith("/status")) {

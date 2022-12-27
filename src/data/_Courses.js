@@ -55,42 +55,48 @@ const coursesData = [
                 slug: "prep-course",
                 description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
                 image: "/img/prep.webp",
-                link: "/course/software-engineering/prep-course"
+                link: "/course/software-engineering/prep-course",
+                key: "se-prep"
             },
             {
                 name: "Phase 1",
                 slug: "phase-1",
                 description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
                 image: "/img/1.webp",
-                link: "/course/software-engineering/phase-1"
+                link: "/course/software-engineering/phase-1",
+                key: "se-phase1"
             },
             {
                 name: "Phase 2",
                 slug: "phase-2",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
                 image: "/img/2.webp",
-                link: "/course/software-engineering/phase-2"
+                link: "/course/software-engineering/phase-2",
+                key: "se-phase2"
             },
             {
                 name: "Phase 3",
                 slug: "phase-3",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
                 image: "/img/3.webp",
-                link: "/course/software-engineering/phase-3"
+                link: "/course/software-engineering/phase-3",
+                key: "se-phase3"
             },
             {
                 name: "Phase 4",
                 slug: "phase-4",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
                 image: "/img/4.webp",
-                link: "/course/software-engineering/phase-4"
+                link: "/course/software-engineering/phase-4",
+                key: "se-phase4"
             },
             {
                 name: "Phase 5",
                 slug: "phase-5",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
                 image: "/img/5.webp",
-                link: "/course/software-engineering/phase-5"
+                link: "/course/software-engineering/phase-5",
+                key: "se-phase5"
             }
         ]
     },
@@ -106,42 +112,48 @@ const coursesData = [
                 slug: "prep-course",
                 description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
                 image: "/img/prep.webp",
-                link: "/course/data-science/prep-course"
+                link: "/course/data-science/prep-course",
+                key: "ds-prep"
             },
             {
                 name: "Phase 1",
                 slug: "phase-1",
                 description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
                 image: "/img/1.webp",
-                link: "/course/data-science/phase-1"
+                link: "/course/data-science/phase-1",
+                key: "ds-phase1"
             },
             {
                 name: "Phase 2",
                 slug: "phase-2",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
                 image: "/img/2.webp",
-                link: "/course/data-science/phase-2"
+                link: "/course/data-science/phase-2",
+                key: "ds-phase2"
             },
             {
                 name: "Phase 3",
                 slug: "phase-3",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
                 image: "/img/3.webp",
-                link: "/course/data-science/phase-3"
+                link: "/course/data-science/phase-3",
+                key: "ds-phase3"
             },
             {
                 name: "Phase 4",
                 slug: "phase-4",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
                 image: "/img/4.webp",
-                link: "/course/data-science/phase-4"
+                link: "/course/data-science/phase-4",
+                key: "ds-phase4"
             },
             {
                 name: "Phase 5",
                 slug: "phase-5",
                 description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
                 image: "/img/5.webp",
-                link: "/course/data-science/phase-5"
+                link: "/course/data-science/phase-5",
+                key: "ds-phase5"
             }
         ]
     },
@@ -157,7 +169,8 @@ const coursesData = [
                 slug: "start-course",
                 description: "Learn the fundamanetals of data structures and algorithms.",
                 image: "/img/prep.webp",
-                link: "/course/data-structures-and-algorithms/start-course"
+                link: "/course/data-structures-and-algorithms/start-course",
+                key: "data-structures-and-algorithms"
             }
         ]
     }
