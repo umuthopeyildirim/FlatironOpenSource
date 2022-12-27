@@ -8,6 +8,7 @@ import CourseBreadCrumb from "../components/Course/CourseBreadCrumb";
 import CoreFooter from "../components/CoreFooter";
 
 import coursesData from "../data/_Courses";
+import data from "../data/_Data";
 
 function Course() {
   const routeParams = useParams();

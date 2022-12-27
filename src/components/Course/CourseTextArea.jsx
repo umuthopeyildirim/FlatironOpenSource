@@ -7,7 +7,7 @@ function CourseTextArea({course, phase}) {
       <ButtonGroup className="md:w-60 w-full" vertical>
         {/* Lessons go hereeeee */}
         {course.phases.map((phase) => (
-          <Button key={phase.name} href={phase.link}>{phase.name}</Button>
+          <Button key={phase.name} size="sm" href={phase.link}>{phase.name}</Button>
         ))}
       </ButtonGroup>
       <div className="flex flex-col w-full md:ml-5 mt-2.5">
