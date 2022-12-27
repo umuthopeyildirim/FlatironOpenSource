@@ -16,8 +16,6 @@ function Course() {
     return <Navigate replace to="/404" />;
   }
 
-
-
   return (
     <div>
       <CoreBar />
