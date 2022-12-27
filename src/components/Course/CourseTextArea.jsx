@@ -1,7 +1,18 @@
 import { Button, ButtonGroup} from "react-daisyui";
 import { BsGithub } from "react-icons/bs";
+import data from "../../data/_Data";
+import { useState, useEffect } from "react";
 
 function CourseTextArea({course, phase}) {
+  const [courseModule, setCourseModule] = useState(null)
+
+  // fetch("https://workers.flatironopensource.ml/course/se-phase1")
+  // .then(res=> console.log(res))
+let testArray = data[0].modules.map((mod)=><Button onClick={()=>setCourseModule(mod.name)} key={mod.name}>{mod.name} </Button>)
+let courseModuleArray = data[0].modules.find((mod)=> mod.name === courseModule)
+// console.log(testArray)
+// console.log(courseModule)
+console.log(courseModuleArray)
   return(
     <div className="flex md:flex-row flex-col mx-5">
       <ButtonGroup className="md:w-60 w-full" vertical>
@@ -18,7 +29,12 @@ function CourseTextArea({course, phase}) {
         </div>
         <div className="mt-2">
           {/* Markdown content hereeee */}
-          {course.description}
+          <ButtonGroup className="md:w-100" vertical>
+          {testArray}
+          </ButtonGroup>
+          {courseModule!==null?courseModuleArray.name: null}
+          {courseModule!==null?courseModuleArray.items.map(data=><h1>{data.title}</h1>):null}
+        
         </div>
       </div>
     </div>

@@ -15,6 +15,7 @@
     "autoprefixer": "^10.4.13",
     "daisyui": "^2.46.0",
     "idb": "^7.1.1",
+    "indexeddb-export-import": "^2.1.5",
     "postcss": "^8.4.20",
     "react": "^18.2.0",
     "react-daisyui": "^2.5.0",
