@@ -9,7 +9,7 @@ function LandingHero() {
           <h1 className="text-5xl font-bold">
             10 years of shaping tech talent,
             <br></br> T
-            hey say...
+            They say...
           </h1>
           <p className="py-6">
             Flatiron School has been building tech talent since 2012. Their courses include software engineering, 
