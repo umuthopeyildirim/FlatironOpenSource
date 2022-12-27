@@ -10,9 +10,6 @@ function CourseTextArea({course, phase}) {
   // .then(res=> console.log(res))
 let testArray = data[0].modules.map((mod)=><Button onClick={()=>setCourseModule(mod.name)} key={mod.name}>{mod.name} </Button>)
 let courseModuleArray = data[0].modules.find((mod)=> mod.name === courseModule)
-// console.log(testArray)
-// console.log(courseModule)
-console.log(courseModuleArray)
   return(
     <div className="flex md:flex-row flex-col mx-5">
       <ButtonGroup className="md:w-60 w-full" vertical>
@@ -27,14 +24,15 @@ console.log(courseModuleArray)
           <h1 className="text-3xl font-bold">{course.name}: {phase.name}</h1>
           <Button startIcon={BsGithub} href={course.link} size="md">Fork Github</Button>
         </div>
-        <div className="mt-2">
+        <div >
           {/* Markdown content hereeee */}
           <ButtonGroup className="md:w-100" vertical>
           {testArray}
           </ButtonGroup>
+          <ButtonGroup className="md:w-100 md:ml-5 mt-2.5" vertical>
           {courseModule!==null?courseModuleArray.name: null}
-          {courseModule!==null?courseModuleArray.items.map(data=><h1>{data.title}</h1>):null}
-        
+          {courseModule!==null?courseModuleArray.items.map(data=><Button>{data.title}</Button>):null}
+          </ButtonGroup>
         </div>
       </div>
     </div>
