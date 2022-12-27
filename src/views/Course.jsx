@@ -16,11 +16,14 @@ function Course() {
     return <Navigate replace to="/404" />;
   }
 
+  const phase = course.phases.find((phase1)=> phase1.slug === routeParams.phase)
+  console.log(phase)
+
   return (
     <div>
       <CoreBar />
-      <CourseBreadCrumb course={course} phase={routeParams.phase} />
-      <CourseTextArea course={course} phase={routeParams.phase}/>
+      <CourseBreadCrumb course={course} phase={phase} />
+      <CourseTextArea course={course} phase={phase}/>
       <CoreFooter />
     </div>
   )
