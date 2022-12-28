@@ -10,8 +10,7 @@ async function handleRequest(request, env) {
   const { pathname } = new URL(request.url);
   if (pathname.startsWith("/course/")) {
     const course = pathname.split("/")[2];
-    let value = await env.COURSES.get(course);
-    return new Response(JSON.stringify({ value }), {
+    return new Response(await env.COURSES.get(course), {
       headers: { 
         "Content-Type": "application/json",
         "Access-Control-Allow-Origin": "*",
