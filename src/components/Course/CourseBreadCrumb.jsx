@@ -1,7 +1,6 @@
 import { Breadcrumbs} from "react-daisyui";
 
-function CourseBreadCrumb({course, phase}){
-
+function CourseBreadCrumb({ course, phase }){
     return(
         <Breadcrumbs className="my-3 mx-6">
             <Breadcrumbs.Item href="/">Home</Breadcrumbs.Item>
