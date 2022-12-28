@@ -1,0 +1,238 @@
+{
+    "Ruby Fundamentals": {
+        "Intro to Ruby": "https://github.com/learn-co-curriculum/phase-3-intro-to-ruby",
+        "Running Ruby Code": "https://github.com/learn-co-curriculum/phase-3-running-ruby-code",
+        "Reading Ruby Error Messages": "https://github.com/learn-co-curriculum/phase-3-reading-error-messages",
+        "Video: Data Types and Variables": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-data-types-and-variables",
+        "Common Data Types": "https://github.com/learn-co-curriculum/phase-3-common-data-types",
+        "Video: Methods and Parameters": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-methods-and-parameters",
+        "Methods": "https://github.com/learn-co-curriculum/phase-3-methods",
+        "Variable Scope": "https://github.com/learn-co-curriculum/phase-3-variable-scope",
+        "Video: Pry": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-pry",
+        "Debugging with Pry": "https://github.com/learn-co-curriculum/phase-3-debugging-with-pry",
+        "Control Flow: Operators": "https://github.com/learn-co-curriculum/phase-3-control-flow-operators",
+        "Video: Conditionals": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-conditionals",
+        "Control Flow: Conditional Statements": "https://github.com/learn-co-curriculum/phase-3-control-flow-conditional-statements",
+        "Control Flow: Loops": "https://github.com/learn-co-curriculum/phase-3-control-flow-loops",
+        "Ruby Fundamentals Quiz": "https://github.com/learn-co-curriculum/phase-3-quiz-ruby-fundamentals"
+    },
+    "Ruby Fundamentals: Arrays and Hashes": {
+        "Video: Arrays": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-arrays",
+        "Array Basics": "https://github.com/learn-co-curriculum/phase-3-array-basics",
+        "Video: Hashes": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-hashes",
+        "Hash Basics": "https://github.com/learn-co-curriculum/phase-3-hash-basics",
+        "Video: Enumerables": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-enumerables",
+        "Video: Hash Enumerables": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-hash-enumerables",
+        "Enumerables: Method Syntax": "https://github.com/learn-co-curriculum/phase-3-enumerables-syntax",
+        "Enumerables: Common Methods": "https://github.com/learn-co-curriculum/phase-3-enumerables-common-methods",
+        "Enumerables: Debugging with Pry": "https://github.com/learn-co-curriculum/phase-3-enumerables-debugging",
+        "Enumerables Lab": "https://github.com/learn-co-curriculum/phase-3-enumerables-lab",
+        "Enumerables: Iterating Over Nested Hashes": "https://github.com/learn-co-curriculum/phase-3-nested-hash-iteration",
+        "Arrays and Hashes Quiz": "https://github.com/learn-co-curriculum/phase-3-quiz-arrays-and-hashes"
+    },
+    "[Optional] Additional Practice: Ruby Fundamentals": {
+        "Methods and Return Values: Parrot Lab": "https://github.com/learn-co-curriculum/phase-3-parrot-ruby",
+        "Looping: Countdown to Midnight Lab": "https://github.com/learn-co-curriculum/phase-3-countdown-to-midnight",
+        "Arrays: Array CRUD Lab": "https://github.com/learn-co-curriculum/phase-3-array-CRUD-lab",
+        "Enumerables: Badges and Schedules Lab": "https://github.com/learn-co-curriculum/phase-3-badges-and-schedules",
+        "Enumerables: Oxford Comma Lab": "https://github.com/learn-co-curriculum/phase-3-oxford-comma",
+        "Arrays and Enumerables: Deli Counter Lab": "https://github.com/learn-co-curriculum/phase-3-deli-counter",
+        "Enumerables: Cartoon Collections Lab": "https://github.com/learn-co-curriculum/phase-3-cartoon-collections",
+        "Hashketball": "https://github.com/learn-co-curriculum/phase-3-hashketball"
+    },
+    "[Optional] Regex": {
+        "What Is A Pattern?": "https://github.com/learn-co-curriculum/phase-3-regex-what-is-a-pattern",
+        "RegEx Basics": "https://github.com/learn-co-curriculum/phase-3-regex-basics-readme",
+        "Match Scan and Grep Methods": "https://github.com/learn-co-curriculum/phase-3-regex-match-scan-grep-methods-readme",
+        "RegEx Lab": "https://github.com/learn-co-curriculum/phase-3-regex-lab"
+    },
+    "Introduction to Object-Orientation in Ruby": {
+        "Basics of Object Orientation in Ruby: Introduction": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-basics-introduction",
+        "Defining Object Orientation": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-basics-defining-object-orientation",
+        "Video: Intro to Classes": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-intro-to-classes",
+        "Classes and Instances": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-basics-classes-and-instances",
+        "Instance Methods": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-basics-instance-methods-lab",
+        "Instance Variables Code-Along": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-basics-instance-variables-lab",
+        "Video: Initialize": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-initialize",
+        "Video: Getters and Setters": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-getters-and-setters",
+        "Video: Initialize All Together": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-initialize-all-together",
+        "Setter and Getter Methods": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-basics-setter-and-getter-methods",
+        "Attribute Accessor Macros": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-basics-attribute-accessors-lab",
+        "Object Initialization": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-basics-object-initialization-lab",
+        "Putting It All Together: Object Orientation Basics": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-basics-putting-the-pieces-together-lab",
+        "Bonus: Anagram Detector Lab": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-basics-anagram-detector",
+        "Bonus: Email Parser Lab": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-basics-email-parser-lab",
+        "Principles of Object-Oriented Design": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-design-principles",
+        "Object Orientation Basics Conclusion": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-basics-conclusion",
+        "Object-Orientation Fundamentals Quiz": "https://github.com/learn-co-curriculum/phase-3-quiz-object-orientation-fundamentals"
+    },
+    "Topics in OO - Self in Ruby": {
+        "Introduction to Self": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-self-introduction",
+        "Video: Self": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-self",
+        "Self Basics": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-self-basics",
+        "Counting Sentences Lab": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-self-count-sentences-lab",
+        "Implicit Self": "https://github.com/learn-co-curriculum/phase-3-self-implicit-self",
+        "OO Person Lab": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-self-person-lab",
+        "OO Cash Register Lab": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-self-cash-register-lab",
+        "Self Quiz": "https://github.com/learn-co-curriculum/phase-3-quiz-self",
+        "Self Conclusion": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-self-conclusion"
+    },
+    "Topics in OO - Class Variables and Methods in Ruby": {
+        "Introduction to Class Variables and Class Methods": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-class-variables-introduction",
+        "Video: Class Methods": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-class-methods",
+        "Class Variables and Class Methods": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-class-variables-and-class-methods",
+        "Class Variables And Class Methods Lab": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-class-variables-and-class-methods-lab",
+        "Remembering Objects": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-class-variables-remembering-objects",
+        "Video: Private Methods": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-private-methods",
+        "Private Methods": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-class-variables-private-methods",
+        "Custom Errors": "https://github.com/learn-co-curriculum/phase-3-metaprogramming-custom-errors",
+        "Triangle Classification Lab": "https://github.com/learn-co-curriculum/phase-3-metaprogramming-triangle-classification-lab",
+        "Class Variables and Methods Quiz": "https://github.com/learn-co-curriculum/phase-3-quiz-class-variables-and-methods",
+        "Class Variables and Class Methods Conclusion": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-class-variables-conclusion"
+    },
+    "[Optional] Additional Practice: OO Ruby": {
+        "OO Tic Tac Toe": "https://github.com/learn-co-curriculum/phase-3-oo-tic-tac-toe"
+    },
+    "Topics in OO - Object Inheritance in Ruby": {
+        "Introduction to Object Inheritance": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-inheritance-introduction",
+        "Video: Inheritance": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-inheritance",
+        "Defining Object Inheritance": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-inheritance-defining-inheritance",
+        "Object Inheritance Lab": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-inheritance-inheritance-lab",
+        "Modules": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-inheritance-modules",
+        "Modules Lab": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-inheritance-modules-lab",
+        "Super": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-inheritance-super",
+        "Super Lab": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-inheritance-super-lab",
+        "Object Inheritance Quiz": "https://github.com/learn-co-curriculum/phase-3-quiz-object-inheritance",
+        "Object Inheritance Conclusion": "https://github.com/learn-co-curriculum/phase-3-ruby-oo-inheritance-conclusion"
+    },
+    "Metaprogramming in Ruby": {
+        "Introduction to Metaprogramming": "https://github.com/learn-co-curriculum/phase-3-metaprogramming-introduction",
+        "Video: Metaprogramming - Mass Assignment": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-metaprogramming---mass-assignment",
+        "Video: Metaprogramming - Define Methods": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-metaprogramming---define-methods",
+        "Keyword Arguments": "https://github.com/learn-co-curriculum/phase-3-metaprogramming-keyword-arguments-and-mass-assignment",
+        "Mass Assignment and Class Initialization": "https://github.com/learn-co-curriculum/phase-3-metaprogramming-mass-assignment-and-class-initialization",
+        "Mass Assignment Lab": "https://github.com/learn-co-curriculum/phase-3-metaprogramming-mass-assignment-lab",
+        "Mass Assignment Quiz": "https://github.com/learn-co-curriculum/phase-3-quiz-mass-assignment",
+        "Metaprogramming Conclusion": "https://github.com/learn-co-curriculum/phase-3-metaprogramming-conclusion"
+    },
+    "Configuring Ruby Applications": {
+        "Introduction to Configuring Ruby Applications": "https://github.com/learn-co-curriculum/phase-3-ruby-building-applications-introduction",
+        "Requiring Files": "https://github.com/learn-co-curriculum/phase-3-ruby-building-applications-requiring-files",
+        "Setting up an Application Environment": "https://github.com/learn-co-curriculum/phase-3-ruby-building-applications-setting-up-the-environment",
+        "Gems and Bundler": "https://github.com/learn-co-curriculum/phase-3-ruby-building-applications-gems-and-bundler"
+    },
+    "Getting Started with SQL": {
+        "Introduction to SQL": "https://github.com/learn-co-curriculum/phase-3-sql-intro-introduction",
+        "Video: Intro to SQL": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-intro-to-sql",
+        "Setting up SQLite": "https://github.com/learn-co-curriculum/phase-3-sql-setting-up-sqlite",
+        "Database Basics": "https://github.com/learn-co-curriculum/phase-3-sql-database-basics",
+        "Writing Database Commands to a File": "https://github.com/learn-co-curriculum/phase-3-sql-writing-database-commands-to-a-file",
+        "SQLite Data Types": "https://github.com/learn-co-curriculum/phase-3-sql-sqlite-data-types",
+        "Video: SQL SELECT": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-sql-select",
+        "Video: SQL CREATE TABLE": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-sql-create-table",
+        "Video: SQL INSERT": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-sql-insert",
+        "Video: SQL UPDATE and DELETE": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-sql-update-and-delete",
+        "SQL Insert, Select, Update and Delete": "https://github.com/learn-co-curriculum/phase-3-sql-select-and-update",
+        "SQL Queries": "https://github.com/learn-co-curriculum/phase-3-sql-queries",
+        "Organizing Bears Lab": "https://github.com/learn-co-curriculum/phase-3-sql-organizing-bears-lab",
+        "Aggregate Functions": "https://github.com/learn-co-curriculum/phase-3-sql-aggregate-functions-readme",
+        "SQL Quiz": "https://github.com/learn-co-curriculum/phase-3-quiz-sql",
+        "SQL Conclusion": "https://github.com/learn-co-curriculum/phase-3-sql-intro-conclusion"
+    },
+    "Table Relations in SQL": {
+        "Introduction to Table Relations in SQL": "https://github.com/learn-co-curriculum/phase-3-sql-table-relations-introduction",
+        "Relational Database Basics": "https://github.com/learn-co-curriculum/phase-3-sql-table-relations-relational-database-basics",
+        "Associating Tables with Foreign Keys": "https://github.com/learn-co-curriculum/phase-3-sql-table-relations-associating-tables-with-foreign-keys",
+        "Video: SQL Joins": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-sql-joins",
+        "SQL Joins": "https://github.com/learn-co-curriculum/phase-3-sql-table-relations-intro-to-joins",
+        "Creating Join Tables": "https://github.com/learn-co-curriculum/phase-3-sql-table-relations-creating-join-tables",
+        "Table Relations in SQL Quiz": "https://github.com/learn-co-curriculum/phase-3-quiz-table-relations-in-sql",
+        "Table Relations in SQL Conclusion": "https://github.com/learn-co-curriculum/phase-3-sql-table-relations-conclusion"
+    },
+    "Object-Relational Mapping": {
+        "Introduction to Object-Relational Mapping": "https://github.com/learn-co-curriculum/phase-3-orms-introduction",
+        "Defining Object-Relational Mapping": "https://github.com/learn-co-curriculum/phase-3-orms-defining-object-relational-mapping",
+        "Mapping Ruby Classes to a Database": "https://github.com/learn-co-curriculum/phase-3-orms-mapping-classes-to-database-tables",
+        "Converting Database Records to Ruby Objects": "https://github.com/learn-co-curriculum/phase-3-orms-mapping-database-records-to-ruby-objects",
+        "ORMs: Bringing it all Together": "https://github.com/learn-co-curriculum/phase-3-orms-bringing-it-all-together",
+        "Object-Relational Mapping Quiz": "https://github.com/learn-co-curriculum/phase-3-quiz-object-relational-mapping",
+        "Object-Relational Mapping Conclusion": "https://github.com/learn-co-curriculum/phase-3-orms-conclusion"
+    },
+    "[Optional] Advanced ORM Methods": {
+        "Video: ORMs Inheritance and Metaprogramming": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-orms-inheritance---metaprogramming",
+        "Updating Records": "https://github.com/learn-co-curriculum/phase-3-orms-updating-records",
+        "Updating Records Lab": "https://github.com/learn-co-curriculum/phase-3-orms-updating-records-lab",
+        "Find or Create By": "https://github.com/learn-co-curriculum/phase-3-orms-find-or-create-by",
+        "Dynamic ORMs": "https://github.com/learn-co-curriculum/phase-3-dynamic-orms-readme",
+        "Dynamic ORM Inheritance": "https://github.com/learn-co-curriculum/phase-3-dynamic-orm-inheritance",
+        "Dynamic ORM Lab": "https://github.com/learn-co-curriculum/phase-3-dynamic-orm-lab",
+        "Pokemon Scraper": "https://github.com/learn-co-curriculum/phase-3-orms-pokemon-scraper"
+    },
+    "Using Active Record": {
+        "Active Record Introduction": "https://github.com/learn-co-curriculum/phase-3-active-record-introduction",
+        "Active Record Mechanics": "https://github.com/learn-co-curriculum/phase-3-active-record-mechanics",
+        "Translating From ORMs to Active Record": "https://github.com/learn-co-curriculum/phase-3-active-record-translating-from-orm-to-ar",
+        "Intro to Rake": "https://github.com/learn-co-curriculum/phase-3-active-record-intro-to-rake",
+        "Video: Active Record Migrations": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-activerecord-migrations",
+        "Active Record Migrations": "https://github.com/learn-co-curriculum/phase-3-active-record-migrations",
+        "Writing Migrations": "https://github.com/learn-co-curriculum/phase-3-active-record-writing-migrations-lab",
+        "Video: Active Record Read and Create": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-active-record-read-and-create",
+        "Video: Active Record Update and Delete": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-active-record-update-and-delete",
+        "Costume Store Lab": "https://github.com/learn-co-curriculum/phase-3-active-record-costume-store-lab",
+        "Using Seed Data": "https://github.com/learn-co-curriculum/phase-3-active-record-using-seed-data",
+        "Bonus: Seeding from an API": "https://github.com/learn-co-curriculum/phase-3-active-record-seeding-from-apis",
+        "Active Record CRUD Operations Lab": "https://github.com/learn-co-curriculum/phase-3-active-record-crud-operations-lab",
+        "Active Record Querying Methods Lab": "https://github.com/learn-co-curriculum/phase-3-active-record-querying-methods-lab",
+        "Using Active Record Quiz": "https://github.com/learn-co-curriculum/phase-3-quiz-using-active-record",
+        "Active Record Conclusion": "https://github.com/learn-co-curriculum/phase-3-active-record-conclusion"
+    },
+    "Active Record Associations": {
+        "Introduction to Active Record Associations": "https://github.com/learn-co-curriculum/phase-3-active-record-associations-introduction",
+        "Video: Active Record One to Many": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-active-record-one-to-many",
+        "One To Many Associations": "https://github.com/learn-co-curriculum/phase-3-active-record-associations-one-to-many",
+        "Many To Many Associations": "https://github.com/learn-co-curriculum/phase-3-active-record-associations-many-to-many",
+        "Active Record Association Methods": "https://github.com/learn-co-curriculum/phase-3-active-record-associations-methods",
+        "Active Record TV Land Lab": "https://github.com/learn-co-curriculum/phase-3-active-record-associations-tvland-lab",
+        "Active Record Associations Quiz": "https://github.com/learn-co-curriculum/phase-3-quiz-active-record-associations"
+    },
+    "[Optional] Additional Practice: Active Record": {
+        "Phase 3 Active Record Mock Code Challenge: Freebie Tracker": "https://github.com/learn-co-curriculum/phase-3-mock-code-challenge-freebie-tracker",
+        "Practice Code Challenge Theater Work": "https://github.com/learn-co-curriculum/phase-3-active-record-theater-work"
+    },
+    "[Optional] Getting Data from Remote Sources": {
+        "Introduction to Getting Remote Data": "https://github.com/learn-co-curriculum/phase-3-getting-remote-data-introduction",
+        "Sending GET Requests": "https://github.com/learn-co-curriculum/phase-3-ruby-getting-remote-data-sending-get-requests",
+        "Working with APIs": "https://github.com/learn-co-curriculum/phase-3-getting-remote-data-working-with-apis",
+        "Getting Remote Data Lab": "https://github.com/learn-co-curriculum/phase-3-ruby-getting-remote-data-lab",
+        "Getting Remote Data Conclusion": "https://github.com/learn-co-curriculum/phase-3-getting-remote-data-conclusion"
+    },
+    "[Optional] Scraping": {
+        "Scraping HTML with Nokogiri": "https://github.com/learn-co-curriculum/phase-3-ruby-remote-data-practice-scraping",
+        "Scraping Code-Along": "https://github.com/learn-co-curriculum/phase-3-scraping-flatiron-code-along",
+        "Scraping Kickstarter": "https://github.com/learn-co-curriculum/phase-3-scraping-kickstarter"
+    },
+    "Web API Basics with Sinatra": {
+        "Introduction to Web APIs with Sinatra": "https://github.com/learn-co-curriculum/phase-3-sinatra-introduction",
+        "Video: Intro to the Internet": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-intro-to-the-internet",
+        "How The Web Works": "https://github.com/learn-co-curriculum/phase-3-how-the-web-works-readme",
+        "Web Server Fundamentals": "https://github.com/learn-co-curriculum/phase-3-web-server-fundamentals-with-rack",
+        "Video: Sinatra Intro": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-sinatra-intro",
+        "Creating a Sinatra Application": "https://github.com/learn-co-curriculum/phase-3-intro-to-sinatra",
+        "Video: Sinatra Configuration": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-sinatra-configuration",
+        "Video: Sinatra MVC": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-sinatra-mvc",
+        "Sinatra Application Structure": "https://github.com/learn-co-curriculum/phase-3-building-sinatra-applications",
+        "Video: Sinatra GET": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-sinatra-get",
+        "Sinatra with Active Record: GET Requests": "https://github.com/learn-co-curriculum/phase-3-sinatra-with-active-record-get",
+        "Sinatra with Active Record: GET Requests Lab": "https://github.com/learn-co-curriculum/phase-3-sinatra-with-active-record-get-lab",
+        "Testing APIs with Postman": "https://github.com/learn-co-curriculum/phase-3-testing-apis-with-postman",
+        "Video: Sinatra Show and Destroy": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-sinatra-show-and-destroy",
+        "Video: Sinatra Create": "https://github.com/learn-co-curriculum/phase-3-lecture-videos-sinatra-create",
+        "Sinatra with Active Record: POST/PATCH/DELETE Requests": "https://github.com/learn-co-curriculum/phase-3-sinatra-with-active-record-post-patch-delete",
+        "Sinatra with Active Record: POST/PATCH/DELETE Requests Lab": "https://github.com/learn-co-curriculum/phase-3-sinatra-with-active-record-post-patch-delete-lab",
+        "Sinatra React Lab: Chatterbox": "https://github.com/learn-co-curriculum/phase-3-chatterbox-sinatra-react-lab",
+        "Sinatra Quiz": "https://github.com/learn-co-curriculum/phase-3-quiz-sinatra"
+    },
+    "Phase 3 Project": {
+        "Phase 3 Project Guidelines": "https://github.com/learn-co-curriculum/phase-3-sinatra-react-project"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "Introduction": {
+        "Welcome to Prep!": "https://github.com/learn-co-curriculum/dsc-prework-intro",
+        "Your First Jupyter Notebook!": "https://github.com/learn-co-curriculum/dsc-prework-jupyter-notebook"
+    },
+    "Prep Pre-test": {
+        "Prep Pre-Test": "https://docs.python.org/3/library/index.html"
+    },
+    "Python Essentials": {
+        "Introduction to Variables: Variable Assignment": "https://github.com/learn-co-curriculum/dsc-variable-assignment-intro",
+        "Introduction to Variables: Strings": "https://github.com/learn-co-curriculum/dsc-strings",
+        "Introduction to Variables: Strings - Lab": "https://github.com/learn-co-curriculum/dsc-strings-lab",
+        "Introduction to Variables: Numeric Types and Booleans": "https://github.com/learn-co-curriculum/dsc-floats-ints-booleans",
+        "Introduction to Variables: Strings and Numeric Types - Lab": "https://github.com/learn-co-curriculum/dsc-strings-floats-ints-lab",
+        "Introduction to Variables: Variable Assignment - Lab": "https://github.com/learn-co-curriculum/dsc-variable-assignment-lab",
+        "Control Flow: Conditionals": "https://github.com/learn-co-curriculum/dsc-conditionals",
+        "Control Flow: Conditionals - Lab": "https://github.com/learn-co-curriculum/dsc-conditionals-lab",
+        "Working with Lists": "https://github.com/learn-co-curriculum/dsc-lists",
+        "Working with Lists - Lab": "https://github.com/learn-co-curriculum/dsc-lists-lab",
+        "Working With Dictionaries": "https://github.com/learn-co-curriculum/dsc-dictionaries",
+        "Working with Dictionaries - Lab": "https://github.com/learn-co-curriculum/dsc-dictionaries-lab",
+        "Built-in Python Operators, Functions and Methods": "https://github.com/learn-co-curriculum/dsc-python-operators-functions-and-methods",
+        "Built-in Python Operators, Functions, and Methods - Lab": "https://github.com/learn-co-curriculum/dsc-python-operators-functions-and-methods-lab",
+        "Python Essentials - Cumulative Lab": "https://github.com/learn-co-curriculum/dsc-python-essentials-lab"
+    },
+    "Python Loops & Functions": {
+        "Looping Over Collections": "https://github.com/learn-co-curriculum/dsc-looping-over-collections",
+        "Looping Over Collections - Lab": "https://github.com/learn-co-curriculum/dsc-looping-over-collections-lab",
+        "While Loops, Break and Continue": "https://github.com/learn-co-curriculum/dsc-while-loops-break-and-continue",
+        "While Loops, Break and Continue - Lab": "https://github.com/learn-co-curriculum/dsc-while-loops-break-and-continue-lab",
+        "Using Nested Loops": "https://github.com/learn-co-curriculum/dsc-using-nested-loops",
+        "Using Nested Loops - Lab": "https://github.com/learn-co-curriculum/dsc-using-nested-loops-lab",
+        "Creating Functions": "https://github.com/learn-co-curriculum/dsc-creating-functions",
+        "Creating Functions - Lab": "https://github.com/learn-co-curriculum/dsc-creating-functions-lab",
+        "Functions with Arguments": "https://github.com/learn-co-curriculum/dsc-functions-with-arguments",
+        "Functions With Arguments - Lab": "https://github.com/learn-co-curriculum/dsc-functions-with-arguments-lab",
+        "User Input and Output in Python": "https://github.com/learn-co-curriculum/dsc-user-input-and-output-in-python",
+        "Python Loops and Functions - Cumulative Lab": "https://github.com/learn-co-curriculum/dsc-python-loops-and-functions-lab"
+    },
+    "Statistical Measures": {
+        "Introduction to Numpy": "https://github.com/learn-co-curriculum/dsc-introduction-to-numpy",
+        "Getting Started with NumPy": "https://github.com/learn-co-curriculum/dsc-getting-started-with-numpy",
+        "Getting Started with NumPy - Lab": "https://github.com/learn-co-curriculum/dsc-getting-started-with-numpy-lab",
+        "Measures of Central Tendency": "https://github.com/learn-co-curriculum/dsc-measures-of-central-tendency",
+        "Measures of Dispersion": "https://github.com/learn-co-curriculum/dsc-measures-of-dispersion",
+        "Implementing Statistics with Functions - Lab": "https://github.com/learn-co-curriculum/dsc-implementing-statistics-with-functions-lab",
+        "Covariance and Correlation": "https://github.com/learn-co-curriculum/dsc-correlation-covariance",
+        "Covariance and Correlation - Lab": "https://github.com/learn-co-curriculum/dsc-correlation-covariance-lab",
+        "Statistical Measures - Cumulative Lab": "https://github.com/learn-co-curriculum/dsc-statistical-measures-lab"
+    },
+    "Data Visualization": {
+        "Data Visualization": "https://github.com/learn-co-curriculum/dsc-data-viz",
+        "Data Visualization - Lab": "https://github.com/learn-co-curriculum/dsc-data-viz-lab",
+        "Customizing Visualizations with Matplotlib": "https://github.com/learn-co-curriculum/dsc-more-practice-with-matplotlib",
+        "Customizing Visualizations with Matplotlib - Lab": "https://github.com/learn-co-curriculum/dsc-more-practice-with-matplotlib-lab",
+        "Data Visualization - Best Practices and Common Mistakes": "https://github.com/learn-co-curriculum/dsc-data-viz-best-practices-common-mistakes",
+        "Seaborn": "https://github.com/learn-co-curriculum/dsc-seaborn",
+        "Seaborn - Lab": "https://github.com/learn-co-curriculum/dsc-seaborn-lab",
+        "Data Visualization - Cumulative Lab": "https://github.com/learn-co-curriculum/dsc-data-viz-cumulative-lab"
+    },
+    "The End!": {
+        "You Have Completed the Prep!": "https://github.com/learn-co-curriculum/dsc-prework-thankyou"
+    }
+}

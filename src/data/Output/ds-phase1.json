@@ -1,0 +1,184 @@
+{
+    "Table of Contents": {
+        "Table of Contents (Live)": "modules/g853611164f15b95f60a986b6ec229fc2"
+    },
+    "Topic 0: Welcome": {
+        "Welcome": "https://github.com/learn-co-curriculum/dsc-welcome-intro"
+    },
+    "Topic 1: Getting Started with Data Science": {
+        "Topic 1 Lesson Priorities (Live)": "pages/how-to-use-lesson-priorities-live",
+        "Getting Started with Data Science - Introduction": "https://github.com/learn-co-curriculum/dsc-introduction-v2-2-intro",
+        "The Data Science Process": "https://github.com/learn-co-curriculum/dsc-the-data-science-process",
+        "Problems Data Science Can Solve": "https://github.com/learn-co-curriculum/dsc-problems-data-science-can-solve",
+        "PEP8": "https://github.com/learn-co-curriculum/dsc-PEP8",
+        "Data Privacy and Data Ethics": "https://github.com/learn-co-curriculum/dsc-data-ethics",
+        "Setting up a Professional Data Science Environment - Introduction": "https://github.com/learn-co-curriculum/dsc-data-science-env-introduction",
+        "Setting up a Professional Data Science Environment - MacOS Installation": "https://github.com/learn-co-curriculum/dsc-data-science-env-mac-installation",
+        "Setting up a Professional Data Science Environment - Windows Installation": "https://github.com/learn-co-curriculum/dsc-data-science-env-windows-installation",
+        "Setting up a Professional Data Science Environment - Configuring Git and Anaconda": "https://github.com/learn-co-curriculum/dsc-data-science-env-config",
+        "Running Jupyter Notebooks Locally": "https://github.com/learn-co-curriculum/dsc-running-jupyter-locally",
+        "Running Jupyter Notebooks Locally - Lab": "https://github.com/learn-co-curriculum/dsc-running-jupyter-locally-lab",
+        "Getting Started with Data Science - Recap": "https://github.com/learn-co-curriculum/dsc-introduction-v2-2-recap"
+    },
+    "Topic 2: Bash and Git": {
+        "Topic 2 Lesson Priorities (Live)": "pages/how-to-use-lesson-priorities-live",
+        "Bash and Git - Introduction": "https://github.com/learn-co-curriculum/dsc-git-bash-collab-intro",
+        "The Bash Shell": "https://github.com/learn-co-curriculum/dsc-bash-shell",
+        "Git Version Control 101": "https://github.com/learn-co-curriculum/dsc-git-version-control-101",
+        "Getting Started with Git": "https://github.com/learn-co-curriculum/dsc-git-intro",
+        "Git Practice": "https://github.com/learn-co-curriculum/dsc-git-practice",
+        ".gitignore": "https://github.com/learn-co-curriculum/dsc-gitignore",
+        "Collaborating with Git Branches": "https://github.com/learn-co-curriculum/dsc-git-branches",
+        "Git Merge - Lab": "https://github.com/learn-co-curriculum/dsc-git-merge-lab",
+        "Git Stash - Lab": "https://github.com/learn-co-curriculum/dsc-git-stash-lab",
+        "Git Resources": "https://github.com/learn-co-curriculum/dsc-git-resources",
+        "Bash and Git - Recap": "https://github.com/learn-co-curriculum/dsc-git-collab-recap"
+    },
+    "Topic 3: Data Analysis in Base Python": {
+        "Topic 3 Lesson Priorities (Live)": "pages/how-to-use-lesson-priorities-live",
+        "Data Analysis in Base Python - Introduction": "https://github.com/learn-co-curriculum/dsc-data-analysis-python-intro",
+        "File Input and Output in Python": "https://github.com/learn-co-curriculum/dsc-file-io",
+        "CSV": "https://github.com/learn-co-curriculum/dsc-csv",
+        "JSON": "https://github.com/learn-co-curriculum/dsc-json-v2-1",
+        "JSON - Lab": "https://github.com/learn-co-curriculum/dsc-json-lab-v2-1",
+        "Working with Known JSON Schemas": "https://github.com/learn-co-curriculum/dsc-working-with-known-json-schemas",
+        "Working with Known JSON Schemas - Lab": "https://github.com/learn-co-curriculum/dsc-working-with-known-json-schemas-lab",
+        "Exploring and Transforming JSON Schemas": "https://github.com/learn-co-curriculum/dsc-exploring-and-transforming-json-schemas",
+        "Exploring and Transforming JSON Schemas - Lab": "https://github.com/learn-co-curriculum/dsc-exploring-and-transforming-json-schemas-lab",
+        "Data Serialization Formats - Cumulative Lab": "https://github.com/learn-co-curriculum/dsc-data-serialization-lab",
+        "Data Analysis in Base Python - Recap": "https://github.com/learn-co-curriculum/dsc-data-analysis-python-recap"
+    },
+    "Topic 4: Data Analysis in Pandas": {
+        "Topic 4 Lesson Priorities (Live)": "pages/data-analysis-in-pandas-introduction",
+        "Data Analysis in Pandas - Introduction": "https://github.com/learn-co-curriculum/dsc-data-analysis-pandas-intro",
+        "Introducing Python Libraries": "https://seaborn.pydata.org/examples/index.html",
+        "Accessing Data within Pandas": "https://github.com/learn-co-curriculum/dsc-accessing-data-with-pandas",
+        "Accessing Data within Pandas - Lab": "https://github.com/learn-co-curriculum/dsc-accessing-data-with-pandas-lab",
+        "Importing Data Using Pandas": "https://github.com/learn-co-curriculum/dsc-importing-data-using-pandas",
+        "Importing Data Using Pandas - Lab": "https://github.com/learn-co-curriculum/dsc-importing-data-using-pandas-lab",
+        "Understanding Pandas Series and DataFrames": "https://github.com/learn-co-curriculum/dsc-pandas-series-and-dataframes",
+        "Understanding Pandas Series and DataFrames - Lab": "https://github.com/learn-co-curriculum/dsc-pandas-series-and-dataframes-lab",
+        "Statistical Methods in Pandas": "https://github.com/learn-co-curriculum/dsc-statistical-methods-in-pandas",
+        "Statistical Methods in Pandas - Lab": "https://github.com/learn-co-curriculum/dsc-statistical-methods-in-pandas-lab",
+        "Kaggle and The Ames Housing Dataset": "https://github.com/learn-co-curriculum/dsc-kaggle-and-boston-housing-dataset",
+        "Data Visualization with Pandas": "https://github.com/learn-co-curriculum/dsc-data-visualization-with-pandas",
+        "EDA with Pandas - Cumulative Lab": "https://github.com/learn-co-curriculum/dsc-pandas-eda-lab",
+        "Data Analysis in Pandas - Recap": "https://github.com/learn-co-curriculum/dsc-data-analysis-pandas-recap"
+    },
+    "Topic 5: Data Cleaning in Pandas": {
+        "Topic 5 Lesson Priorities (Live)": "pages/data-cleaning-in-pandas-introduction",
+        "Data Cleaning in Pandas - Introduction": "https://github.com/learn-co-curriculum/dsc-introduction-pandas-etl",
+        "Lambda Functions": "https://github.com/learn-co-curriculum/dsc-lambda-functions",
+        "Lambda Functions - Lab": "https://github.com/learn-co-curriculum/dsc-lambda-functions-lab",
+        "Dealing with Missing Data": "https://github.com/learn-co-curriculum/dsc-dealing-missing-data",
+        "Dealing with Missing Data - Lab": "https://github.com/learn-co-curriculum/dsc-dealing-missing-data-lab",
+        "More on Missing Data": "https://github.com/learn-co-curriculum/dsc-more-on-missing-data",
+        "More on Missing Data - Lab": "https://github.com/learn-co-curriculum/dsc-more-on-missing-data-lab",
+        "Pandas Groupby": "https://github.com/learn-co-curriculum/dsc-pandas-groupby",
+        "Combining DataFrames With Pandas": "https://github.com/learn-co-curriculum/dsc-combining-dataframes-pandas",
+        "Combining DataFrames With Pandas - Lab": "https://github.com/learn-co-curriculum/dsc-combining-dataframes-pandas-lab",
+        "Pivot Tables With Pandas": "https://github.com/learn-co-curriculum/dsc-pivot-tables-pandas",
+        "Pivot Tables with Pandas - Lab": "https://github.com/learn-co-curriculum/dsc-pivot-tables-pandas-lab",
+        "Pandas Data Cleaning - Cumulative Lab": "https://github.com/learn-co-curriculum/dsc-pandas-data-cleaning-lab",
+        "Data Cleaning in Pandas - Recap": "https://github.com/learn-co-curriculum/dsc-summary-data-cleaning-pandas"
+    },
+    "Topic 6: Getting Started with SQL": {
+        "Topic 6 Lesson Priorities (Live)": "pages/getting-started-with-sql-introduction",
+        "Getting Started with SQL - Introduction": "https://github.com/learn-co-curriculum/dsc-getting-started-sql-intro",
+        "Connecting to SQL Databases": "https://github.com/learn-co-curriculum/dsc-intro-to-sqlite",
+        "Selecting Data with SQL": "https://github.com/learn-co-curriculum/dsc-selecting-data-v2-4",
+        "Filtering Data with SQL": "https://github.com/learn-co-curriculum/dsc-filtering-v2-4",
+        "Filtering Data with SQL - Lab": "https://github.com/learn-co-curriculum/dsc-filtering-lab-v2-4",
+        "Ordering and Limiting Data with SQL": "https://github.com/learn-co-curriculum/dsc-ordering-and-limiting",
+        "Filtering, Ordering, and Limiting Data with SQL - Lab": "https://github.com/learn-co-curriculum/dsc-filtering-and-ordering-lab",
+        "Grouping Data with SQL": "https://github.com/learn-co-curriculum/dsc-grouping-data-with-sql",
+        "Grouping Data with SQL - Lab": "https://github.com/learn-co-curriculum/dsc-grouping-data-with-sql-lab",
+        "Database Admin 101": "https://github.com/learn-co-curriculum/dsc-database-admin-101",
+        "Database Admin 101 - Lab": "https://github.com/learn-co-curriculum/dsc-database-admin-101-lab",
+        "SQL Database Data Types": "https://github.com/learn-co-curriculum/dsc-sql-database-data-types",
+        "Getting Started with SQL - Recap": "https://github.com/learn-co-curriculum/dsc-getting-started-sql-recap"
+    },
+    "Topic 7: SQL Table Relations": {
+        "Topic 7 Lesson Priorities (Live)": "pages/sql-table-relations-introduction",
+        "SQL Table Relations - Introduction": "https://github.com/learn-co-curriculum/dsc-sql-relations-intro",
+        "Join Statements": "https://github.com/learn-co-curriculum/dsc-join-statements",
+        "Join Statements - Lab": "https://github.com/learn-co-curriculum/dsc-join-statements-lab",
+        "One-to-Many and Many-to-Many Joins": "https://github.com/learn-co-curriculum/dsc-one-to-many-and-many-to-many-joins",
+        "One-to-Many and Many-to-Many Joins - Lab": "https://github.com/learn-co-curriculum/dsc-one-to-many-and-many-to-many-joins-lab",
+        "SQL Subqueries": "https://github.com/learn-co-curriculum/dsc-sql-subqueries",
+        "SQL Subqueries - Lab": "https://github.com/learn-co-curriculum/dsc-sql-subqueries-lab",
+        "Using SQL with Pandas": "https://github.com/learn-co-curriculum/dsc-using-sql-with-pandas",
+        "Using SQL with Pandas - Lab": "https://github.com/learn-co-curriculum/dsc-using-sql-with-pandas-lab",
+        "SQL Interview Questions - Lab": "https://github.com/learn-co-curriculum/dsc-sql-interview-questions-lab",
+        "SQL - Cumulative Lab": "https://github.com/learn-co-curriculum/dsc-sql-lab",
+        "Quiz: SQL Interview Questions": "https://github.com/learn-co-curriculum/dsc-sql-interview-questions-quiz#question-1",
+        "SQL Table Relations - Recap": "https://github.com/learn-co-curriculum/dsc-sql-relations-recap"
+    },
+    "Topic 8: Other Database Structures": {
+        "Topic 8 Lesson Priorities (Live)": "pages/nosql-databases-introduction",
+        "NoSQL Databases - Introduction": "https://github.com/learn-co-curriculum/dsc-nosql-databases-section-intro",
+        "NoSQL Databases: Document Stores": "https://github.com/learn-co-curriculum/dsc-nosql-document-stores-v2-1",
+        "MongoDB": "https://github.com/learn-co-curriculum/dsc-mongodb",
+        "MongoDB - Lab": "https://github.com/learn-co-curriculum/dsc-mongodb-lab",
+        " Lecture: NoSQL": "https://github.com/flatiron-school/ds-nosql-bqs32",
+        "NoSQL Databases - Summary": "https://github.com/learn-co-curriculum/dsc-nosql-databases-section-recap-v2-1"
+    },
+    "Topic 9: APIs": {
+        "Topic 9 Lesson Priorities (Live)": "pages/apis-introduction",
+        "APIs - Introduction": "https://github.com/learn-co-curriculum/dsc-apis-intro",
+        "Introduction to APIs": "https://github.com/learn-co-curriculum/dsc-introduction-to-apis",
+        "The Client Server Model": "https://github.com/learn-co-curriculum/dsc-the-client-server-model",
+        "HTTP Request/Response Cycle - Codealong": "https://github.com/learn-co-curriculum/dsc-http-request-response-codealong",
+        "HTTP Request/Response Cycle - Lab": "https://github.com/learn-co-curriculum/dsc-http-request-response-lab",
+        "OAuth - Open Authorization": "https://github.com/learn-co-curriculum/dsc-oauth-open-authorization",
+        "Using the Yelp API - Codealong": "https://github.com/learn-co-curriculum/dsc-using-yelp-api-codealong",
+        "Reading API Documentation": "https://github.com/learn-co-curriculum/dsc-reading-api-documentation",
+        "Folium - Codealong": "https://github.com/learn-co-curriculum/dsc-folium-codealong",
+        "APIs - Cumulative Lab": "https://github.com/learn-co-curriculum/dsc-apis-lab",
+        "APIs - Recap": "https://github.com/learn-co-curriculum/dsc-apis-recap"
+    },
+    "Topic 10: HTML, CSS and Web Scraping": {
+        "Topic 10 Lesson Priorities (Live)": "pages/html-css-and-web-scraping-introduction",
+        "HTML, CSS and Web Scraping - Introduction": "https://github.com/learn-co-curriculum/dsc-html-css-scraping-intro-v2-1",
+        "HTML Introduction": "https://github.com/learn-co-curriculum/dsc-html-introduction",
+        "Researching HTML Elements": "https://github.com/learn-co-curriculum/dsc-researching-html-elements",
+        "Separating Content and Presentation": "https://github.com/learn-co-curriculum/dsc-separating-content-and-presentation",
+        "Intro to CSS": "https://github.com/learn-co-curriculum/dsc-intro-to-css",
+        "CSS Code Along": "https://github.com/learn-co-curriculum/dsc-css-code-along",
+        "My Little Rainbow": "https://github.com/learn-co-curriculum/dsc-my-little-rainbow-lab",
+        "An Introduction to Web Scraping and Beautiful Soup": "https://github.com/learn-co-curriculum/dsc-web-scraping-with-beautiful-soup",
+        "Web Scraping In Practice": "https://github.com/learn-co-curriculum/dsc-web-scraping-in-practice",
+        "Web Scraping - Lab": "https://github.com/learn-co-curriculum/dsc-web-scraping-lab",
+        "Scraping Images": "https://github.com/learn-co-curriculum/dsc-scraping-images",
+        "Scraping Concerts - Lab": "https://github.com/learn-co-curriculum/dsc-scraping-concerts-lab",
+        "HTML, CSS and Web Scraping -  Recap": "https://github.com/learn-co-curriculum/dsc-html-css-scraping-recap-v2-1"
+    },
+    "Milestones": {
+        "Practice Checkpoint": "https://github.com/learn-co-curriculum/dsc-html-css-scraping-recap-v2-1",
+        "Data Serialization Formats Checkpoint": "https://github.com/learn-co-curriculum/dsc-html-css-scraping-recap-v2-1",
+        "Phase 1 Project Description": "https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4",
+        "Repository Readability": "https://github.com/learn-co-curriculum/dsc-repo-readability-v2-2",
+        "Presentation Content": "https://github.com/learn-co-curriculum/dsc-project-presentation-content",
+        "Slide Style": "https://github.com/learn-co-curriculum/dsc-project-slide-design",
+        "Blogging Overview": "https://github.com/learn-co-curriculum/dsc-blogging-overview",
+        "Phase 1 Blog Post": "https://github.com/learn-co-curriculum/dsc-blogging-overview"
+    },
+    "APPENDIX: Pandas": {
+        "Analyzing Macbeth with Pandas": "https://github.com/learn-co-curriculum/dsc-analyzing-macbeth-project-pandas-v2-1",
+        "Subplots and Enumeration - Lab": "https://github.com/learn-co-curriculum/dsc-subplots-and-enumeration-lab"
+    },
+    "APPENDIX: Functions": {
+        "Functions Practice: Building a Calculator": "https://github.com/learn-co-curriculum/dsc-project-building-a-calculator"
+    },
+    "APPENDIX: No-SQL Databases": {
+        "NoSQL Databases": "https://github.com/learn-co-curriculum/dsc-nosql-databases"
+    },
+    "APPENDIX: XML": {
+        "XML": "https://github.com/learn-co-curriculum/dsc-xml-v2-1",
+        "XML - Lab": "https://github.com/learn-co-curriculum/dsc-xml-lab-v2-1"
+    },
+    "APPENDIX: More HTML and Scraping": {
+        "HTML5 Semantic Elements": "https://github.com/learn-co-curriculum/html5-semantic-elements-v2-1",
+        "HTML Links - Lab": "https://github.com/learn-co-curriculum/dsc-html-links-lab"
+    }
+}
