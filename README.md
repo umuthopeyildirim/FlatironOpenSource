@@ -10,31 +10,31 @@ This repo contains the lessons and labs for the Flatiron School's Open Source cu
 * [License](#license)
 
 ## Usage
-To use this repo you need to install [live-server](https://www.npmjs.com/package/live-server) and [node](https://nodejs.org/en/). Once you have those installed, you can run the following commands to start the server:
+To use this repo you need to install [node](https://nodejs.org/en/) and [yarn](https://yarnpkg.com/). Once you have those installed, you can run the following commands to start the server:
 ```bash
 yarn 
 yarn dev
 ```
 
 ## Software Engineering
-* [Software Engineering Prep](SoftwareEngineering/Software-Engineering-Prep-2022/index.html)
-* [Software Engineering Phase 1](SoftwareEngineering/Phase-1-2022/index.html)
-* [Software Engineering Phase 2](SoftwareEngineering/Phase-2-2022/index.html)
-* [Software Engineering Phase 3](SoftwareEngineering/Phase-3-2022/index.html)
-* [Software Engineering Phase 4](SoftwareEngineering/Phase-4-2022/index.html)
-* [Software Engineering Phase 5](SoftwareEngineering/Phase-5-2022/index.html)
+* [Software Engineering Prep](https://flatironopensource.ml/course/software-engineering/prep-course)
+* [Software Engineering Phase 1](https://flatironopensource.ml/course/software-engineering/phase-1)
+* [Software Engineering Phase 2](https://flatironopensource.ml/course/software-engineering/phase-2)
+* [Software Engineering Phase 3](https://flatironopensource.ml/course/software-engineering/phase-3)
+* [Software Engineering Phase 4](https://flatironopensource.ml/course/software-engineering/phase-4)
+* [Software Engineering Phase 5](Shttps://flatironopensource.ml/course/software-engineering/phase-5)
 
 
 ## Data Science
-* [Data Science Prep 2022](DataScience/Data-Science-Prep-2022/index.html)
-* [Data Science Phase 1](DataScience/Phase-1-2022/index.html)
-* [Data Science Phase 2](DataScience/Phase-2-2022/index.html)
-* [Data Science Phase 3](DataScience/Phase-3-2022/index.html)
-* [Data Science Phase 4](DataScience/Phase-4-2022/index.html)
-* [Data Science Phase 5](DataScience/Phase-5-2022/index.html)
+* [Data Science Prep 2022](https://flatironopensource.ml/course/data-science/prep-course)
+* [Data Science Phase 1](https://flatironopensource.ml/course/data-science/phase-1)
+* [Data Science Phase 2](https://flatironopensource.ml/course/data-science/phase-2)
+* [Data Science Phase 3](https://flatironopensource.ml/course/data-science/phase-3)
+* [Data Science Phase 4](https://flatironopensource.ml/course/data-science/phase-4)
+* [Data Science Phase 5](https://flatironopensource.ml/course/data-science/phase-5)
 
 ## Data Structures and Algorithms
-* [Data Structures and Algorithms](DataStructuresAndAlgorithms/index.html)
+* [Data Structures and Algorithms](https://flatironopensource.ml/course/data-structures-and-algorithms/start-course)
 
 ## Contributing
 We welcome contributions to the curriculum. Please see the [contributing guidelines](CONTRIBUTING.md) for more information.
