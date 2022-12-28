@@ -1,12 +1,8 @@
 {
-    "Table of Contents": {
-        "Table of Contents (Live)": "modules/g853611164f15b95f60a986b6ec229fc2"
-    },
     "Topic 0: Welcome": {
         "Welcome": "https://github.com/learn-co-curriculum/dsc-welcome-intro"
     },
     "Topic 1: Getting Started with Data Science": {
-        "Topic 1 Lesson Priorities (Live)": "pages/how-to-use-lesson-priorities-live",
         "Getting Started with Data Science - Introduction": "https://github.com/learn-co-curriculum/dsc-introduction-v2-2-intro",
         "The Data Science Process": "https://github.com/learn-co-curriculum/dsc-the-data-science-process",
         "Problems Data Science Can Solve": "https://github.com/learn-co-curriculum/dsc-problems-data-science-can-solve",
@@ -21,7 +17,6 @@
         "Getting Started with Data Science - Recap": "https://github.com/learn-co-curriculum/dsc-introduction-v2-2-recap"
     },
     "Topic 2: Bash and Git": {
-        "Topic 2 Lesson Priorities (Live)": "pages/how-to-use-lesson-priorities-live",
         "Bash and Git - Introduction": "https://github.com/learn-co-curriculum/dsc-git-bash-collab-intro",
         "The Bash Shell": "https://github.com/learn-co-curriculum/dsc-bash-shell",
         "Git Version Control 101": "https://github.com/learn-co-curriculum/dsc-git-version-control-101",
@@ -35,7 +30,6 @@
         "Bash and Git - Recap": "https://github.com/learn-co-curriculum/dsc-git-collab-recap"
     },
     "Topic 3: Data Analysis in Base Python": {
-        "Topic 3 Lesson Priorities (Live)": "pages/how-to-use-lesson-priorities-live",
         "Data Analysis in Base Python - Introduction": "https://github.com/learn-co-curriculum/dsc-data-analysis-python-intro",
         "File Input and Output in Python": "https://github.com/learn-co-curriculum/dsc-file-io",
         "CSV": "https://github.com/learn-co-curriculum/dsc-csv",
@@ -49,7 +43,6 @@
         "Data Analysis in Base Python - Recap": "https://github.com/learn-co-curriculum/dsc-data-analysis-python-recap"
     },
     "Topic 4: Data Analysis in Pandas": {
-        "Topic 4 Lesson Priorities (Live)": "pages/data-analysis-in-pandas-introduction",
         "Data Analysis in Pandas - Introduction": "https://github.com/learn-co-curriculum/dsc-data-analysis-pandas-intro",
         "Introducing Python Libraries": "https://seaborn.pydata.org/examples/index.html",
         "Accessing Data within Pandas": "https://github.com/learn-co-curriculum/dsc-accessing-data-with-pandas",
@@ -66,7 +59,6 @@
         "Data Analysis in Pandas - Recap": "https://github.com/learn-co-curriculum/dsc-data-analysis-pandas-recap"
     },
     "Topic 5: Data Cleaning in Pandas": {
-        "Topic 5 Lesson Priorities (Live)": "pages/data-cleaning-in-pandas-introduction",
         "Data Cleaning in Pandas - Introduction": "https://github.com/learn-co-curriculum/dsc-introduction-pandas-etl",
         "Lambda Functions": "https://github.com/learn-co-curriculum/dsc-lambda-functions",
         "Lambda Functions - Lab": "https://github.com/learn-co-curriculum/dsc-lambda-functions-lab",
@@ -83,7 +75,6 @@
         "Data Cleaning in Pandas - Recap": "https://github.com/learn-co-curriculum/dsc-summary-data-cleaning-pandas"
     },
     "Topic 6: Getting Started with SQL": {
-        "Topic 6 Lesson Priorities (Live)": "pages/getting-started-with-sql-introduction",
         "Getting Started with SQL - Introduction": "https://github.com/learn-co-curriculum/dsc-getting-started-sql-intro",
         "Connecting to SQL Databases": "https://github.com/learn-co-curriculum/dsc-intro-to-sqlite",
         "Selecting Data with SQL": "https://github.com/learn-co-curriculum/dsc-selecting-data-v2-4",
@@ -99,7 +90,6 @@
         "Getting Started with SQL - Recap": "https://github.com/learn-co-curriculum/dsc-getting-started-sql-recap"
     },
     "Topic 7: SQL Table Relations": {
-        "Topic 7 Lesson Priorities (Live)": "pages/sql-table-relations-introduction",
         "SQL Table Relations - Introduction": "https://github.com/learn-co-curriculum/dsc-sql-relations-intro",
         "Join Statements": "https://github.com/learn-co-curriculum/dsc-join-statements",
         "Join Statements - Lab": "https://github.com/learn-co-curriculum/dsc-join-statements-lab",
@@ -115,7 +105,6 @@
         "SQL Table Relations - Recap": "https://github.com/learn-co-curriculum/dsc-sql-relations-recap"
     },
     "Topic 8: Other Database Structures": {
-        "Topic 8 Lesson Priorities (Live)": "pages/nosql-databases-introduction",
         "NoSQL Databases - Introduction": "https://github.com/learn-co-curriculum/dsc-nosql-databases-section-intro",
         "NoSQL Databases: Document Stores": "https://github.com/learn-co-curriculum/dsc-nosql-document-stores-v2-1",
         "MongoDB": "https://github.com/learn-co-curriculum/dsc-mongodb",
@@ -124,7 +113,6 @@
         "NoSQL Databases - Summary": "https://github.com/learn-co-curriculum/dsc-nosql-databases-section-recap-v2-1"
     },
     "Topic 9: APIs": {
-        "Topic 9 Lesson Priorities (Live)": "pages/apis-introduction",
         "APIs - Introduction": "https://github.com/learn-co-curriculum/dsc-apis-intro",
         "Introduction to APIs": "https://github.com/learn-co-curriculum/dsc-introduction-to-apis",
         "The Client Server Model": "https://github.com/learn-co-curriculum/dsc-the-client-server-model",
@@ -138,7 +126,6 @@
         "APIs - Recap": "https://github.com/learn-co-curriculum/dsc-apis-recap"
     },
     "Topic 10: HTML, CSS and Web Scraping": {
-        "Topic 10 Lesson Priorities (Live)": "pages/html-css-and-web-scraping-introduction",
         "HTML, CSS and Web Scraping - Introduction": "https://github.com/learn-co-curriculum/dsc-html-css-scraping-intro-v2-1",
         "HTML Introduction": "https://github.com/learn-co-curriculum/dsc-html-introduction",
         "Researching HTML Elements": "https://github.com/learn-co-curriculum/dsc-researching-html-elements",

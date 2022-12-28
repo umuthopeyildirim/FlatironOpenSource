@@ -1,9 +1,5 @@
 {
-    "Table of Contents": {
-        "Table of Contents (Live)": "modules/g8aab1c17ecda1520340c32e7b2ecd632"
-    },
     "Topic 21: Object-Oriented Programming and Scikit-Learn": {
-        "Topic 21 Lesson Priorities (Live)": "pages/object-oriented-programming-introduction",
         "Object-Oriented Programming - Introduction": "https://github.com/learn-co-curriculum/dsc-oop-intro-v2-4",
         "Classes and Instances": "https://github.com/learn-co-curriculum/dsc-classes-and-instances",
         "Classes and Instances - Lab": "https://github.com/learn-co-curriculum/dsc-classes-and-instances-lab",
@@ -21,7 +17,6 @@
         "Object-Oriented Programming - Recap": "https://github.com/learn-co-curriculum/dsc-oop-recap-v2-1"
     },
     "Topic 22: Linear Algebra and Calculus": {
-        "Topic 22 Lesson Priorities (Live)": "pages/linear-algebra-and-calculus-introduction",
         "Linear Algebra and Calculus - Introduction": "https://github.com/learn-co-curriculum/dsc-linear-algebra-and-calculus-intro",
         "Motivation for Linear Algebra in Data Science": "https://github.com/learn-co-curriculum/dsc-lingalg-motivation",
         "Systems of Linear Equations": "https://github.com/learn-co-curriculum/dsc-lingalg-linear-equations",
@@ -49,7 +44,6 @@
         "Linear Algebra and Calculus - Recap": "https://github.com/learn-co-curriculum/dsc-linear-algebra-and-calculus-recap"
     },
     "Topic 23: Machine Learning Fundamentals": {
-        "Topic 23 Lesson Priorities (Live)": "pages/machine-learning-fundamentals-introduction",
         "Machine Learning Fundamentals - Introduction": "https://github.com/learn-co-curriculum/dsc-ml-fundamentals-intro",
         "Data Science Processes": "https://github.com/learn-co-curriculum/dsc-data-science-processes",
         "Statistical Learning Theory": "https://github.com/learn-co-curriculum/dsc-stat-learning-theory-v2-5",
@@ -67,7 +61,6 @@
         "Machine Learning Fundamentals - Recap": "https://github.com/learn-co-curriculum/dsc-ml-fundamentals-recap"
     },
     "Topic 24: Logistic Regression": {
-        "Topic 24 Lesson Priorities (Live)": "pages/logistic-regression-introduction",
         "Logistic Regression - Introduction": "https://github.com/learn-co-curriculum/dsc-logistic-regression-intro-v2-4",
         "Introduction to Supervised Learning": "https://github.com/learn-co-curriculum/dsc-intro-to-supervised-learning-v2-1",
         "Linear to Logistic regression": "https://github.com/learn-co-curriculum/dsc-linear-to-logistic-regression",
@@ -82,7 +75,6 @@
         "Logistic Regression - Recap": "https://github.com/learn-co-curriculum/dsc-logistic-regression-recap"
     },
     "Topic 25: Classification Metrics": {
-        "Topic 25 Lesson Priorities (Live)": "pages/classification-metrics-introduction",
         "Classification Metrics - Introduction": "https://github.com/learn-co-curriculum/dsc-classification-metrics-intro",
         "Confusion Matrices": "https://github.com/learn-co-curriculum/dsc-confusion-matrices",
         "Visualizing Confusion Matrices - Lab": "https://github.com/learn-co-curriculum/dsc-visualizing-confusion-matrices-lab",
@@ -97,7 +89,6 @@
         "Classification Metrics - Recap": "https://github.com/learn-co-curriculum/dsc-classification-metrics-recap"
     },
     "Topic 26: Decision Trees": {
-        "Topic 26 Lesson Priorities (Live)": "pages/decision-trees-introduction",
         "Decision Trees - Introduction": "https://github.com/learn-co-curriculum/dsc-decision-trees-section-intro",
         "Introduction to Decision Trees": "https://github.com/learn-co-curriculum/dsc-introduction-to-decision-trees",
         "Entropy and Information Gain": "https://github.com/learn-co-curriculum/dsc-entropy-and-information-gain",
@@ -112,7 +103,6 @@
         "Decision Trees - Recap": "https://github.com/learn-co-curriculum/dsc-decision-trees-section-recap"
     },
     "Topic 27: K Nearest Neighbors": {
-        "Topic 27 Lesson Priorities (Live)": "pages/k-nearest-neighbors-introduction",
         "K-Nearest Neighbors - Introduction": "https://github.com/learn-co-curriculum/dsc-knn-intro",
         "Distance Metrics": "https://github.com/learn-co-curriculum/dsc-distance-metrics",
         "Distance Metrics - Lab": "https://github.com/learn-co-curriculum/dsc-distance-metrics-lab",
@@ -125,7 +115,6 @@
         "K-Nearest Neighbors - Recap": "https://github.com/learn-co-curriculum/dsc-knn-recap"
     },
     "Topic 28: Bayes Classification": {
-        "Topic 28 Lesson Priorities (Live)": "pages/bayesian-classification-introduction",
         "Bayesian Classification - Introduction": "https://github.com/learn-co-curriculum/dsc-bayesian-classification-intro-v2-1",
         "Classifiers with Bayes": "https://github.com/learn-co-curriculum/dsc-classifiers-with-bayes",
         "Gaussian Naive Bayes": "https://github.com/learn-co-curriculum/dsc-gaussian-naive-bayes",
@@ -135,7 +124,6 @@
         "Bayesian Classification - Recap": "https://github.com/learn-co-curriculum/dsc-bayesian-classification-recap-v2-1"
     },
     "Topic 29: Model Tuning and Pipelines": {
-        "Topic 29 Lesson Priorities (Live)": "pages/model-tuning-and-pipelines-introduction",
         "Model Tuning and Pipelines - Introduction": "https://github.com/learn-co-curriculum/dsc-tuning-pipelines-intro",
         "GridSearchCV": "https://github.com/learn-co-curriculum/dsc-gridsearchcv",
         "Introduction to Pipelines": "https://github.com/learn-co-curriculum/dsc-pipelines-v2-1",
@@ -146,7 +134,6 @@
         "Model Tuning and Pipelines - Recap": "https://github.com/learn-co-curriculum/dsc-tuning-pipelines-recap"
     },
     "Topic 30: Ensemble Methods": {
-        "Topic 30 Lesson Priorities (Live)": "pages/ensemble-methods-introduction",
         "Ensemble Methods - Introduction": "https://github.com/learn-co-curriculum/dsc-ensemble-methods-section-intro",
         "Ensemble Methods": "https://github.com/learn-co-curriculum/dsc-ensemble-methods",
         "Random Forests": "https://github.com/learn-co-curriculum/dsc-random-forests",
@@ -163,8 +150,7 @@
         "Checkpoints": "https://github.com/learn-co-curriculum/dsc-ensemble-methods-section-recap",
         "Phase 3 Project Description": "https://github.com/learn-co-curriculum/dsc-phase-3-project-v2-3",
         "Phase 3 Project - Choosing a Dataset": "https://github.com/learn-co-curriculum/dsc-phase-3-choosing-a-dataset",
-        "Blogging Overview": "https://github.com/learn-co-curriculum/dsc-blogging-overview",
-        "Phase 3 Blog Post": "pages/blogging-overview"
+        "Blogging Overview": "https://github.com/learn-co-curriculum/dsc-blogging-overview"
     },
     "APPENDIX: More OOP": {
         "Object Oriented Attributes with Functions": "https://github.com/learn-co-curriculum/dsc-object-oriented-attributes-with-functions",

@@ -1,9 +1,5 @@
 {
-    "Table of Contents": {
-        "Table of Contents (Live)": "modules/g8fce6d71a575d2af7420c33d7e867605"
-    },
     "Topic 11: Combinatorics and Probability": {
-        "Topic 11 Lesson Priorities (Live)": "modules/items/g8caf1a10b965867f5f79be86046e6bb4",
         "Combinatorics and Probability - Introduction": "https://github.com/learn-co-curriculum/dsc-probability-section-intro",
         "What is Probability?": "https://github.com/learn-co-curriculum/dsc-probability-introduction",
         "Introduction to Sets": "https://github.com/learn-co-curriculum/dsc-intro-to-sets",
@@ -22,7 +18,6 @@
         "Combinatorics and Probability - Recap": "https://github.com/learn-co-curriculum/dsc-probability-section-recap"
     },
     "Topic 12: Statistical Distributions": {
-        "Topic 12 Lesson Priorities (Live)": "modules/items/g0e27c104655c046dee7adbc7cd39efb0",
         "Statistical Distributions - Introduction": "https://github.com/learn-co-curriculum/dsc-distributions-intro-v2-2",
         "Introduction to Sampling": "https://github.com/learn-co-curriculum/dsc-introduction-to-sampling",
         "Statistical Distributions and Their Use Cases": "https://github.com/learn-co-curriculum/dsc-stat-distributions-use-cases",
@@ -43,7 +38,6 @@
         "Statistical Distributions - Recap": "https://github.com/learn-co-curriculum/dsc-distributions-recap-v2-2"
     },
     "Topic 13: Central Limit Theorem and Confidence Intervals": {
-        "Topic 13 Lesson Priorities (Live)": "modules/items/g21a5de24febebc52622c2ea95a4f26b3",
         "Central Limit Theorem and Confidence Intervals - Introduction": "https://github.com/learn-co-curriculum/dsc-confidence-intervals-intro-v2-2",
         "Central Limit Theorem": "https://github.com/learn-co-curriculum/dsc-central-limit-theorem",
         "Central Limit Theorem - Lab": "https://github.com/learn-co-curriculum/dsc-central-limit-theorem-lab",
@@ -55,7 +49,6 @@
         "Central Limit Theorem and Confidence Intervals - Recap": "https://github.com/learn-co-curriculum/dsc-inferential-statistics-section-recap"
     },
     "Topic 14: Hypothesis Testing": {
-        "Topic 14 Lesson Priorities (Live)": "pages/hypothesis-testing-introduction",
         "Hypothesis Testing - Introduction": "https://github.com/learn-co-curriculum/dsc-hypothesis-testing-intro-v2-1",
         "Introduction to Experimental Design": "https://github.com/learn-co-curriculum/dsc-experimental-design",
         "Statistical Testing with z-score and p-value": "https://github.com/learn-co-curriculum/dsc-z-score-p-value",
@@ -72,7 +65,6 @@
         "Hypothesis Testing - Recap": "https://github.com/learn-co-curriculum/dsc-hypothesis-testing-section-recap-v2-1"
     },
     "Topic 15: Statistical Power and ANOVA": {
-        "Topic 15 Lesson Priorities (Live)": "pages/statistical-power-and-anova-introduction",
         "Statistical Power and ANOVA -  Introduction": "https://github.com/learn-co-curriculum/dsc-statistical-power-anova-introduction",
         "Effect Size": "https://github.com/learn-co-curriculum/dsc-effect-sizes",
         "Statistical Power": "https://github.com/learn-co-curriculum/dsc-statistical-power",
@@ -91,7 +83,6 @@
         "Statistical Power and ANOVA - Recap": "https://github.com/learn-co-curriculum/dsc-statistical-power-anova-recap"
     },
     "Topic 16: AB Testing": {
-        "Topic 16 Lesson Priorities (Live)": "pages/ab-testing-introduction",
         "AB Testing - Introduction": "https://github.com/learn-co-curriculum/dsc-ab-testing-introduction",
         "A/B Testing": "https://github.com/learn-co-curriculum/dsc-ab-testing",
         "A/B Testing - Lab": "https://github.com/learn-co-curriculum/dsc-ab-testing-lab",
@@ -100,7 +91,6 @@
         "AB Testing - Recap": "https://github.com/learn-co-curriculum/dsc-ab-testing-recap"
     },
     "Topic 17: Bayesian Statistics": {
-        "Topic 17 Lesson Priorities (Live)": "pages/bayesian-statistics-introduction",
         "Bayesian Statistics - Introduction": "https://github.com/learn-co-curriculum/dsc-bayesian-stats-introduction",
         "Bayesians vs Frequentists": "https://github.com/learn-co-curriculum/dsc-bayesians-vs-frequentists",
         "Bayes' Theorem": "https://github.com/learn-co-curriculum/dsc-bayes-theorem",
@@ -111,7 +101,6 @@
         "Bayesian Statistics - Recap": "https://github.com/learn-co-curriculum/dsc-bayesian-stats-recap"
     },
     "Topic 18: Introduction to Linear Regression": {
-        "Topic 18 Lesson Priorities (Live)": "pages/introduction-to-linear-regression-introduction",
         "Introduction to Linear Regression - Introduction": "https://github.com/learn-co-curriculum/dsc-linear-regression-section-intro-v2-5",
         "Statistical Modeling": "https://github.com/learn-co-curriculum/dsc-statistical-modeling",
         "Simple Linear Regression from Scratch - Codealong": "https://github.com/learn-co-curriculum/dsc-linear-regression-from-scratch",
@@ -122,7 +111,6 @@
         "Introduction to Linear Regression - Recap": "https://github.com/learn-co-curriculum/dsc-linear-regression-section-recap-v2-5"
     },
     "Topic 19: Multiple Linear Regression": {
-        "Topic 19 Lesson Priorities (Live)": "pages/multiple-linear-regression-introduction",
         "Multiple Linear Regression - Introduction": "https://github.com/learn-co-curriculum/dsc-multiple-regression-intro",
         "Multiple Linear Regression": "https://github.com/learn-co-curriculum/dsc-multiple-linear-regression",
         "Multiple Linear Regression in StatsModels": "https://github.com/learn-co-curriculum/dsc-multiple-linear-regression-in-statsmodels-v2-5",
@@ -135,7 +123,6 @@
         "Multiple Linear Regression - Recap": "https://github.com/learn-co-curriculum/dsc-multiple-regression-recap"
     },
     "Topic 20: Regression Diagnostics": {
-        "Topic 20 Lesson Priorities (Live)": "pages/regression-diagnostics-introduction",
         "Regression Diagnostics - Introduction": "https://github.com/learn-co-curriculum/dsc-regression-diagnostics-intro",
         "Linear Transformations": "https://github.com/learn-co-curriculum/dsc-linear-transformations",
         "Linear Transformations - Lab": "https://github.com/learn-co-curriculum/dsc-linear-transformations-lab",
@@ -158,8 +145,7 @@
         "Checkpoints": "https://github.com/learn-co-curriculum/dsc-regression-diagnostics-recap",
         "Phase 2 Project Description": "https://github.com/learn-co-curriculum/dsc-phase-2-project-v2-3",
         "Phase 2 Project - PDFs": "https://github.com/learn-co-curriculum/dsc-canvas-pdf-instructions",
-        "Blogging Overview": "https://github.com/learn-co-curriculum/dsc-blogging-overview",
-        "Phase 2 Blog Post": "pages/blogging-overview"
+        "Blogging Overview": "https://github.com/learn-co-curriculum/dsc-blogging-overview"
     },
     "APPENDIX: Combinatorics": {
         "Combinatorics: Recursive Functions": "https://github.com/learn-co-curriculum/dsc-recursive-functions",

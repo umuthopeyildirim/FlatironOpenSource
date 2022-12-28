@@ -1,9 +1,5 @@
 {
-    "Table of Contents": {
-        "Table of Contents (Live)": "modules/g7c67143d69f51335e99562b32712bfd8"
-    },
     "Topic 31: Principal Component Analysis": {
-        "Topic 31 Lesson Priorities (Live)": "pages/pca-introduction",
         "PCA - Introduction": "https://github.com/learn-co-curriculum/dsc-pca-introduction",
         "Unsupervised Learning": "https://github.com/learn-co-curriculum/dsc-unsupervised-learning",
         "The Curse of Dimensionality": "https://github.com/learn-co-curriculum/dsc-curse-of-dimensionality",
@@ -20,7 +16,6 @@
         "PCA - Recap": "https://github.com/learn-co-curriculum/dsc-pca-summary"
     },
     "Topic 32: Recommendation Systems": {
-        "Topic 32 Lesson Priorities (Live)": "pages/recommendation-systems-introduction",
         "Recommendation Systems - Introduction": "https://github.com/learn-co-curriculum/dsc-recommender-section-intro",
         "Introduction to Recommendation Systems": "https://github.com/learn-co-curriculum/dsc-recommendation-system-introduction",
         "Collaborative Filtering with Singular Value Decomposition": "https://github.com/learn-co-curriculum/dsc-collaborative-filtering-singular-value-decomposition",
@@ -31,7 +26,6 @@
         "Recommendation Systems - Recap": "https://github.com/learn-co-curriculum/dsc-recommendation-section-recap"
     },
     "Topic 33: Clustering": {
-        "Topic 33 Lesson Priorities (Live)": "pages/short-video-calculating-a-silhouette-coefficient",
         "Clustering - Introduction": "https://github.com/learn-co-curriculum/dsc-clustering-intro",
         "K-means Clustering": "https://github.com/learn-co-curriculum/dsc-k-means-clustering",
         "K-means Clustering - Lab": "https://github.com/learn-co-curriculum/dsc-k-means-clustering-lab",
@@ -44,7 +38,6 @@
         "Clustering - Recap": "https://github.com/learn-co-curriculum/dsc-clustering-recap"
     },
     "Topic 34: Exploring Time Series Data": {
-        "Topic 34 Lesson Priorities (Live)": "pages/exploring-time-series-data-introduction",
         "Exploring Time Series Data - Introduction": "https://github.com/learn-co-curriculum/dsc-time-series-section-intro",
         "Introduction to Time Series": "https://github.com/learn-co-curriculum/dsc-introduction-to-time-series",
         "Managing Time Series Data - Lab": "https://github.com/learn-co-curriculum/dsc-managing-time-series-data-lab",
@@ -57,7 +50,6 @@
         "Exploring Time Series Data - Recap": "https://github.com/learn-co-curriculum/dsc-time-series-section-recap"
     },
     "Topic 35: Modeling Time Series Data": {
-        "Topic 35 Lesson Priorities (Live)": "pages/modeling-time-series-data-introduction",
         "Modeling Time Series Data - Introduction": "https://github.com/learn-co-curriculum/dsc-time-series-models-introduction",
         "Basic Time Series Models": "https://github.com/learn-co-curriculum/dsc-basic-time-series-models",
         "Basic Time Series Models - Lab": "https://github.com/learn-co-curriculum/dsc-basic-time-series-models-lab",
@@ -69,7 +61,6 @@
         "Modeling Time Series Data - Recap": "https://github.com/learn-co-curriculum/dsc-time-series-models-section-recap"
     },
     "Topic 36: Big Data and (Py)Spark": {
-        "Topic 36 Lesson Priorities (Live)": "pages/big-data-and-py-spark-introduction",
         "Big Data and (Py)Spark - Introduction": "https://github.com/learn-co-curriculum/dsc-big-data-pyspark-intro",
         "Introduction to Big Data": "https://github.com/learn-co-curriculum/dsc-big-data-introduction",
         "Parallel and Distributed Computing with MapReduce": "https://github.com/learn-co-curriculum/dsc-parallel-and-distributed-computing-with-mapreduce",
@@ -85,7 +76,6 @@
         "Big Data and (Py)Spark - Recap": "https://github.com/learn-co-curriculum/dsc-big-data-pyspark-recap"
     },
     "Topic 37: Natural Language Processing": {
-        "Topic 37 Lesson Priorities (Live)": "pages/natural-language-processing-introduction",
         "Natural Language Processing - Introduction": "https://github.com/learn-co-curriculum/dsc-nlp-section-intro",
         "NLP and Word Vectorization": "https://github.com/learn-co-curriculum/dsc-nlp-and-word-vectorization",
         "Word Vectorization - Lab": "https://github.com/learn-co-curriculum/dsc-word-vectorization-lab",
@@ -101,7 +91,6 @@
         "Natural Language Processing - Recap": "https://github.com/learn-co-curriculum/dsc-nlp-section-recap"
     },
     "Topic 38: Neural Networks": {
-        "Topic 38 Lesson Priorities (Live)": "pages/neural-networks-introduction",
         "Neural Networks - Introduction": "https://github.com/learn-co-curriculum/dsc-neural-nets-intro-v2-4",
         "Introduction to Neural Networks": "https://github.com/learn-co-curriculum/dsc-introduction-to-neural-networks",
         "Introduction to Neural Networks - Lab": "https://github.com/learn-co-curriculum/dsc-introduction-to-neural-networks-lab",
@@ -114,7 +103,6 @@
         "Neural Networks - Recap": "https://github.com/learn-co-curriculum/dsc-neural-nets-recap-v2-4"
     },
     "Topic 39: Tuning Neural Networks": {
-        "Topic 39 Lesson Priorities (Live)": "pages/tuning-neural-networks-introduction",
         "Tuning Neural Networks - Introduction": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-intro-v2-4",
         "Tuning Neural Networks with Regularization": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-with-regularization",
         "Tuning Neural Networks with Regularization - Lab": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-with-regularization-lab-v2-1",
@@ -129,8 +117,6 @@
         "Tuning Neural Networks - Recap": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-recap-v2-4"
     },
     "Topic 40: Amazon Web Services": {
-        "Topic 40 Lesson Priorities (Live)": "pages/amazon-web-services-introduction",
-        "Amazon Web Services - Introduction": "https://github.com/learn-co-curriculum/dsc-productionizing-machine-learning-models-section-intro",
         "Cloud Computing": "https://github.com/learn-co-curriculum/dsc-cloud-computing",
         "The AWS Ecosystem": "https://github.com/learn-co-curriculum/dsc-the-aws-ecosystem",
         "Amazon Simple Storage Service (S3)": "https://github.com/learn-co-curriculum/dsc-aws-s3",
@@ -149,8 +135,7 @@
         "Code Challenge": "https://github.com/learn-co-curriculum/dsc-productionizing-machine-learning-models-section-recap",
         "Phase 4 Project Description": "https://github.com/learn-co-curriculum/dsc-phase-4-project-v2-3",
         "Phase 4 Project - Choosing a Dataset": "https://github.com/learn-co-curriculum/dsc-phase-4-choosing-a-dataset",
-        "Blogging Overview": "https://github.com/learn-co-curriculum/dsc-blogging-overview",
-        "Phase 4 Blog Post": "pages/blogging-overview"
+        "Blogging Overview": "https://github.com/learn-co-curriculum/dsc-blogging-overview"
     },
     "APPENDIX: More Time Series": {
         "Time Series: SARIMA Models - Lab": "https://github.com/learn-co-curriculum/dsc-sarima-models-lab",
