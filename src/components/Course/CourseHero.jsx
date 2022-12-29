@@ -28,7 +28,7 @@ function CourseHero({ course, phase, phaseData }) {
           </ButtonGroup>
           <ButtonGroup className="md:w-100 w-full md:ml-5 mt-2.5" vertical>
             {courseModule!==null?courseModuleArray.name: null}
-            {courseModule!==null?courseModuleArray.items.map(data=><Button key={data.title} href={data.content}>{data.title}     ➡️<BsGithub /> Github</Button>):null}
+            {courseModule!==null?courseModuleArray.items.map(data=><Button key={data.title} startIcon={<BsGithub />} href={data.content}>{data.title}</Button>):null}
           </ButtonGroup>
         </div>
       </div>
