@@ -15,7 +15,7 @@ function CoreFooter(){
                 <Footer.Title>Lessons</Footer.Title>
                 <a href="/courses/software-engineering" className="link link-hover">Software Engineering</a>
                 <a href="/courses/data-science" className="link link-hover">Data Science</a>
-                <a href="/courses/product-design" className="link link-hover">Product Design</a>
+                {/* <a href="/courses/product-design" className="link link-hover">Product Design</a> */}
                 <a href="/courses/data-structures-and-algorithms" className="link link-hover">Data Structures and Algorithms</a>
             </div>
             <div>
