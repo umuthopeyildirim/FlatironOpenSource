@@ -1,0 +1,10 @@
+name = "your_project_name"
+main = "src/index.js" # or "src/index.ts" if you are using TypeScript
+compatibility_date = "2022-12-24" # check out this page for more info: https://developers.cloudflare.com/workers/platform/compatibility-dates
+
+account_id = "your_account_id"
+workers_dev = true
+
+kv_namespaces = [
+  { binding = "your_kv_binding", id = "your_KV_id" } # check out this page for more info: https://developers.cloudflare.com/workers/runtime-apis/kv
+]
