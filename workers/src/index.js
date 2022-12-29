@@ -14,14 +14,24 @@ async function handleRequest(request, env) {
       headers: { 
         "Content-Type": "application/json",
         "Access-Control-Allow-Origin": "*",
-        "Access-Control-Allow-Methods": "GET, OPTIONS",
+        "Access-Control-Allow-Methods": "GET",
         "Access-Control-Allow-Headers": "*",
       }
     });
   }
   if (pathname.startsWith("/status")) {
     const httpStatusCode = Number(pathname.split("/")[2]);
-    return Number.isInteger(httpStatusCode) ? fetch("https://http.cat/" + httpStatusCode) : new Response("That's not a valid HTTP status code.");
+    return Number.isInteger(httpStatusCode) 
+    ? 
+      fetch("https://http.cat/" + httpStatusCode) 
+    : 
+      new Response("That's not a valid HTTP status code.", {
+        headers: { 
+          "Content-Type": "application/json",
+          "Access-Control-Allow-Origin": "https://flatironopensource.ml",
+          "Access-Control-Allow-Methods": "GET",
+        }
+      });
   }
-  return fetch("https://flatironopensource.ml/404");
+  return new Response("Hello! Welcome to Flatiron School's Workers! \n This is our backend API. \n To get started, try visiting /course/$course_key or /status/200.");
 }
