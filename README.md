@@ -6,9 +6,9 @@ This repo contains the lessons and labs for the Flatiron School's Open Source cu
 * [Software Engineering](#software-engineering)
 * [Data Structures and Algorithms](#data-structures-and-algorithms)
 * [Data Science](#data-science)
+* [Workers README](workers/README.md)
 * [Contributing](#contributing)
 * [License](#license)
-
 ## Usage
 To use this repo you need to install [node](https://nodejs.org/en/) and [yarn](https://yarnpkg.com/). Once you have those installed, you can run the following commands to start the server:
 ```bash
