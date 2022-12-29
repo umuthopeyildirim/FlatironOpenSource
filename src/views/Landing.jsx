@@ -4,6 +4,7 @@ import Lessons from "../components/Landing/Lessons";
 import About from "../components/Landing/About";
 import Salaries from "../components/Landing/Salaries";
 import CoreFooter from "../components/CoreFooter";
+import SalaryAbout from "../components/Landing/SalaryAbout";
 
 // Datas
 import coursesData from "../data/_Courses";
@@ -22,6 +23,7 @@ function Landing() {
         <About />
       </div>
       <div id="salaries">
+        <SalaryAbout />
         {salariesData.map((salary) => (
           <Salaries key={salary.money} img={salary.img} imgAlt={salary.imgAlt} money={salary.money} title={salary.title} description={salary.description} />
         ))}

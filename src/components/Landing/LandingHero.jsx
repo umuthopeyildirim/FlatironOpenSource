@@ -4,19 +4,25 @@ function LandingHero() {
   return(
     <Hero>
       <Hero.Overlay />
-      <Hero.Content className="text-center md:flex md:shrink-0">
+      <Hero.Content className="flex flex-col md:flex-row text-center">
         <div className="max-w-md">
           <h1 className="text-5xl font-bold">
-            10 years of shaping tech talent,
-            <br></br> They say...
+            Flatiron School Open Source
+            <br></br> 
           </h1>
           <p className="py-6">
-            Flatiron School has been building tech talent since 2012. Their courses include software engineering, 
-            cybersecurity, data science, and product design.<br></br> They say, so here all of them for free!
+            Flatiron School Open Source is a hub for bootcamp graduates to have efficient access to course modules, lessons, and data. Use the app as a refresher, learn something new, or get ready for interviews. 
+           <br></br> 
           </p>
+          <p>
+          Software Engineering, Data Science, and Data Structures & Algorithms are curently available.
+            Product Design and Cybersecurity will be released in the near future.
+            </p>
+            <br></br>
+            <p>
           <Button href="/#lessons" color="accent">Check out their lessons</Button>
+          </p>
           <br></br>
-          <span>For free ;)</span>
         </div>
       </Hero.Content>
     </Hero>
