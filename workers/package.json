@@ -1,11 +1,9 @@
 {
-  "name": "flatironopensource",
-  "version": "0.0.1",
+  "name": "flatironopensource-workers",
+  "description": "Flatiron Open Source Workers for course data we hold on our backend.",
+  "version": "1.0.0",
   "devDependencies": {
     "wrangler": "2.6.2"
   },
-  "private": true,
-  "dependencies": {
-    "workers-qb": "^0.1.2"
-  }
+  "private": false
 }

@@ -13,16 +13,16 @@ function CoreFooter(){
             </div>
             <div>
                 <Footer.Title>Lessons</Footer.Title>
-                <a href="/course/software-engineering" className="link link-hover">Software Engineering</a>
-                <a href="/course/data-science" className="link link-hover">Data Science</a>
-                <a href="/course/product-design" className="link link-hover">Product Design</a>
-                <a href="/course/data-structures-and-algorithms" className="link link-hover">Data Structures and Algorithms</a>
+                <a href="/courses/software-engineering" className="link link-hover">Software Engineering</a>
+                <a href="/courses/data-science" className="link link-hover">Data Science</a>
+                {/* <a href="/courses/product-design" className="link link-hover">Product Design</a> */}
+                <a href="/courses/data-structures-and-algorithms" className="link link-hover">Data Structures and Algorithms</a>
             </div>
             <div>
                 <Footer.Title>Company</Footer.Title>
                 <a href="/#about" className="link link-hover">About</a>
                 <a href="/#salaries" className="link link-hover">Salaries</a>
-                <a href="/#newsletter" className="link link-hover">Newsletter</a>
+                {/* <a href="/#newsletter" className="link link-hover">Newsletter</a> */}
             </div>
         </Footer>
     );
