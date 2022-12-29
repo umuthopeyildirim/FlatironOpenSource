@@ -27,7 +27,7 @@ function Courses() {
       </div>
       <CoreFooter />
     </div>
-  )
+  );
 }
 
 export default Courses;

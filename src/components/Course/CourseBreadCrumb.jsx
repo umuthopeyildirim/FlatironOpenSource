@@ -1,4 +1,4 @@
-import { Breadcrumbs} from "react-daisyui";
+import { Breadcrumbs } from "react-daisyui";
 
 function CourseBreadCrumb({ course, phase }){
     return(

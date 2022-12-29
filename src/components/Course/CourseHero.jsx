@@ -1,15 +1,13 @@
 import { useState } from "react";
 import { Button, ButtonGroup } from "react-daisyui";
-import { BsGithub } from "react-icons/bs";
 
 function CourseHero({ course, phase, phaseData }) {
   const [courseModule, setCourseModule] = useState(null)
 
-  console.log(phaseData)
   let testArray = phaseData.modules.map((mod)=>
     <Button onClick={()=>setCourseModule(mod.name)} key={mod.name}>{mod.name}</Button>
-  )
-  let courseModuleArray = phaseData.modules.find((mod)=> mod.name === courseModule)
+  );
+  let courseModuleArray = phaseData.modules.find((mod)=> mod.name === courseModule);
 
   return(
     <div className="flex md:flex-row flex-col mx-5">

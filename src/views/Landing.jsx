@@ -28,7 +28,7 @@ function Landing() {
       </div>
       <CoreFooter />
     </div>
-  )
+  );
 }
 
 export default Landing;

@@ -1,6 +1,6 @@
 import { Hero, Card, Button } from "react-daisyui";
 
-function IndivudalLesson({ img, name, description, link}) {
+function IndivudalLesson({ img, name, description, link }) {
   return (
     <Card bordered className="max-w-xs mt-6">
       <Card.Image

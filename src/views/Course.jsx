@@ -34,6 +34,7 @@ function Course() {
       })
     }
   },[])
+
   return (
     <div>
       <CoreBar />
@@ -41,6 +42,6 @@ function Course() {
       {phaseData && <CourseHero course={course} phase={phase} phaseData={phaseData}/>}
       <CoreFooter />
     </div>
-  )
+  );
 }
 export default Course;
