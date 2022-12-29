@@ -9,13 +9,17 @@ import coursesData from "../data/_Courses";
 
 function Course() {
   const routeParams = useParams();
-
+  console.log(routeParams)
   // Check if routeParams is valid by checking slug in coursesData if not redirect to 404
   const course = coursesData.find((course) => course.slug === routeParams.course);
   const phase = course.phases.find((phase1)=> phase1.slug === routeParams.phase)
   if (!course || !phase) {
     return <Navigate replace to="/404" />;
   }
+
+
+  fetch('https://workers.flatironopensource.ml/course/se-phase4')
+  .then(res=>console.log(res.json()))
 
   return (
     <div>

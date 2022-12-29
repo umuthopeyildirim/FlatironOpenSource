@@ -33,7 +33,7 @@ let courseModuleArray = data[0].modules.find((mod)=> mod.name === courseModule)
           {testArray}
           </ButtonGroup>
           <ButtonGroup className="md:w-100 w-full md:ml-5 mt-2.5" vertical>
-          <h1 className="text-3xl">{courseModule!==null?courseModuleArray.name: null}</h1>
+          {courseModule!==null?courseModuleArray.name: null}
           {courseModule!==null?courseModuleArray.items.map(data=><Button>{data.title}</Button>):null}
           </ButtonGroup>
         </div>
