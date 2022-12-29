@@ -12,7 +12,7 @@ function LandingHero() {
           </h1>
           <p className="py-6">
             Flatiron School has been building tech talent since 2012. Their courses include software engineering, 
-            cybersecurity, data science, and product design.<br></br> They say so here all of them for free!
+            cybersecurity, data science, and product design.<br></br> They say, so here all of them for free!
           </p>
           <Button href="/#lessons" color="accent">Check out their lessons</Button>
           <br></br>

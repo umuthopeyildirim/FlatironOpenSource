@@ -22,7 +22,7 @@ function CoreFooter(){
                 <Footer.Title>Company</Footer.Title>
                 <a href="/#about" className="link link-hover">About</a>
                 <a href="/#salaries" className="link link-hover">Salaries</a>
-                <a href="/#newsletter" className="link link-hover">Newsletter</a>
+                {/* <a href="/#newsletter" className="link link-hover">Newsletter</a> */}
             </div>
         </Footer>
     );

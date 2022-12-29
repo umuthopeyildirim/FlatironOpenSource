@@ -33,5 +33,5 @@ async function handleRequest(request, env) {
         }
       });
   }
-  return new Response("Hello! Welcome to Flatiron School's Workers! \n This is our backend API. \n To get started, try visiting /course/$course_key or /status/200.");
+  return new Response("Hello! Welcome to Flatiron School's Workers! \nThis is our backend API. \nTo get started, try visiting /course/$course_key or /status/200. \nHere's the list of courses for $course_key: \nse-prep\nse-phase1\nse-phase2\nse-phase3\nse-phase4\nse-phase5\nds-prep\nds-phase1\nds-phase2\nds-phase3\nds-phase4\nds-phase5\ndata-structures-and-algorithms");
 }
