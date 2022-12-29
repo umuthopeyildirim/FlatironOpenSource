@@ -1,179 +1,673 @@
 {
-    "Topic 31: Principal Component Analysis": {
-        "PCA - Introduction": "https://github.com/learn-co-curriculum/dsc-pca-introduction",
-        "Unsupervised Learning": "https://github.com/learn-co-curriculum/dsc-unsupervised-learning",
-        "The Curse of Dimensionality": "https://github.com/learn-co-curriculum/dsc-curse-of-dimensionality",
-        "The Curse of Dimensionality - Lab": "https://github.com/learn-co-curriculum/dsc-curse-of-dimensionality-lab",
-        "Principal Component Analysis in scikit-learn": "https://github.com/learn-co-curriculum/dsc-pca-in-scikitlearn",
-        "Principal Component Analysis in scikit-learn - Lab": "https://github.com/learn-co-curriculum/dsc-pca-in-scikitlearn-lab",
-        "Integrating PCA in Pipelines - Lab": "https://github.com/learn-co-curriculum/dsc-pca-and-pipelines-v2-1",
-        "PCA for Facial Image Recognition": "https://github.com/learn-co-curriculum/dsc-pca-and-digital-image-processing",
-        "Image Recognition with PCA - Lab": "https://github.com/learn-co-curriculum/dsc-pca-and-digital-image-processing-lab",
-        "PCA Background: Covariance Matrix and Eigendecomposition": "https://github.com/learn-co-curriculum/dsc-pca-covariance-matrix-eigendecomp",
-        "Performing Principal Component Analysis (PCA)": "https://github.com/learn-co-curriculum/dsc-performing-principle-component-analysis",
-        "Performing Principal Component Analysis (PCA) - Lab": "https://github.com/learn-co-curriculum/dsc-pca-numpy-lab",
-        "Dimensionality Reduction - Cumulative Lab": "https://github.com/learn-co-curriculum/dsc-dimensionality-reduction-lab",
-        "PCA - Recap": "https://github.com/learn-co-curriculum/dsc-pca-summary"
-    },
-    "Topic 32: Recommendation Systems": {
-        "Recommendation Systems - Introduction": "https://github.com/learn-co-curriculum/dsc-recommender-section-intro",
-        "Introduction to Recommendation Systems": "https://github.com/learn-co-curriculum/dsc-recommendation-system-introduction",
-        "Collaborative Filtering with Singular Value Decomposition": "https://github.com/learn-co-curriculum/dsc-collaborative-filtering-singular-value-decomposition",
-        "Matrix Factorization with Alternating Least Squares": "https://github.com/learn-co-curriculum/dsc-matrix-factorization-als",
-        " Lecture: Singular Value Decomposition (SVD)": "https://github.com/flatiron-school/ds-singular_value_decomposition-kvo32",
-        "Implementing Recommendation Engines with Surprise": "https://github.com/learn-co-curriculum/dsc-implementing-recommender-systems",
-        "Implementing Recommender Systems - Lab": "https://github.com/learn-co-curriculum/dsc-implementing-recommender-systems-lab",
-        "Recommendation Systems - Recap": "https://github.com/learn-co-curriculum/dsc-recommendation-section-recap"
-    },
-    "Topic 33: Clustering": {
-        "Clustering - Introduction": "https://github.com/learn-co-curriculum/dsc-clustering-intro",
-        "K-means Clustering": "https://github.com/learn-co-curriculum/dsc-k-means-clustering",
-        "K-means Clustering - Lab": "https://github.com/learn-co-curriculum/dsc-k-means-clustering-lab",
-        "Hierarchical Agglomerative Clustering": "https://github.com/learn-co-curriculum/dsc-hierarchical-agglomerative-clustering",
-        "Common Problems with Clustering Algorithms": "https://github.com/learn-co-curriculum/dsc-common-problems-with-clustering",
-        "Hierarchical Agglomerative Clustering - Codealong": "https://github.com/learn-co-curriculum/dsc-hierarchical-agglomerative-clustering-codealong",
-        "Semi-Supervised Learning and Look-Alike Models": "https://github.com/learn-co-curriculum/dsc-semi-supervised-learning-and-look-alike-models",
-        "Market Segmentation with Clustering": "https://github.com/learn-co-curriculum/dsc-market-segmentation-clustering",
-        "Market Segmentation with Clustering - Lab": "https://github.com/learn-co-curriculum/dsc-market-segmentation-clustering-lab",
-        "Clustering - Recap": "https://github.com/learn-co-curriculum/dsc-clustering-recap"
-    },
-    "Topic 34: Exploring Time Series Data": {
-        "Exploring Time Series Data - Introduction": "https://github.com/learn-co-curriculum/dsc-time-series-section-intro",
-        "Introduction to Time Series": "https://github.com/learn-co-curriculum/dsc-introduction-to-time-series",
-        "Managing Time Series Data - Lab": "https://github.com/learn-co-curriculum/dsc-managing-time-series-data-lab",
-        "Visualizing Time Series Data - Lab": "https://github.com/learn-co-curriculum/dsc-visualizing-time-series-data-lab",
-        "Types of Trends": "https://github.com/learn-co-curriculum/dsc-types-of-trends",
-        "Testing for Trends - Lab": "https://github.com/learn-co-curriculum/dsc-testing-for-trends-lab",
-        "Removing Trends": "https://github.com/learn-co-curriculum/dsc-removing-trends",
-        "Removing Trends - Lab": "https://github.com/learn-co-curriculum/dsc-removing-trends-lab",
-        "Time Series Decomposition": "https://github.com/learn-co-curriculum/dsc-time-series-decomposition",
-        "Exploring Time Series Data - Recap": "https://github.com/learn-co-curriculum/dsc-time-series-section-recap"
-    },
-    "Topic 35: Modeling Time Series Data": {
-        "Modeling Time Series Data - Introduction": "https://github.com/learn-co-curriculum/dsc-time-series-models-introduction",
-        "Basic Time Series Models": "https://github.com/learn-co-curriculum/dsc-basic-time-series-models",
-        "Basic Time Series Models - Lab": "https://github.com/learn-co-curriculum/dsc-basic-time-series-models-lab",
-        "Correlation and Autocorrelation in Time Series": "https://github.com/learn-co-curriculum/dsc-corr-autocorr-in-time-series",
-        "Correlation and Autocorrelation in Time Series - Lab": "https://github.com/learn-co-curriculum/dsc-corr-autocorr-in-time-series-lab",
-        "ARMA Models": "https://github.com/learn-co-curriculum/dsc-arma-models",
-        "ARMA Models in StatsModels": "https://github.com/learn-co-curriculum/dsc-arma-models-statsmodels",
-        "ARMA Models in StatsModels - Lab": "https://github.com/learn-co-curriculum/dsc-arma-models-statsmodels-lab",
-        "Modeling Time Series Data - Recap": "https://github.com/learn-co-curriculum/dsc-time-series-models-section-recap"
-    },
-    "Topic 36: Big Data and (Py)Spark": {
-        "Big Data and (Py)Spark - Introduction": "https://github.com/learn-co-curriculum/dsc-big-data-pyspark-intro",
-        "Introduction to Big Data": "https://github.com/learn-co-curriculum/dsc-big-data-introduction",
-        "Parallel and Distributed Computing with MapReduce": "https://github.com/learn-co-curriculum/dsc-parallel-and-distributed-computing-with-mapreduce",
-        "(Py)Spark Basics": "https://github.com/learn-co-curriculum/dsc-spark-basics",
-        "Installing and Configuring PySpark with Docker": "https://github.com/learn-co-curriculum/dsc-spark-docker-installation",
-        "Understanding SparkContext - Codealong": "https://github.com/learn-co-curriculum/dsc-sparkcontext",
-        "Resilient Distributed Datasets (RDDs) - Lab": "https://github.com/learn-co-curriculum/dsc-resilient-distributed-datasets-rdd-lab",
-        "Word Count with MapReduce - Lab": "https://github.com/learn-co-curriculum/dsc-word-count-with-map-reduce-lab",
-        "Spark DataFrames": "https://github.com/learn-co-curriculum/dsc-spark-dataframes",
-        "Machine Learning with Spark": "https://github.com/learn-co-curriculum/dsc-machine-learning-with-spark-v2-4",
-        "Machine Learning with Spark - Lab": "https://github.com/learn-co-curriculum/dsc-machine-learning-with-spark-lab",
-        "Building a Recommendation System in PySpark - Lab": "https://github.com/learn-co-curriculum/als-recommender-system-pyspark-lab",
-        "Big Data and (Py)Spark - Recap": "https://github.com/learn-co-curriculum/dsc-big-data-pyspark-recap"
-    },
-    "Topic 37: Natural Language Processing": {
-        "Natural Language Processing - Introduction": "https://github.com/learn-co-curriculum/dsc-nlp-section-intro",
-        "NLP and Word Vectorization": "https://github.com/learn-co-curriculum/dsc-nlp-and-word-vectorization",
-        "Word Vectorization - Lab": "https://github.com/learn-co-curriculum/dsc-word-vectorization-lab",
-        "Introduction to NLP with NLTK": "https://github.com/learn-co-curriculum/dsc-introduction-to-nltk",
-        "Introduction to Regular Expressions": "https://github.com/learn-co-curriculum/dsc-introduction-to-regular-expressions",
-        "Regular Expressions - Codealong": "https://github.com/learn-co-curriculum/dsc-regular-expressions-codealong",
-        "Feature Engineering for Text Data": "https://github.com/learn-co-curriculum/dsc-feature-engineering-for-text-data",
-        "Corpus Statistics - Lab": "https://github.com/learn-co-curriculum/dsc-corpus-statistics-lab",
-        "Context-Free Grammars and POS Tagging": "https://github.com/learn-co-curriculum/dsc-context-free-grammars-and-POS-tagging",
-        "Context-Free Grammars - Codealong": "https://github.com/learn-co-curriculum/dsc-context-free-grammars-codealong",
-        "Text Classification": "https://github.com/learn-co-curriculum/dsc-text-classification",
-        "Text Classification - Cumulative Lab": "https://github.com/learn-co-curriculum/dsc-nlp-lab",
-        "Natural Language Processing - Recap": "https://github.com/learn-co-curriculum/dsc-nlp-section-recap"
-    },
-    "Topic 38: Neural Networks": {
-        "Neural Networks - Introduction": "https://github.com/learn-co-curriculum/dsc-neural-nets-intro-v2-4",
-        "Introduction to Neural Networks": "https://github.com/learn-co-curriculum/dsc-introduction-to-neural-networks",
-        "Introduction to Neural Networks - Lab": "https://github.com/learn-co-curriculum/dsc-introduction-to-neural-networks-lab",
-        "Introduction to Keras": "https://github.com/learn-co-curriculum/dsc-introduction-to-keras",
-        "Keras - Lab": "https://github.com/learn-co-curriculum/dsc-introduction-to-keras-lab",
-        "Deeper Neural Networks": "https://github.com/learn-co-curriculum/dsc-deeper-neural-networks",
-        "Deeper Neural Networks - Lab": "https://github.com/learn-co-curriculum/dsc-deeper-neural-networks-lab",
-        "Image Classification with Multi-Layer Perceptrons": "https://github.com/learn-co-curriculum/dsc-image-classification-with-mlps",
-        "Image Classification with MLPs - Lab": "https://github.com/learn-co-curriculum/dsc-image-classification-with-mlps-lab",
-        "Neural Networks - Recap": "https://github.com/learn-co-curriculum/dsc-neural-nets-recap-v2-4"
-    },
-    "Topic 39: Tuning Neural Networks": {
-        "Tuning Neural Networks - Introduction": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-intro-v2-4",
-        "Tuning Neural Networks with Regularization": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-with-regularization",
-        "Tuning Neural Networks with Regularization - Lab": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-with-regularization-lab-v2-1",
-        "Tuning Neural Networks with Normalization": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-with-normalization",
-        "Tuning Neural Networks with Normalization - Lab": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-with-normalization-lab-v2-1",
-        "Tuning and Optimizing Neural Networks - Lab": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-from-start-to-finish-lab-v2-1",
-        "Convolutional Neural Networks": "https://github.com/learn-co-curriculum/dsc-convolutional-neural-networks",
-        "Convolutional Neural Networks - Codealong": "https://github.com/learn-co-curriculum/dsc-convolutional-neural-networks-codealong",
-        "Building a CNN from Scratch - Lab": "https://github.com/learn-co-curriculum/dsc-building-a-cnn-from-scratch",
-        "Visualizing Intermediate Activations": "https://github.com/learn-co-curriculum/dsc-visualizing-intermediate-activations",
-        "Visualizing Activation Functions - Lab": "https://github.com/learn-co-curriculum/dsc-visualizing-activation-functions-lab",
-        "Tuning Neural Networks - Recap": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-recap-v2-4"
-    },
-    "Topic 40: Amazon Web Services": {
-        "Cloud Computing": "https://github.com/learn-co-curriculum/dsc-cloud-computing",
-        "The AWS Ecosystem": "https://github.com/learn-co-curriculum/dsc-the-aws-ecosystem",
-        "Amazon Simple Storage Service (S3)": "https://github.com/learn-co-curriculum/dsc-aws-s3",
-        "Introduction to Amazon SageMaker": "https://github.com/learn-co-curriculum/dsc-introduction-to-aws-sagemaker",
-        "Data Science and Machine Learning Engineering": "https://github.com/learn-co-curriculum/dsc-data-science-and-machine-learning-engineering",
-        "Introduction to Flask": "https://github.com/learn-co-curriculum/dsc-flask-intro",
-        "Deploying a Model with Flask": "https://github.com/learn-co-curriculum/dsc-flask-deployment",
-        "Introduction to Dash": "https://github.com/learn-co-curriculum/dsc-dash-intro",
-        "Deploying a Model with Dash": "https://github.com/learn-co-curriculum/dsc-dash-deployment",
-        "Productionizing a Model with Docker and SageMaker": "https://github.com/learn-co-curriculum/dsc-productionizing-models-with-sagemaker",
-        "Amazon Web Services - Recap": "https://github.com/learn-co-curriculum/dsc-productionizing-machine-learning-models-section-recap"
-    },
-    "Milestones": {
-        "CODE ASSESSMENTS": "https://github.com/learn-co-curriculum/dsc-productionizing-machine-learning-models-section-recap",
-        "Checkpoints": "https://github.com/learn-co-curriculum/dsc-productionizing-machine-learning-models-section-recap",
-        "Code Challenge": "https://github.com/learn-co-curriculum/dsc-productionizing-machine-learning-models-section-recap",
-        "Phase 4 Project Description": "https://github.com/learn-co-curriculum/dsc-phase-4-project-v2-3",
-        "Phase 4 Project - Choosing a Dataset": "https://github.com/learn-co-curriculum/dsc-phase-4-choosing-a-dataset",
-        "Blogging Overview": "https://github.com/learn-co-curriculum/dsc-blogging-overview"
-    },
-    "APPENDIX: More Time Series": {
-        "Time Series: SARIMA Models - Lab": "https://github.com/learn-co-curriculum/dsc-sarima-models-lab",
-        "Time Series: Facebook Prophet - Lab": "https://github.com/learn-co-curriculum/dsc-facebook-prophet-lab"
-    },
-    "APPENDIX: Graph Theory (Recommendation Systems)": {
-        "Graph Theory - Introduction": "https://github.com/learn-co-curriculum/dsc-network-introduction",
-        "Introduction to Graph Theory": "https://github.com/learn-co-curriculum/dsc-intro-graph-theory",
-        "Introduction to NetworkX": "https://github.com/learn-co-curriculum/dsc-networkX-intro",
-        "Introduction to NetworkX - Lab": "https://github.com/learn-co-curriculum/dsc-networkX-intro-lab",
-        "Simple and Shortest Paths": "https://github.com/learn-co-curriculum/dsc-graph-theory-shortest-path",
-        "Simple and Shortest Paths - Lab": "https://github.com/learn-co-curriculum/dsc-graph-theory-shortest-path-lab",
-        "Node Centrality": "https://github.com/learn-co-curriculum/dsc-node-centrality",
-        "Node Centrality - Lab": "https://github.com/learn-co-curriculum/dsc-node-centrality-lab",
-        "Network Clustering": "https://github.com/learn-co-curriculum/dsc-network-clustering",
-        "Network Clustering - Lab": "https://github.com/learn-co-curriculum/dsc-network-clustering-lab",
-        "Network Connectivity:  Community Detection -Lab": "https://github.com/learn-co-curriculum/dsc-network-community-detection-lab",
-        "Recommendation Systems": "https://github.com/learn-co-curriculum/dsc-network-recommendation-systems",
-        "Amazon Recommendation System - Lab": "https://github.com/learn-co-curriculum/dsc-network-recomendation-systems-lab",
-        "Graph Theory - Recap": "https://github.com/learn-co-curriculum/dsc-networks-recap"
-    },
-    "APPENDIX: Transfer Learning (Image Classification)": {
-        "Transfer Learning - Introduction": "https://github.com/learn-co-curriculum/dsc-transfer-learning-intro",
-        "Using Pretrained Networks": "https://github.com/learn-co-curriculum/dsc-using-pretrained-networks",
-        "Using Pretrained Networks - Codealong": "https://github.com/learn-co-curriculum/dsc-using-pretrained-networks-codealong",
-        "Image Classification - Lab": "https://github.com/learn-co-curriculum/dsc-image-classification-lab",
-        "Transfer Learning - Recap": "https://github.com/learn-co-curriculum/dsc-transfer-learning-recap"
-    },
-    "APPENDIX: Deep NLP": {
-        "Deep NLP with Word Embeddings - Introduction": "https://github.com/learn-co-curriculum/dsc-deep-nlp-intro",
-        "Word Embeddings": "https://github.com/learn-co-curriculum/dsc-word-embeddings",
-        "Using Word2Vec": "https://github.com/learn-co-curriculum/dsc-using-word2vec",
-        "Generating Word Embeddings - Lab": "https://github.com/learn-co-curriculum/dsc-generating-word-embeddings-lab",
-        "Classification with Word Embeddings": "https://github.com/learn-co-curriculum/dsc-classification-with-word-embeddings",
-        "Classification with Word Embeddings - Codealong": "https://github.com/learn-co-curriculum/dsc-classification-with-word-embeddings-codealong",
-        "Sequence Model Use Cases": "https://github.com/learn-co-curriculum/dsc-sequence-model-use-cases",
-        "Understanding Recurrent Neural Networks": "https://github.com/learn-co-curriculum/dsc-understanding-recurrent-neural-networks",
-        "LSTMs and GRUs": "https://github.com/learn-co-curriculum/dsc-lstms-and-grus",
-        "Deep NLP with Word Embeddings - Recap": "https://github.com/learn-co-curriculum/dsc-deep-nlp-recap"
-    }
+    "title": "Phase 4",
+    "modules": [
+        {
+            "name": "Topic 31: Principal Component Analysis",
+            "items": [
+                {
+                    "title": "PCA - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-pca-introduction"
+                },
+                {
+                    "title": "Unsupervised Learning",
+                    "content": "https://github.com/learn-co-curriculum/dsc-unsupervised-learning"
+                },
+                {
+                    "title": "The Curse of Dimensionality",
+                    "content": "https://github.com/learn-co-curriculum/dsc-curse-of-dimensionality"
+                },
+                {
+                    "title": "The Curse of Dimensionality - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-curse-of-dimensionality-lab"
+                },
+                {
+                    "title": "Principal Component Analysis in scikit-learn",
+                    "content": "https://github.com/learn-co-curriculum/dsc-pca-in-scikitlearn"
+                },
+                {
+                    "title": "Principal Component Analysis in scikit-learn - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-pca-in-scikitlearn-lab"
+                },
+                {
+                    "title": "Integrating PCA in Pipelines - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-pca-and-pipelines-v2-1"
+                },
+                {
+                    "title": "PCA for Facial Image Recognition",
+                    "content": "https://github.com/learn-co-curriculum/dsc-pca-and-digital-image-processing"
+                },
+                {
+                    "title": "Image Recognition with PCA - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-pca-and-digital-image-processing-lab"
+                },
+                {
+                    "title": "PCA Background: Covariance Matrix and Eigendecomposition",
+                    "content": "https://github.com/learn-co-curriculum/dsc-pca-covariance-matrix-eigendecomp"
+                },
+                {
+                    "title": "Performing Principal Component Analysis (PCA)",
+                    "content": "https://github.com/learn-co-curriculum/dsc-performing-principle-component-analysis"
+                },
+                {
+                    "title": "Performing Principal Component Analysis (PCA) - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-pca-numpy-lab"
+                },
+                {
+                    "title": "Dimensionality Reduction - Cumulative Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-dimensionality-reduction-lab"
+                },
+                {
+                    "title": "PCA - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-pca-summary"
+                }
+            ]
+        },
+        {
+            "name": "Topic 32: Recommendation Systems",
+            "items": [
+                {
+                    "title": "Recommendation Systems - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-recommender-section-intro"
+                },
+                {
+                    "title": "Introduction to Recommendation Systems",
+                    "content": "https://github.com/learn-co-curriculum/dsc-recommendation-system-introduction"
+                },
+                {
+                    "title": "Collaborative Filtering with Singular Value Decomposition",
+                    "content": "https://github.com/learn-co-curriculum/dsc-collaborative-filtering-singular-value-decomposition"
+                },
+                {
+                    "title": "Matrix Factorization with Alternating Least Squares",
+                    "content": "https://github.com/learn-co-curriculum/dsc-matrix-factorization-als"
+                },
+                {
+                    "title": "Lecture: Singular Value Decomposition (SVD)",
+                    "content": "https://github.com/flatiron-school/ds-singular_value_decomposition-kvo32"
+                },
+
+                {
+                    "title": "Implementing Recommendation Engines with Surprise",
+                    "content": "https://github.com/learn-co-curriculum/dsc-implementing-recommender-systems"
+                },
+                {
+                    "title": "Implementing Recommender Systems - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-implementing-recommender-systems-lab"
+                },
+                {
+                    "title": "Recommendation Systems - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-recommendation-section-recap"
+                }
+            ]
+        },
+        {
+            "name": "Topic 33: Clustering",
+            "items": [
+                {
+                    "title": "Clustering - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-clustering-intro"
+                },
+                {
+                    "title": "K-means Clustering",
+                    "content": "https://github.com/learn-co-curriculum/dsc-k-means-clustering"
+                },
+                {
+                    "title": "K-means Clustering - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-k-means-clustering-lab"
+                },
+                {
+                    "title": "Hierarchical Agglomerative Clustering",
+                    "content": "https://github.com/learn-co-curriculum/dsc-hierarchical-agglomerative-clustering"
+                },
+                {
+                    "title": "Common Problems with Clustering Algorithms",
+                    "content": "https://github.com/learn-co-curriculum/dsc-common-problems-with-clustering"
+                },
+                {
+                    "title": "Hierarchical Agglomerative Clustering - Codealong",
+                    "content": "https://github.com/learn-co-curriculum/dsc-hierarchical-agglomerative-clustering-codealong"
+                },
+                {
+                    "title": "Semi-Supervised Learning and Look-Alike Models",
+                    "content": "https://github.com/learn-co-curriculum/dsc-semi-supervised-learning-and-look-alike-models"
+                },
+                {
+                    "title": "Market Segmentation with Clustering",
+                    "content": "https://github.com/learn-co-curriculum/dsc-market-segmentation-clustering"
+                },
+                {
+                    "title": "Market Segmentation with Clustering - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-market-segmentation-clustering-lab"
+                },
+                {
+                    "title": "Clustering - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-clustering-recap"
+                }
+            ]
+        },
+        {
+            "name": "Topic 34: Exploring Time Series Data",
+            "items": [
+                {
+                    "title": "Exploring Time Series Data - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-time-series-section-intro"
+                },
+                {
+                    "title": "Introduction to Time Series",
+                    "content": "https://github.com/learn-co-curriculum/dsc-introduction-to-time-series"
+                },
+                {
+                    "title": "Managing Time Series Data - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-managing-time-series-data-lab"
+                },
+                {
+                    "title": "Visualizing Time Series Data - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-visualizing-time-series-data-lab"
+                },
+                {
+                    "title": "Types of Trends",
+                    "content": "https://github.com/learn-co-curriculum/dsc-types-of-trends"
+                },
+                {
+                    "title": "Testing for Trends - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-testing-for-trends-lab"
+                },
+                {
+                    "title": "Removing Trends",
+                    "content": "https://github.com/learn-co-curriculum/dsc-removing-trends"
+                },
+                {
+                    "title": "Removing Trends - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-removing-trends-lab"
+                },
+                {
+                    "title": "Time Series Decomposition",
+                    "content": "https://github.com/learn-co-curriculum/dsc-time-series-decomposition"
+                },
+                {
+                    "title": "Exploring Time Series Data - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-time-series-section-recap"
+                }
+            ]
+        },
+        {
+            "name": "Topic 35: Modeling Time Series Data",
+            "items": [
+                {
+                    "title": "Modeling Time Series Data - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-time-series-models-introduction"
+                },
+                {
+                    "title": "Basic Time Series Models",
+                    "content": "https://github.com/learn-co-curriculum/dsc-basic-time-series-models"
+                },
+                {
+                    "title": "Basic Time Series Models - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-basic-time-series-models-lab"
+                },
+                {
+                    "title": "Correlation and Autocorrelation in Time Series",
+                    "content": "https://github.com/learn-co-curriculum/dsc-corr-autocorr-in-time-series"
+                },
+                {
+                    "title": "Correlation and Autocorrelation in Time Series - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-corr-autocorr-in-time-series-lab"
+                },
+                {
+                    "title": "ARMA Models",
+                    "content": "https://github.com/learn-co-curriculum/dsc-arma-models"
+                },
+                {
+                    "title": "ARMA Models in StatsModels",
+                    "content": "https://github.com/learn-co-curriculum/dsc-arma-models-statsmodels"
+                },
+                {
+                    "title": "ARMA Models in StatsModels - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-arma-models-statsmodels-lab"
+                },
+                {
+                    "title": "Modeling Time Series Data - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-time-series-models-section-recap"
+                }
+            ]
+        },
+        {
+            "name": "Topic 36: Big Data and (Py)Spark",
+            "items": [
+                {
+                    "title": "Big Data and (Py)Spark - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-big-data-pyspark-intro"
+                },
+                {
+                    "title": "Introduction to Big Data",
+                    "content": "https://github.com/learn-co-curriculum/dsc-big-data-introduction"
+                },
+                {
+                    "title": "Parallel and Distributed Computing with MapReduce",
+                    "content": "https://github.com/learn-co-curriculum/dsc-parallel-and-distributed-computing-with-mapreduce"
+                },
+                {
+                    "title": "(Py)Spark Basics",
+                    "content": "https://github.com/learn-co-curriculum/dsc-spark-basics"
+                },
+                {
+                    "title": "Installing and Configuring PySpark with Docker",
+                    "content": "https://github.com/learn-co-curriculum/dsc-spark-docker-installation"
+                },
+                {
+                    "title": "Understanding SparkContext - Codealong",
+                    "content": "https://github.com/learn-co-curriculum/dsc-sparkcontext"
+                },
+                {
+                    "title": "Resilient Distributed Datasets (RDDs) - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-resilient-distributed-datasets-rdd-lab"
+                },
+                {
+                    "title": "Word Count with MapReduce - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-word-count-with-map-reduce-lab"
+                },
+                {
+                    "title": "Spark DataFrames",
+                    "content": "https://github.com/learn-co-curriculum/dsc-spark-dataframes"
+                },
+                {
+                    "title": "Machine Learning with Spark",
+                    "content": "https://github.com/learn-co-curriculum/dsc-machine-learning-with-spark-v2-4"
+                },
+                {
+                    "title": "Machine Learning with Spark - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-machine-learning-with-spark-lab"
+                },
+                {
+                    "title": "Building a Recommendation System in PySpark - Lab",
+                    "content": "https://github.com/learn-co-curriculum/als-recommender-system-pyspark-lab"
+                },
+                {
+                    "title": "Big Data and (Py)Spark - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-big-data-pyspark-recap"
+                }
+            ]
+        },
+        {
+            "name": "Topic 37: Natural Language Processing",
+            "items": [
+                {
+                    "title": "Natural Language Processing - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-nlp-section-intro"
+                },
+                {
+                    "title": "NLP and Word Vectorization",
+                    "content": "https://github.com/learn-co-curriculum/dsc-nlp-and-word-vectorization"
+                },
+                {
+                    "title": "Word Vectorization - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-word-vectorization-lab"
+                },
+                {
+                    "title": "Introduction to NLP with NLTK",
+                    "content": "https://github.com/learn-co-curriculum/dsc-introduction-to-nltk"
+                },
+                {
+                    "title": "Introduction to Regular Expressions",
+                    "content": "https://github.com/learn-co-curriculum/dsc-introduction-to-regular-expressions"
+                },
+                {
+                    "title": "Regular Expressions - Codealong",
+                    "content": "https://github.com/learn-co-curriculum/dsc-regular-expressions-codealong"
+                },
+                {
+                    "title": "Feature Engineering for Text Data",
+                    "content": "https://github.com/learn-co-curriculum/dsc-feature-engineering-for-text-data"
+                },
+                {
+                    "title": "Corpus Statistics - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-corpus-statistics-lab"
+                },
+                {
+                    "title": "Context-Free Grammars and POS Tagging",
+                    "content": "https://github.com/learn-co-curriculum/dsc-context-free-grammars-and-POS-tagging"
+                },
+                {
+                    "title": "Context-Free Grammars - Codealong",
+                    "content": "https://github.com/learn-co-curriculum/dsc-context-free-grammars-codealong"
+                },
+                {
+                    "title": "Text Classification",
+                    "content": "https://github.com/learn-co-curriculum/dsc-text-classification"
+                },
+                {
+                    "title": "Text Classification - Cumulative Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-nlp-lab"
+                },
+                {
+                    "title": "Natural Language Processing - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-nlp-section-recap"
+                }
+            ]
+        },
+        {
+            "name": "Topic 38: Neural Networks",
+            "items": [
+                {
+                    "title": "Neural Networks - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-neural-nets-intro-v2-4"
+                },
+                {
+                    "title": "Introduction to Neural Networks",
+                    "content": "https://github.com/learn-co-curriculum/dsc-introduction-to-neural-networks"
+                },
+                {
+                    "title": "Introduction to Neural Networks - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-introduction-to-neural-networks-lab"
+                },
+                {
+                    "title": "Introduction to Keras",
+                    "content": "https://github.com/learn-co-curriculum/dsc-introduction-to-keras"
+                },
+                {
+                    "title": "Keras - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-introduction-to-keras-lab"
+                },
+                {
+                    "title": "Deeper Neural Networks",
+                    "content": "https://github.com/learn-co-curriculum/dsc-deeper-neural-networks"
+                },
+                {
+                    "title": "Deeper Neural Networks - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-deeper-neural-networks-lab"
+                },
+                {
+                    "title": "Image Classification with Multi-Layer Perceptrons",
+                    "content": "https://github.com/learn-co-curriculum/dsc-image-classification-with-mlps"
+                },
+                {
+                    "title": "Image Classification with MLPs - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-image-classification-with-mlps-lab"
+                },
+                {
+                    "title": "Neural Networks - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-neural-nets-recap-v2-4"
+                }
+            ]
+        },
+        {
+            "name": "Topic 39: Tuning Neural Networks",
+            "items": [
+                {
+                    "title": "Tuning Neural Networks - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-intro-v2-4"
+                },
+                {
+                    "title": "Tuning Neural Networks with Regularization",
+                    "content": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-with-regularization"
+                },
+                {
+                    "title": "Tuning Neural Networks with Regularization - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-with-regularization-lab-v2-1"
+                },
+                {
+                    "title": "Tuning Neural Networks with Normalization",
+                    "content": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-with-normalization"
+                },
+                {
+                    "title": "Tuning Neural Networks with Normalization - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-with-normalization-lab-v2-1"
+                },
+                {
+                    "title": "Tuning and Optimizing Neural Networks - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-from-start-to-finish-lab-v2-1"
+                },
+                {
+                    "title": "Convolutional Neural Networks",
+                    "content": "https://github.com/learn-co-curriculum/dsc-convolutional-neural-networks"
+                },
+                {
+                    "title": "Convolutional Neural Networks - Codealong",
+                    "content": "https://github.com/learn-co-curriculum/dsc-convolutional-neural-networks-codealong"
+                },
+                {
+                    "title": "Building a CNN from Scratch - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-building-a-cnn-from-scratch"
+                },
+                {
+                    "title": "Visualizing Intermediate Activations",
+                    "content": "https://github.com/learn-co-curriculum/dsc-visualizing-intermediate-activations"
+                },
+                {
+                    "title": "Visualizing Activation Functions - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-visualizing-activation-functions-lab"
+                },
+                {
+                    "title": "Tuning Neural Networks - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-tuning-neural-networks-recap-v2-4"
+                }
+            ]
+        },
+        {
+            "name": "Topic 40: Amazon Web Services",
+            "items": [
+                {
+                    "title": "Amazon Web Services - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-productionizing-machine-learning-models-section-intro"
+                },
+                {
+                    "title": "Cloud Computing",
+                    "content": "https://github.com/learn-co-curriculum/dsc-cloud-computing"
+                },
+                {
+                    "title": "The AWS Ecosystem",
+                    "content": "https://github.com/learn-co-curriculum/dsc-the-aws-ecosystem"
+                },
+                {
+                    "title": "Amazon Simple Storage Service (S3)",
+                    "content": "https://github.com/learn-co-curriculum/dsc-aws-s3"
+                },
+                {
+                    "title": "Introduction to Amazon SageMaker",
+                    "content": "https://github.com/learn-co-curriculum/dsc-introduction-to-aws-sagemaker"
+                },
+                {
+                    "title": "Data Science and Machine Learning Engineering",
+                    "content": "https://github.com/learn-co-curriculum/dsc-data-science-and-machine-learning-engineering"
+                },
+                {
+                    "title": "Introduction to Flask",
+                    "content": "https://github.com/learn-co-curriculum/dsc-flask-intro"
+                },
+                {
+                    "title": "Deploying a Model with Flask",
+                    "content": "https://github.com/learn-co-curriculum/dsc-flask-deployment"
+                },
+                {
+                    "title": "Introduction to Dash",
+                    "content": "https://github.com/learn-co-curriculum/dsc-dash-intro"
+                },
+                {
+                    "title": "Deploying a Model with Dash",
+                    "content": "https://github.com/learn-co-curriculum/dsc-dash-deployment"
+                },
+                {
+                    "title": "Productionizing a Model with Docker and SageMaker",
+                    "content": "https://github.com/learn-co-curriculum/dsc-productionizing-models-with-sagemaker"
+                },
+                {
+                    "title": "Amazon Web Services - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-productionizing-machine-learning-models-section-recap"
+                }
+            ]
+        },
+        {
+            "name": "Milestones",
+            "items": [
+                {
+                    "title": "CODE ASSESSMENTS",
+                    "content": "https://github.com/learn-co-curriculum/dsc-productionizing-machine-learning-models-section-recap"
+                },
+                {
+                    "title": "Checkpoints",
+                    "content": "https://github.com/learn-co-curriculum/dsc-productionizing-machine-learning-models-section-recap"
+                },
+                {
+                    "title": "Code Challenge",
+                    "content": "https://github.com/learn-co-curriculum/dsc-productionizing-machine-learning-models-section-recap"
+                },
+                {
+                    "title": "Phase 4 Project Description",
+                    "content": "https://github.com/learn-co-curriculum/dsc-phase-4-project-v2-3"
+                },
+                {
+                    "title": "Phase 4 Project - Choosing a Dataset",
+                    "content": "https://github.com/learn-co-curriculum/dsc-phase-4-choosing-a-dataset"
+                },
+                {
+                    "title": "Blogging Overview",
+                    "content": "https://github.com/learn-co-curriculum/dsc-blogging-overview"
+                }
+            ]
+        },
+        {
+            "name": "APPENDIX: More Time Series",
+            "items": [
+                {
+                    "title": "Time Series: SARIMA Models - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-sarima-models-lab"
+                },
+                {
+                    "title": "Time Series: Facebook Prophet - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-facebook-prophet-lab"
+                }
+            ]
+        },
+        {
+            "name": "APPENDIX: Graph Theory (Recommendation Systems)",
+            "items": [
+                {
+                    "title": "Graph Theory - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-network-introduction"
+                },
+                {
+                    "title": "Introduction to Graph Theory",
+                    "content": "https://github.com/learn-co-curriculum/dsc-intro-graph-theory"
+                },
+                {
+                    "title": "Introduction to NetworkX",
+                    "content": "https://github.com/learn-co-curriculum/dsc-networkX-intro"
+                },
+                {
+                    "title": "Introduction to NetworkX - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-networkX-intro-lab"
+                },
+                {
+                    "title": "Simple and Shortest Paths",
+                    "content": "https://github.com/learn-co-curriculum/dsc-graph-theory-shortest-path"
+                },
+                {
+                    "title": "Simple and Shortest Paths - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-graph-theory-shortest-path-lab"
+                },
+                {
+                    "title": "Node Centrality",
+                    "content": "https://github.com/learn-co-curriculum/dsc-node-centrality"
+                },
+                {
+                    "title": "Node Centrality - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-node-centrality-lab"
+                },
+                {
+                    "title": "Network Clustering",
+                    "content": "https://github.com/learn-co-curriculum/dsc-network-clustering"
+                },
+                {
+                    "title": "Network Clustering - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-network-clustering-lab"
+                },
+                {
+                    "title": "Network Connectivity:  Community Detection -Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-network-community-detection-lab"
+                },
+                {
+                    "title": "Recommendation Systems",
+                    "content": "https://github.com/learn-co-curriculum/dsc-network-recommendation-systems"
+                },
+                {
+                    "title": "Amazon Recommendation System - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-network-recomendation-systems-lab"
+                },
+                {
+                    "title": "Graph Theory - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-networks-recap"
+                }
+            ]
+        },
+        {
+            "name": "APPENDIX: Transfer Learning (Image Classification)",
+            "items": [
+                {
+                    "title": "Transfer Learning - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-transfer-learning-intro"
+                },
+                {
+                    "title": "Using Pretrained Networks",
+                    "content": "https://github.com/learn-co-curriculum/dsc-using-pretrained-networks"
+                },
+                {
+                    "title": "Using Pretrained Networks - Codealong",
+                    "content": "https://github.com/learn-co-curriculum/dsc-using-pretrained-networks-codealong"
+                },
+                {
+                    "title": "Image Classification - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-image-classification-lab"
+                },
+                {
+                    "title": "Transfer Learning - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-transfer-learning-recap"
+                }
+            ]
+        },
+        {
+            "name": "APPENDIX: Deep NLP",
+            "items": [
+                {
+                    "title": "Deep NLP with Word Embeddings - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-deep-nlp-intro"
+                },
+                {
+                    "title": "Word Embeddings",
+                    "content": "https://github.com/learn-co-curriculum/dsc-word-embeddings"
+                },
+                {
+                    "title": "Using Word2Vec",
+                    "content": "https://github.com/learn-co-curriculum/dsc-using-word2vec"
+                },
+                {
+                    "title": "Generating Word Embeddings - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-generating-word-embeddings-lab"
+                },
+                {
+                    "title": "Classification with Word Embeddings",
+                    "content": "https://github.com/learn-co-curriculum/dsc-classification-with-word-embeddings"
+                },
+                {
+                    "title": "Classification with Word Embeddings - Codealong",
+                    "content": "https://github.com/learn-co-curriculum/dsc-classification-with-word-embeddings-codealong"
+                },
+                {
+                    "title": "Sequence Model Use Cases",
+                    "content": "https://github.com/learn-co-curriculum/dsc-sequence-model-use-cases"
+                },
+                {
+                    "title": "Understanding Recurrent Neural Networks",
+                    "content": "https://github.com/learn-co-curriculum/dsc-understanding-recurrent-neural-networks"
+                },
+                {
+                    "title": "LSTMs and GRUs",
+                    "content": "https://github.com/learn-co-curriculum/dsc-lstms-and-grus"
+                },
+                {
+                    "title": "Deep NLP with Word Embeddings - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-deep-nlp-recap"
+                }
+            ]
+        }
+    ]
 }

@@ -1,7 +1,22 @@
 {
-    "Phase 5 Project": {
-        "[Live] Phase 5 Project Guidelines": "https://github.com/learn-co-curriculum/phase-5-portfolio-project",
-        "[Live] Phase 5 Project Schedule": "https://github.com/learn-co-curriculum/phase-5-live-project-schedule",
-        "Phase 5 Project Guidelines And Schedule": "https://github.com/learn-co-curriculum/phase-5-flex-project-guidelines-and-schedule"
-    }
+    "title": "Phase 5",
+    "modules": [
+        {
+            "name": "Phase 5 Project",
+            "items": [
+                {
+                    "title": "[Live] Phase 5 Project Guidelines",
+                    "content": "https://github.com/learn-co-curriculum/phase-5-portfolio-project"
+                },
+                {
+                    "title": "[Live] Phase 5 Project Schedule",
+                    "content": "https://github.com/learn-co-curriculum/phase-5-live-project-schedule"
+                },
+                {
+                    "title": "Phase 5 Project Guidelines And Schedule",
+                    "content": "https://github.com/learn-co-curriculum/phase-5-flex-project-guidelines-and-schedule"
+                }
+            ]
+        }
+    ]
 }

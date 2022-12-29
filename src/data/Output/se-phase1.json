@@ -1,223 +1,832 @@
 {
-    "Welcome to Phase 1": {
-        "Welcome - What To Expect In Phase 1": "https://github.com/learn-co-curriculum/phase-1-welcome-what-to-expect",
-        "Blogging": "https://github.com/learn-co-curriculum/phase-1-maintaining-a-blog"
-    },
-    "JavaScript Fundamentals": {
-        "Video: Variables and Data Types": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-variables-and-data-types",
-        "JavaScript Variables": "https://github.com/learn-co-curriculum/phase-0-pac-1-js-variables",
-        "Review: Variables Lab": "https://github.com/learn-co-curriculum/phase-1-javascript-variables-lab",
-        "Review: Strings Lab": "https://github.com/learn-co-curriculum/phase-1-review-strings-lab",
-        "Comparisons in JavaScript": "https://github.com/learn-co-curriculum/phase-0-pac-1-comparisons-in-javascript",
-        "Video: JavaScript Conditionals": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-javascript-conditionals",
-        "Review: Conditionals": "https://github.com/learn-co-curriculum/phase-1-review-conditionals",
-        "Logical Operators": "https://github.com/learn-co-curriculum/phase-0-pac-1-logical-operators",
-        "Review: Control Flow Lab": "https://github.com/learn-co-curriculum/phase-1-control-flow-lab",
-        "Review: Arithmetic Lab": "https://github.com/learn-co-curriculum/phase-1-arithmetic-lab",
-        "JavaScript Fundamentals Quiz": "https://github.com/learn-co-curriculum/phase-1-quiz-javascript-fundamentals"
-    },
-    "Functions in JavaScript": {
-        "Video: Functions": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-functions",
-        "Review: Functions": "https://github.com/learn-co-curriculum/phase-1-functions",
-        "Functions Lab": "https://github.com/learn-co-curriculum/phase-1-functions-lab",
-        "Functions: Continued": "https://github.com/learn-co-curriculum/phase-1-javascript-functions-continued",
-        "Video: Arrow Functions": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-arrow-functions",
-        "Arrow Functions": "https://github.com/learn-co-curriculum/phase-1-arrow-functions",
-        "Callback Functions": "https://github.com/learn-co-curriculum/phase-1-callback-functions",
-        "First-Class Functions": "https://github.com/learn-co-curriculum/phase-1-first-class-functions",
-        "JavaScript Advanced Functions: First-Class Functions Lab": "https://github.com/learn-co-curriculum/phase-1-first-class-functions-lab",
-        "Functions in JavaScript Quiz": "https://github.com/learn-co-curriculum/phase-1-quiz-functions-in-javascript"
-    },
-    "Scope": {
-        "Video: Scope": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-scope",
-        "Introduction to Scope": "https://github.com/learn-co-curriculum/phase-1-scope-readme",
-        "Scope Chain": "https://github.com/learn-co-curriculum/phase-1-scope-chain-readme",
-        "Scope Lab": "https://github.com/learn-co-curriculum/phase-1-scope-lab",
-        "Lexical scoping": "https://github.com/learn-co-curriculum/phase-1-lexical-scoping-readme",
-        "Scope Quiz": "https://github.com/learn-co-curriculum/phase-1-quiz-scope"
-    },
-    "Working with Data Structures in JavaScript": {
-        "Video: Arrays and Objects": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-arrays-and-objects",
-        "Arrays": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-arrays",
-        "Array Methods": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-array-methods",
-        "Arrays Lab": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-array-lab",
-        "Objects": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-objects-readme",
-        "Modifying Objects": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-modifying-objects",
-        "Objects Lab": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-objects-lab",
-        "Review: Debugging": "https://github.com/learn-co-curriculum/phase-1-intro-to-debugging-readme",
-        "Video: JavaScript Loops": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-javascript-loops",
-        "Looping Lab": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-looping-code-along",
-        "Object Iteration": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-object-iteration",
-        "Traversing Nested Objects": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-traversing-nested-objects",
-        "Working with Objects in JavaScript Quiz": "https://github.com/learn-co-curriculum/phase-1-quiz-working-with-objects-in-javascript"
-    },
-    "Video Series: Array Iteration": {
-        "Video: First Class Functions": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-first-class-functions",
-        "Video: First Class Functions Part 2": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-first-class-functions-part-2",
-        "Video: .map": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-map",
-        "Video: .map Part 2": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-map-part-2",
-        "Video: .find": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-filter",
-        "Video: .reduce": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-reduce",
-        "Video: .forEach": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-foreach"
-    },
-    "Array Iteration": {
-        "Array Iterator Methods": "https://github.com/learn-co-curriculum/phase-1-array-iterator-methods",
-        "Finding Array Elements": "https://github.com/learn-co-curriculum/phase-1-array-element-finding",
-        "Using the Array Find Method": "https://github.com/learn-co-curriculum/phase-1-array-find-method-lab",
-        "Filtering Arrays": "https://github.com/learn-co-curriculum/phase-1-filtering-arrays",
-        "Using the Array Filter Method": "https://github.com/learn-co-curriculum/phase-1-array-filter-method-lab",
-        "Mapping Arrays": "https://github.com/learn-co-curriculum/phase-1-mapping-arrays-readme",
-        "Using the Array Map Method": "https://github.com/learn-co-curriculum/phase-1-array-map-method-lab",
-        "Using the Array Reduce Method": "https://github.com/learn-co-curriculum/phase-1-using-array-reduce",
-        "forEach: The Iterator of No Return": "https://github.com/learn-co-curriculum/phase-1-array-foreach-method",
-        "Bonus: JavaScript Object-ball": "https://github.com/learn-co-curriculum/phase-1-object-ball",
-        "Arrays and Objects - What is Really Going On?": "https://github.com/learn-co-curriculum/phase-1-arrays-objects-what-is-really-going-on",
-        "Working with Arrays in JavaScript Quiz": "https://github.com/learn-co-curriculum/phase-1-quiz-working-with-arrays-in-javascript-quiz"
-    },
-    "JavaScript Advanced Syntax": {
-        "Video: Destructuring & Spread Operator": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-destructuring-and-spread-operator",
-        "Destructuring Assignment": "https://github.com/learn-co-curriculum/phase-1-destructuring-assignment",
-        "Advanced Function Parameter Syntax: Default / Rest / Spread": "https://github.com/learn-co-curriculum/phase-1-advanced-function-parameter-syntax-default-rest-spread"
-    },
-    "Introducing Flatiron's Three Pillars of JavaScript": {
-        "Defining Front-End Web Programming": "https://github.com/learn-co-curriculum/phase-1-defining-frontend-web-programming",
-        "Stitching Together the Three Pillars": "https://github.com/learn-co-curriculum/phase-1-stitching-together-the-three-pillars"
-    },
-    "JavaScript and the DOM": {
-        "Video: Intro to DOM": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-intro-to-dom",
-        "Introduction to the DOM": "https://github.com/learn-co-curriculum/phase-0-the-dom-introduction",
-        "DOM Editing Lab": "https://github.com/learn-co-curriculum/phase-0-the-dom-editing-lab",
-        "Changing The DOM with DevTools and JavaScript": "https://github.com/learn-co-curriculum/phase-0-the-dom-dev-tools",
-        "The DOM Is a Tree": "https://github.com/learn-co-curriculum/phase-0-the-dom-is-a-tree",
-        "Video: DOM Selectors": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-dom-selectors",
-        "JavaScript Query Selector Methods": "https://github.com/learn-co-curriculum/phase-0-the-dom-query-selector-methods",
-        "Video: Changing DOM Elements": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-changing-dom-elements",
-        "Creating and Inserting DOM Nodes Lab": "https://github.com/learn-co-curriculum/phase-0-the-dom-modifying-elements-lab",
-        "You're a DOM Manipulation Expert, Now!": "https://github.com/learn-co-curriculum/phase-1-youre-a-dom-manipulation-expert",
-        "JavaScript and The DOM Quiz": "https://github.com/learn-co-curriculum/phase-1-quiz-javascript-and-the-dom"
-    },
-    "JavaScript Events": {
-        "Video: DOM Events": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-dom-events",
-        "JavaScript Events": "https://github.com/learn-co-curriculum/phase-0-javascript-events",
-        "JavaScript Event Listeners Lab": "https://github.com/learn-co-curriculum/phase-0-javascript-events-event-listening-lab",
-        "Moving Things with JavaScript by Acting on Events": "https://github.com/learn-co-curriculum/phase-0-javascript-events-acting-on-events-lab",
-        "Video: Forms": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-forms",
-        "Video: DOMContentLoaded": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-domcontentloaded",
-        "The JavaScript DOMContentLoaded Event": "https://github.com/learn-co-curriculum/phase-1-domcontentloaded",
-        "Challenge: TaskLister Mini-Project": "https://github.com/learn-co-curriculum/phase-1-tasklister-mini-project",
-        "You're an Eventing Expert Now!": "https://github.com/learn-co-curriculum/phase-1-youre-an-eventing-expert",
-        "JavaScript Events Quiz": "https://github.com/learn-co-curriculum/phase-1-quiz-javascript-events"
-    },
-    "Communicating with the Server": {
-        "Introduction to Communicating with the Server": "https://github.com/learn-co-curriculum/phase-1-intro-to-communicating-with-the-server",
-        "Video: Intro to the Internet": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-intro-to-the-internet",
-        "How The Web Works": "https://github.com/learn-co-curriculum/phase-1-how-the-web-works",
-        "Video: JSON": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-json",
-        "Video: Postman": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-postman",
-        "Using JSON Server and Postman to Mock Client/Server Communication": "https://github.com/learn-co-curriculum/phase-1-using-json-server-and-postman",
-        "Video: Asynchronous JavaScript & Fetch": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-asynchronous-javascript-and-fetch",
-        "Video: DOM Manipulation Review": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-dom-manipulation-review",
-        "Video: GET Requests": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-get-requests",
-        "Using fetch()": "https://github.com/learn-co-curriculum/phase-1-using-fetch",
-        "Fetch Lab": "https://github.com/learn-co-curriculum/phase-1-fetch-lab",
-        "Fetch on Demand with Forms": "https://github.com/learn-co-curriculum/phase-1-js-fetch-on-demand-with-forms",
-        "Asynchronous JavaScript": "https://github.com/learn-co-curriculum/phase-1-asynchronous-javascript",
-        "Video: POST Requests": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-post-requests",
-        "Video: PATCH Requests": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-patch-requests",
-        "Video: DELETE Requests": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-delete-requests",
-        "Sending Data with Fetch": "https://github.com/learn-co-curriculum/phase-1-sending-data-with-fetch",
-        "Communicating with the Server Quiz": "https://github.com/learn-co-curriculum/phase-1-quiz-communicating-with-the-server"
-    },
-    "Combining the Three Pillars": {
-        "Pulling It All Together": "https://github.com/learn-co-curriculum/phase-1-pulling-it-all-together",
-        "Building the Simple Liker App": "https://github.com/learn-co-curriculum/phase-1-building-simple-liker"
-    },
-    "Applying Your Learning": {
-        "Interacting with the DOM using Events": "https://github.com/learn-co-curriculum/phase-1-practice-interacting-with-the-dom",
-        "Fetch Dog CEO": "https://github.com/learn-co-curriculum/phase-1-practice-dog-ceo",
-        "Toy Tale": "https://github.com/learn-co-curriculum/phase-1-practice-toy-tale",
-        "GitHub Search App": "https://github.com/learn-co-curriculum/phase-1-github-search-app"
-    },
-    "[Optional] Additional Practice: JavaScript": {
-        "Additional Practice: Monsters": "https://github.com/learn-co-curriculum/phase-1-monsters",
-        "Additional Practice: Woof Woof Welcome to Doggo Bark Bark": "https://github.com/learn-co-curriculum/phase-1-woof-woof-js-practice",
-        "Additional Practice: Westminster Kennel Club Dog Show": "https://github.com/learn-co-curriculum/phase-1-practice-dog-show",
-        "Additional Practice: BookLiker": "https://github.com/learn-co-curriculum/phase-1-bookliker",
-        "Phase 1 Mock Code Challenge: Ramen Rater": "https://github.com/learn-co-curriculum/phase-1-mock-cc-ramen-rater"
-    },
-    "Algorithmic Problem Solving": {
-        "Introduction to Algorithmic Problem Solving": "https://github.com/learn-co-curriculum/phase-1-algorithms-intro-to-algorithmic-problem-solving",
-        "What is an Algorithm?": "https://github.com/learn-co-curriculum/phase-1-algorithms-what-is-an-algorithm",
-        "Palindrome Lab": "https://github.com/learn-co-curriculum/phase-1-algorithms-palindrome",
-        "Big O Notation": "https://github.com/learn-co-curriculum/phase-1-algorithms-big-o",
-        "Big O Examples": "https://github.com/learn-co-curriculum/phase-1-algorithms-big-o-examples",
-        "Has Target Sum Lab": "https://github.com/learn-co-curriculum/phase-1-algorithms-has-target-sum",
-        "Algorithmic Problem Solving Conclusion": "https://github.com/learn-co-curriculum/phase-1-algorithms-algorithmic-problem-solving-conclusion",
-        "Algorithmic Problem Solving Quiz": "https://github.com/learn-co-curriculum/phase-1-quiz-algorithmic-problem-solving"
-    },
-    "Context in JavaScript": {
-        "Introduction to Context": "https://github.com/learn-co-curriculum/phase-1-intro-to-context",
-        "Context and Implicit Setting": "https://github.com/learn-co-curriculum/phase-1-context-implicit-setting",
-        "Context and Explicit Setting": "https://github.com/learn-co-curriculum/phase-1-context-explicit-setting",
-        "Context Lab": "https://github.com/learn-co-curriculum/phase-1-context-lab",
-        "The Lost Context Bug Code-Along": "https://github.com/learn-co-curriculum/phase-1-the-lost-context-bug",
-        "JavaScript Functional Library Project": "https://github.com/learn-co-curriculum/phase-1-javascript-functional-library-project",
-        "Context in JavaScript Quiz": "https://github.com/learn-co-curriculum/phase-1-quiz-context-in-javascript"
-    },
-    "[Optional] Object-Oriented JavaScript": {
-        "Video: Intro to Object-Oriented JavaScript": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-intro-to-object-oriented-javascript",
-        "Video: Execution Context": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-exectution-context",
-        "Object Orientation in JavaScript": "https://github.com/learn-co-curriculum/phase-1-object-orientation-in-javascript",
-        "Classes and Instances": "https://github.com/learn-co-curriculum/phase-1-classes-and-instances",
-        "Initializing Instances": "https://github.com/learn-co-curriculum/phase-1-initializing-instances",
-        "Adding Behavior With Methods": "https://github.com/learn-co-curriculum/phase-1-adding-behavior-with-methods",
-        "Method Types": "https://github.com/learn-co-curriculum/phase-1-method-types",
-        "Getter and Setter Methods": "https://github.com/learn-co-curriculum/phase-1-getter-and-setter-methods",
-        "Static Methods Lab": "https://github.com/learn-co-curriculum/phase-1-static-methods-lab",
-        "Video: Inheritance": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-inheritance",
-        "Class Extensions and Inheritance": "https://github.com/learn-co-curriculum/phase-1-class-extension-and-inheritance",
-        "Class Extension Lab": "https://github.com/learn-co-curriculum/phase-1-class-extension-lab",
-        "Super": "https://github.com/learn-co-curriculum/phase-1-super",
-        "Super Lab": "https://github.com/learn-co-curriculum/phase-1-super-lab",
-        "Liskov's Substitution Principle": "https://github.com/learn-co-curriculum/phase-1-liskovs-substitution-principle",
-        "Object-Oriented JavaScript Quiz": "https://github.com/learn-co-curriculum/phase-1-quiz-object-oriented-javascript"
-    },
-    "[Optional] JavaScript Inheritance": {
-        "Prototypal Inheritance": "https://github.com/learn-co-curriculum/phase-1-intro-to-prototypal-inheritance",
-        "Constructor Functions": "https://github.com/learn-co-curriculum/phase-1-constructor-functions",
-        "Constructor Functions Lab": "https://github.com/learn-co-curriculum/phase-1-constructor-functions-lab",
-        "Using Prototypes": "https://github.com/learn-co-curriculum/phase-1-using-prototypes",
-        "Object Methods in JS Lab": "https://github.com/learn-co-curriculum/phase-1-object-oriented-methods-lab",
-        "Prototypal Inheritance Conclusion": "https://github.com/learn-co-curriculum/phase-1-prototypal-inheritance-conclusion"
-    },
-    "[Optional] Additional Practice: HTML Forms and Modern Elements": {
-        "HTML Forms": "https://github.com/learn-co-curriculum/phase-1-html-forms",
-        "HTML Forms Lab": "https://github.com/learn-co-curriculum/phase-1-html-forms-lab",
-        "HTML IFrames": "https://github.com/learn-co-curriculum/phase-1-html-iframes",
-        "HTML IFrames Lab": "https://github.com/learn-co-curriculum/html-iframes-lab",
-        "HTML5 Media": "https://github.com/learn-co-curriculum/phase-1-html5-media",
-        "HTML5 Embedded Videos Lab": "https://github.com/learn-co-curriculum/phase-1-embedded-videos-lab",
-        "HTML5 Semantic Elements": "https://github.com/learn-co-curriculum/phase-1-html5-semantic-elements",
-        "HTML5 Semantic Elements Lab": "https://github.com/learn-co-curriculum/phase-1-html5-containers-lab"
-    },
-    "Phase 1 Project": {
-        "Phase 1 Project Guidelines": "https://github.com/learn-co-curriculum/phase-1-javascript-project-mode"
-    },
-    "[Supplemental] Git and GitHub": {
-        "Welcome to Git/GitHub": "https://github.com/learn-co-curriculum/git-github-intro-to-git-github",
-        "Intro to Version Control": "https://github.com/learn-co-curriculum/git-github-intro-to-version-control",
-        "Git Basics": "https://github.com/learn-co-curriculum/git-github-git-basics",
-        ".gitignore": "https://github.com/learn-co-curriculum/git-github-gitignore",
-        "Getting Code with GitHub": "https://github.com/learn-co-curriculum/git-github-getting-code-from-github",
-        "Pushing Code to GitHub": "https://github.com/learn-co-curriculum/git-github-pushing-code-to-github",
-        "Maintaining a Clean, Well-documented Commit History": "https://github.com/learn-co-curriculum/git-github-commit-messages",
-        "Viewing the Git Commit History": "https://github.com/learn-co-curriculum/git-github-viewing-git-history",
-        "Undoing Changes with Git": "https://github.com/learn-co-curriculum/git-github-undoing-changes-with-git",
-        "Working with Branches": "https://github.com/learn-co-curriculum/git-github-working-with-branches",
-        "Merging Branches with Git": "https://github.com/learn-co-curriculum/git-github-merging-branches",
-        "Resolving Merge Conflicts": "https://github.com/learn-co-curriculum/git-github-resolving-merge-conflicts",
-        "Collaborating with Git and GitHub": "https://github.com/learn-co-curriculum/git-github-collaborating",
-        "Building a Great GitHub Profile": "https://github.com/learn-co-curriculum/git-github-github-profile",
-        "Git and GitHub Quiz": "https://github.com/learn-co-curriculum/git-github-quiz"
-    }
+    "title": "Phase 1",
+    "modules": [
+        {
+            "name": "Welcome to Phase 1",
+            "items": [
+                {
+                    "title": "Welcome - What To Expect In Phase 1",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-welcome-what-to-expect"
+                },
+                {
+                    "title": "Blogging",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-maintaining-a-blog"
+                }
+            ]
+        },
+        {
+            "name": "JavaScript Fundamentals",
+            "items": [
+                {
+                    "title": "Video: Variables and Data Types",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-variables-and-data-types"
+                },
+                {
+                    "title": "JavaScript Variables",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-1-js-variables"
+                },
+                {
+                    "title": "Review: Variables Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-javascript-variables-lab"
+                },
+                {
+                    "title": "Review: Strings Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-review-strings-lab"
+                },
+                {
+                    "title": "Comparisons in JavaScript",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-1-comparisons-in-javascript"
+                },
+                {
+                    "title": "Video: JavaScript Conditionals",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-javascript-conditionals"
+                },
+                {
+                    "title": "Review: Conditionals",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-review-conditionals"
+                },
+                {
+                    "title": "Logical Operators",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-1-logical-operators"
+                },
+                {
+                    "title": "Review: Control Flow Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-control-flow-lab"
+                },
+                {
+                    "title": "Review: Arithmetic Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-arithmetic-lab"
+                },
+                {
+                    "title": "JavaScript Fundamentals Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-quiz-javascript-fundamentals"
+                }
+            ]
+        },
+        {
+            "name": "Functions in JavaScript",
+            "items": [
+                {
+                    "title": "Video: Functions",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-functions"
+                },
+                {
+                    "title": "Review: Functions",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-functions"
+                },
+                {
+                    "title": "Functions Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-functions-lab"
+                },
+                {
+                    "title": "Functions: Continued",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-javascript-functions-continued"
+                },
+                {
+                    "title": "Video: Arrow Functions",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-arrow-functions"
+                },
+                {
+                    "title": "Arrow Functions",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-arrow-functions"
+                },
+                {
+                    "title": "Callback Functions",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-callback-functions"
+                },
+                {
+                    "title": "First-Class Functions",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-first-class-functions"
+                },
+                {
+                    "title": "JavaScript Advanced Functions: First-Class Functions Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-first-class-functions-lab"
+                },
+                {
+                    "title": "Functions in JavaScript Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-quiz-functions-in-javascript"
+                }
+            ]
+        },
+        {
+            "name": "Scope",
+            "items": [
+                {
+                    "title": "Video: Scope",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-scope"
+                },
+                {
+                    "title": "Introduction to Scope",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-scope-readme"
+                },
+                {
+                    "title": "Scope Chain",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-scope-chain-readme"
+                },
+                {
+                    "title": "Scope Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-scope-lab"
+                },
+                {
+                    "title": "Lexical scoping",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lexical-scoping-readme"
+                },
+                {
+                    "title": "Scope Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-quiz-scope"
+                }
+            ]
+        },
+        {
+            "name": "Working with Data Structures in JavaScript",
+            "items": [
+                {
+                    "title": "Video: Arrays and Objects",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-arrays-and-objects"
+                },
+                {
+                    "title": "Arrays",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-arrays"
+                },
+                {
+                    "title": "Array Methods",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-array-methods"
+                },
+                {
+                    "title": "Arrays Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-array-lab"
+                },
+                {
+                    "title": "Objects",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-objects-readme"
+                },
+                {
+                    "title": "Modifying Objects",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-modifying-objects"
+                },
+                {
+                    "title": "Objects Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-objects-lab"
+                },
+                {
+                    "title": "Review: Debugging",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-intro-to-debugging-readme"
+                },
+                {
+                    "title": "Video: JavaScript Loops",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-javascript-loops"
+                },
+                {
+                    "title": "Looping Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-looping-code-along"
+                },
+                {
+                    "title": "Object Iteration",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-object-iteration"
+                },
+                {
+                    "title": "Traversing Nested Objects",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-traversing-nested-objects"
+                },
+                {
+                    "title": "Working with Objects in JavaScript Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-quiz-working-with-objects-in-javascript"
+                }
+            ]
+        },
+        {
+            "name": "Video Series: Array Iteration",
+            "items": [
+                {
+                    "title": "Video: First Class Functions",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-first-class-functions"
+                },
+                {
+                    "title": "Video: First Class Functions Part 2",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-first-class-functions-part-2"
+                },
+                {
+                    "title": "Video: .map",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-map"
+                },
+                {
+                    "title": "Video: .map Part 2",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-map-part-2"
+                },
+                {
+                    "title": "Video: .find",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-filter"
+                },
+                {
+                    "title": "Video: .reduce",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-reduce"
+                },
+                {
+                    "title": "Video: .forEach",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-foreach"
+                }
+            ]
+        },
+        {
+            "name": "Array Iteration",
+            "items": [
+                {
+                    "title": "Array Iterator Methods",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-array-iterator-methods"
+                },
+                {
+                    "title": "Finding Array Elements",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-array-element-finding"
+                },
+                {
+                    "title": "Using the Array Find Method",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-array-find-method-lab"
+                },
+                {
+                    "title": "Filtering Arrays",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-filtering-arrays"
+                },
+                {
+                    "title": "Using the Array Filter Method",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-array-filter-method-lab"
+                },
+                {
+                    "title": "Mapping Arrays",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-mapping-arrays-readme"
+                },
+                {
+                    "title": "Using the Array Map Method",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-array-map-method-lab"
+                },
+                {
+                    "title": "Using the Array Reduce Method",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-using-array-reduce"
+                },
+                {
+                    "title": "forEach: The Iterator of No Return",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-array-foreach-method"
+                },
+                {
+                    "title": "Bonus: JavaScript Object-ball",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-object-ball"
+                },
+                {
+                    "title": "Arrays and Objects - What is Really Going On?",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-arrays-objects-what-is-really-going-on"
+                },
+                {
+                    "title": "Working with Arrays in JavaScript Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-quiz-working-with-arrays-in-javascript-quiz"
+                }
+            ]
+        },
+        {
+            "name": "JavaScript Advanced Syntax",
+            "items": [
+                {
+                    "title": "Video: Destructuring & Spread Operator",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-destructuring-and-spread-operator"
+                },
+                {
+                    "title": "Destructuring Assignment",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-destructuring-assignment"
+                },
+                {
+                    "title": "Advanced Function Parameter Syntax: Default / Rest / Spread",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-advanced-function-parameter-syntax-default-rest-spread"
+                }
+            ]
+        },
+        {
+            "name": "Introducing Flatiron's Three Pillars of JavaScript",
+            "items": [
+                {
+                    "title": "Defining Front-End Web Programming",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-defining-frontend-web-programming"
+                },
+                {
+                    "title": "Stitching Together the Three Pillars",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-stitching-together-the-three-pillars"
+                }
+            ]
+        },
+        {
+            "name": "JavaScript and the DOM",
+            "items": [
+                {
+                    "title": "Video: Intro to DOM",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-intro-to-dom"
+                },
+                {
+                    "title": "Introduction to the DOM",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-the-dom-introduction"
+                },
+                {
+                    "title": "DOM Editing Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-the-dom-editing-lab"
+                },
+                {
+                    "title": "Changing The DOM with DevTools and JavaScript",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-the-dom-dev-tools"
+                },
+                {
+                    "title": "The DOM Is a Tree",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-the-dom-is-a-tree"
+                },
+                {
+                    "title": "Video: DOM Selectors",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-dom-selectors"
+                },
+                {
+                    "title": "JavaScript Query Selector Methods",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-the-dom-query-selector-methods"
+                },
+                {
+                    "title": "Video: Changing DOM Elements",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-changing-dom-elements"
+                },
+                {
+                    "title": "Creating and Inserting DOM Nodes Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-the-dom-modifying-elements-lab"
+                },
+                {
+                    "title": "You're a DOM Manipulation Expert, Now!",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-youre-a-dom-manipulation-expert"
+                },
+                {
+                    "title": "JavaScript and The DOM Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-quiz-javascript-and-the-dom"
+                }
+            ]
+        },
+        {
+            "name": "JavaScript Events",
+            "items": [
+                {
+                    "title": "Video: DOM Events",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-dom-events"
+                },
+                {
+                    "title": "JavaScript Events",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-javascript-events"
+                },
+                {
+                    "title": "JavaScript Event Listeners Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-javascript-events-event-listening-lab"
+                },
+                {
+                    "title": "Moving Things with JavaScript by Acting on Events",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-javascript-events-acting-on-events-lab"
+                },
+                {
+                    "title": "Video: Forms",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-forms"
+                },
+                {
+                    "title": "Video: DOMContentLoaded",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-domcontentloaded"
+                },
+                {
+                    "title": "The JavaScript DOMContentLoaded Event",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-domcontentloaded"
+                },
+                {
+                    "title": "Challenge: TaskLister Mini-Project",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-tasklister-mini-project"
+                },
+                {
+                    "title": "You're an Eventing Expert Now!",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-youre-an-eventing-expert"
+                },
+                {
+                    "title": "JavaScript Events Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-quiz-javascript-events"
+                }
+            ]
+        },
+        {
+            "name": "Communicating with the Server",
+            "items": [
+                {
+                    "title": "Introduction to Communicating with the Server",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-intro-to-communicating-with-the-server"
+                },
+                {
+                    "title": "Video: Intro to the Internet",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-intro-to-the-internet"
+                },
+                {
+                    "title": "How The Web Works",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-how-the-web-works"
+                },
+                {
+                    "title": "Video: JSON",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-json"
+                },
+                {
+                    "title": "Video: Postman",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-postman"
+                },
+                {
+                    "title": "Using JSON Server and Postman to Mock Client/Server Communication",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-using-json-server-and-postman"
+                },
+                {
+                    "title": "Video: Asynchronous JavaScript & Fetch",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-asynchronous-javascript-and-fetch"
+                },
+                {
+                    "title": "Video: DOM Manipulation Review",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-dom-manipulation-review"
+                },
+                {
+                    "title": "Video: GET Requests",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-get-requests"
+                },
+                {
+                    "title": "Using fetch()",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-using-fetch"
+                },
+                {
+                    "title": "Fetch Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-fetch-lab"
+                },
+                {
+                    "title": "Fetch on Demand with Forms",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-js-fetch-on-demand-with-forms"
+                },
+                {
+                    "title": "Asynchronous JavaScript",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-asynchronous-javascript"
+                },
+                {
+                    "title": "Video: POST Requests",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-post-requests"
+                },
+                {
+                    "title": "Video: PATCH Requests",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-patch-requests"
+                },
+                {
+                    "title": "Video: DELETE Requests",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-delete-requests"
+                },
+                {
+                    "title": "Sending Data with Fetch",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-sending-data-with-fetch"
+                },
+                {
+                    "title": "Communicating with the Server Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-quiz-communicating-with-the-server"
+                }
+            ]
+        },
+        {
+            "name": "Combining the Three Pillars",
+            "items": [
+                {
+                    "title": "Pulling It All Together",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-pulling-it-all-together"
+                },
+                {
+                    "title": "Building the Simple Liker App",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-building-simple-liker"
+                }
+            ]
+        },
+        {
+            "name": "Applying Your Learning",
+            "items": [
+                {
+                    "title": "Interacting with the DOM using Events",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-practice-interacting-with-the-dom"
+                },
+                {
+                    "title": "Fetch Dog CEO",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-practice-dog-ceo"
+                },
+                {
+                    "title": "Toy Tale",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-practice-toy-tale"
+                },
+                {
+                    "title": "GitHub Search App",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-github-search-app"
+                }
+            ]
+        },
+        {
+            "name": "[Optional] Additional Practice: JavaScript",
+            "items": [
+                {
+                    "title": "Additional Practice: Monsters",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-monsters"
+                },
+                {
+                    "title": "Additional Practice: Woof Woof Welcome to Doggo Bark Bark",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-woof-woof-js-practice"
+                },
+                {
+                    "title": "Additional Practice: Westminster Kennel Club Dog Show",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-practice-dog-show"
+                },
+                {
+                    "title": "Additional Practice: BookLiker",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-bookliker"
+                },
+                {
+                    "title": "Phase 1 Mock Code Challenge: Ramen Rater",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-mock-cc-ramen-rater"
+                }
+            ]
+        },
+        {
+            "name": "Algorithmic Problem Solving",
+            "items": [
+                {
+                    "title": "Introduction to Algorithmic Problem Solving",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-algorithms-intro-to-algorithmic-problem-solving"
+                },
+                {
+                    "title": "What is an Algorithm?",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-algorithms-what-is-an-algorithm"
+                },
+                {
+                    "title": "Palindrome Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-algorithms-palindrome"
+                },
+                {
+                    "title": "Big O Notation",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-algorithms-big-o"
+                },
+                {
+                    "title": "Big O Examples",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-algorithms-big-o-examples"
+                },
+                {
+                    "title": "Has Target Sum Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-algorithms-has-target-sum"
+                },
+                {
+                    "title": "Algorithmic Problem Solving Conclusion",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-algorithms-algorithmic-problem-solving-conclusion"
+                },
+                {
+                    "title": "Algorithmic Problem Solving Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-quiz-algorithmic-problem-solving"
+                }
+            ]
+        },
+        {
+            "name": "Context in JavaScript",
+            "items": [
+                {
+                    "title": "Introduction to Context",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-intro-to-context"
+                },
+                {
+                    "title": "Context and Implicit Setting",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-context-implicit-setting"
+                },
+                {
+                    "title": "Context and Explicit Setting",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-context-explicit-setting"
+                },
+                {
+                    "title": "Context Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-context-lab"
+                },
+                {
+                    "title": "The Lost Context Bug Code-Along",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-the-lost-context-bug"
+                },
+                {
+                    "title": "JavaScript Functional Library Project",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-javascript-functional-library-project"
+                },
+                {
+                    "title": "Context in JavaScript Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-quiz-context-in-javascript"
+                }
+            ]
+        },
+        {
+            "name": "[Optional] Object-Oriented JavaScript",
+            "items": [
+                {
+                    "title": "Video: Intro to Object-Oriented JavaScript",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-intro-to-object-oriented-javascript"
+                },
+                {
+                    "title": "Video: Execution Context",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-exectution-context"
+                },
+                {
+                    "title": "Object Orientation in JavaScript",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-object-orientation-in-javascript"
+                },
+                {
+                    "title": "Classes and Instances",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-classes-and-instances"
+                },
+                {
+                    "title": "Initializing Instances",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-initializing-instances"
+                },
+                {
+                    "title": "Adding Behavior With Methods",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-adding-behavior-with-methods"
+                },
+                {
+                    "title": "Method Types",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-method-types"
+                },
+                {
+                    "title": "Getter and Setter Methods",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-getter-and-setter-methods"
+                },
+                {
+                    "title": "Static Methods Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-static-methods-lab"
+                },
+                {
+                    "title": "Video: Inheritance",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-lecture-videos-inheritance"
+                },
+                {
+                    "title": "Class Extensions and Inheritance",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-class-extension-and-inheritance"
+                },
+                {
+                    "title": "Class Extension Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-class-extension-lab"
+                },
+                {
+                    "title": "Super",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-super"
+                },
+                {
+                    "title": "Super Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-super-lab"
+                },
+                {
+                    "title": "Liskov's Substitution Principle",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-liskovs-substitution-principle"
+                },
+                {
+                    "title": "Object-Oriented JavaScript Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-quiz-object-oriented-javascript"
+                }
+            ]
+        },
+        {
+            "name": "[Optional] JavaScript Inheritance",
+            "items": [
+                {
+                    "title": "Prototypal Inheritance",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-intro-to-prototypal-inheritance"
+                },
+                {
+                    "title": "Constructor Functions",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-constructor-functions"
+                },
+                {
+                    "title": "Constructor Functions Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-constructor-functions-lab"
+                },
+                {
+                    "title": "Using Prototypes",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-using-prototypes"
+                },
+                {
+                    "title": "Object Methods in JS Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-object-oriented-methods-lab"
+                },
+                {
+                    "title": "Prototypal Inheritance Conclusion",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-prototypal-inheritance-conclusion"
+                }
+            ]
+        },
+        {
+            "name": "[Optional] Additional Practice: HTML Forms and Modern Elements",
+            "items": [
+                {
+                    "title": "HTML Forms",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-html-forms"
+                },
+                {
+                    "title": "HTML Forms Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-html-forms-lab"
+                },
+                {
+                    "title": "HTML IFrames",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-html-iframes"
+                },
+                {
+                    "title": "HTML IFrames Lab",
+                    "content": "https://github.com/learn-co-curriculum/html-iframes-lab"
+                },
+                {
+                    "title": "HTML5 Media",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-html5-media"
+                },
+                {
+                    "title": "HTML5 Embedded Videos Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-embedded-videos-lab"
+                },
+                {
+                    "title": "HTML5 Semantic Elements",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-html5-semantic-elements"
+                },
+                {
+                    "title": "HTML5 Semantic Elements Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-html5-containers-lab"
+                }
+            ]
+        },
+        {
+            "name": "Code Challenges",
+            "items": [
+                {
+                    "title": "Module Assessments and Instructions",
+                    "content": "viewer/files/Uploaded%20Media/example-code-challenge-2021-02-24.zip?canvas_=1&canvas_qs_wrap=1"
+                }
+            ]
+        },
+        {
+            "name": "Phase 1 Project",
+            "items": [
+                {
+                    "title": "Phase 1 Project Guidelines",
+                    "content": "https://github.com/learn-co-curriculum/phase-1-javascript-project-mode"
+                }
+            ]
+        },
+        {
+            "name": "[Supplemental] Git and GitHub",
+            "items": [
+                {
+                    "title": "Welcome to Git/GitHub",
+                    "content": "https://github.com/learn-co-curriculum/git-github-intro-to-git-github"
+                },
+                {
+                    "title": "Intro to Version Control",
+                    "content": "https://github.com/learn-co-curriculum/git-github-intro-to-version-control"
+                },
+                {
+                    "title": "Git Basics",
+                    "content": "https://github.com/learn-co-curriculum/git-github-git-basics"
+                },
+                {
+                    "title": ".gitignore",
+                    "content": "https://github.com/learn-co-curriculum/git-github-gitignore"
+                },
+                {
+                    "title": "Getting Code with GitHub",
+                    "content": "https://github.com/learn-co-curriculum/git-github-getting-code-from-github"
+                },
+                {
+                    "title": "Pushing Code to GitHub",
+                    "content": "https://github.com/learn-co-curriculum/git-github-pushing-code-to-github"
+                },
+                {
+                    "title": "Maintaining a Clean, Well-documented Commit History",
+                    "content": "https://github.com/learn-co-curriculum/git-github-commit-messages"
+                },
+                {
+                    "title": "Viewing the Git Commit History",
+                    "content": "https://github.com/learn-co-curriculum/git-github-viewing-git-history"
+                },
+                {
+                    "title": "Undoing Changes with Git",
+                    "content": "https://github.com/learn-co-curriculum/git-github-undoing-changes-with-git"
+                },
+                {
+                    "title": "Working with Branches",
+                    "content": "https://github.com/learn-co-curriculum/git-github-working-with-branches"
+                },
+                {
+                    "title": "Merging Branches with Git",
+                    "content": "https://github.com/learn-co-curriculum/git-github-merging-branches"
+                },
+                {
+                    "title": "Resolving Merge Conflicts",
+                    "content": "https://github.com/learn-co-curriculum/git-github-resolving-merge-conflicts"
+                },
+                {
+                    "title": "Collaborating with Git and GitHub",
+                    "content": "https://github.com/learn-co-curriculum/git-github-collaborating"
+                },
+                {
+                    "title": "Building a Great GitHub Profile",
+                    "content": "https://github.com/learn-co-curriculum/git-github-github-profile"
+                },
+                {
+                    "title": "Git and GitHub Quiz",
+                    "content": "https://github.com/learn-co-curriculum/git-github-quiz"
+                }
+            ]
+        }
+    ]
 }

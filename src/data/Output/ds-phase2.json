@@ -1,173 +1,652 @@
 {
-    "Topic 11: Combinatorics and Probability": {
-        "Combinatorics and Probability - Introduction": "https://github.com/learn-co-curriculum/dsc-probability-section-intro",
-        "What is Probability?": "https://github.com/learn-co-curriculum/dsc-probability-introduction",
-        "Introduction to Sets": "https://github.com/learn-co-curriculum/dsc-intro-to-sets",
-        "Introduction to Sets - Lab": "https://github.com/learn-co-curriculum/dsc-intro-to-sets-lab",
-        "Introduction to Probability": "https://github.com/learn-co-curriculum/dsc-intro-to-probability",
-        "Introduction to Probability - Lab": "https://github.com/learn-co-curriculum/dsc-intro-to-probability-lab",
-        "Permutations and Factorials": "https://github.com/learn-co-curriculum/dsc-permutations-and-factorials-v2-1",
-        "Permutations and Factorials - Lab": "https://github.com/learn-co-curriculum/dsc-permutations-and-factorials-lab-v2-1",
-        "Combinations": "https://github.com/learn-co-curriculum/dsc-combinations",
-        "Combinations - Lab": "https://github.com/learn-co-curriculum/dsc-combinations-lab",
-        "Conditional Probability": "https://github.com/learn-co-curriculum/dsc-conditional-probability",
-        "Conditional Probability - Lab": "https://github.com/learn-co-curriculum/dsc-conditional-probability-lab",
-        "Partitioning and the Law of Total Probability": "https://github.com/learn-co-curriculum/dsc-law-of-total-probability",
-        "Partitioning and Law of Total Probability - Lab": "https://github.com/learn-co-curriculum/dsc-law-of-total-probability-lab",
-        "Simulations with Conditional and Total Probability - Lab": "https://github.com/learn-co-curriculum/dsc-probability-simulations-lab",
-        "Combinatorics and Probability - Recap": "https://github.com/learn-co-curriculum/dsc-probability-section-recap"
-    },
-    "Topic 12: Statistical Distributions": {
-        "Statistical Distributions - Introduction": "https://github.com/learn-co-curriculum/dsc-distributions-intro-v2-2",
-        "Introduction to Sampling": "https://github.com/learn-co-curriculum/dsc-introduction-to-sampling",
-        "Statistical Distributions and Their Use Cases": "https://github.com/learn-co-curriculum/dsc-stat-distributions-use-cases",
-        "The Probability Mass Function (PMF)": "https://github.com/learn-co-curriculum/dsc-probability-mass-function",
-        "The Probability Mass Function - Lab": "https://github.com/learn-co-curriculum/dsc-probability-mass-function-lab",
-        "The Probability Density Function (PDF)": "https://github.com/learn-co-curriculum/dsc-probability-density-function",
-        "The Probability Density Function - Lab": "https://github.com/learn-co-curriculum/probability-density-functions-lab",
-        "The Cumulative Distribution Function": "https://github.com/learn-co-curriculum/dsc-cumulative-distribution-function",
-        "The Cumulative Distribution Function - Lab": "https://github.com/learn-co-curriculum/dsc-cumulative-distribution-function-lab",
-        "Bernoulli and Binomial Distribution": "https://github.com/learn-co-curriculum/dsc-bernoulli-and-binomial-distribution",
-        "Bernoulli and Binomial Distribution - Lab": "https://github.com/learn-co-curriculum/dsc-bernoulli-and-binomial-distribution-lab",
-        "The Normal Distribution": "https://github.com/learn-co-curriculum/dsc-normal-distribution",
-        "The Normal Distribution - Lab": "https://github.com/learn-co-curriculum/dsc-normal-distribution-lab",
-        "The Standard Normal Distribution": "https://github.com/learn-co-curriculum/dsc-standard-normal-distribution",
-        "The Standard Normal Distribution - Lab": "https://github.com/learn-co-curriculum/dsc-standard-normal-distribution-lab",
-        "Skewness and Kurtosis": "https://github.com/learn-co-curriculum/dsc-skewness-and-kurtosis",
-        "Skewness and Kurtosis - Lab": "https://github.com/learn-co-curriculum/dsc-skewness-and-kurtosis-lab",
-        "Statistical Distributions - Recap": "https://github.com/learn-co-curriculum/dsc-distributions-recap-v2-2"
-    },
-    "Topic 13: Central Limit Theorem and Confidence Intervals": {
-        "Central Limit Theorem and Confidence Intervals - Introduction": "https://github.com/learn-co-curriculum/dsc-confidence-intervals-intro-v2-2",
-        "Central Limit Theorem": "https://github.com/learn-co-curriculum/dsc-central-limit-theorem",
-        "Central Limit Theorem - Lab": "https://github.com/learn-co-curriculum/dsc-central-limit-theorem-lab",
-        "Sampling Statistics - Lab": "https://github.com/learn-co-curriculum/dsc-sampling-statistics-lab",
-        "Confidence Intervals - Lab": "https://github.com/learn-co-curriculum/dsc-confidence-intervals-lab",
-        "Confidence Intervals with T-Distribution": "https://github.com/learn-co-curriculum/dsc-intervals-with-t-distribution",
-        "Confidence Intervals with T Distribution - Lab": "https://github.com/learn-co-curriculum/dsc-intervals-with-t-distribution-lab",
-        "Introduction to Statistical Significance": "https://github.com/learn-co-curriculum/dsc-statistical-significance",
-        "Central Limit Theorem and Confidence Intervals - Recap": "https://github.com/learn-co-curriculum/dsc-inferential-statistics-section-recap"
-    },
-    "Topic 14: Hypothesis Testing": {
-        "Hypothesis Testing - Introduction": "https://github.com/learn-co-curriculum/dsc-hypothesis-testing-intro-v2-1",
-        "Introduction to Experimental Design": "https://github.com/learn-co-curriculum/dsc-experimental-design",
-        "Statistical Testing with z-score and p-value": "https://github.com/learn-co-curriculum/dsc-z-score-p-value",
-        "P-Values and the Null Hypothesis": "https://github.com/learn-co-curriculum/dsc-p-values-and-null-hypothesis",
-        "One-Sample z-Test": "https://github.com/learn-co-curriculum/dsc-one-sample-z-test",
-        "One-Sample z-test - Lab": "https://github.com/learn-co-curriculum/dsc-one-sample-z-test-lab",
-        "Conducting T-Tests": "https://github.com/learn-co-curriculum/dsc-t-tests",
-        "One Sample T-Test - Lab": "https://github.com/learn-co-curriculum/dsc-one-sample-t-tests-lab",
-        "Two Sample T-Test - Lab": "https://github.com/learn-co-curriculum/dsc-two-sample-t-tests-lab",
-        "Type I and Type II errors": "https://github.com/learn-co-curriculum/dsc-type-1-and-2-error",
-        "Type I and Type II Errors - Lab": "https://github.com/learn-co-curriculum/dsc-type-1-and-2-error-lab",
-        "Resampling Methods": "https://github.com/learn-co-curriculum/dsc-resampling-methods",
-        "Resampling Methods - Lab": "https://github.com/learn-co-curriculum/dsc-resampling-methods-lab",
-        "Hypothesis Testing - Recap": "https://github.com/learn-co-curriculum/dsc-hypothesis-testing-section-recap-v2-1"
-    },
-    "Topic 15: Statistical Power and ANOVA": {
-        "Statistical Power and ANOVA -  Introduction": "https://github.com/learn-co-curriculum/dsc-statistical-power-anova-introduction",
-        "Effect Size": "https://github.com/learn-co-curriculum/dsc-effect-sizes",
-        "Statistical Power": "https://github.com/learn-co-curriculum/dsc-statistical-power",
-        "Statistical Power - Lab": "https://github.com/learn-co-curriculum/dsc-statistical-power-lab",
-        "Welch's T-Test": "https://github.com/learn-co-curriculum/dsc-welchs-ttest",
-        "Welch's T-test - Lab": "https://github.com/learn-co-curriculum/dsc-welchs-ttest-lab",
-        "Effect Size, P-Values and Power - Lab": "https://github.com/learn-co-curriculum/dsc-effect-sizes-pvalues-and-power-lab",
-        "The Multiple Comparisons Problem": "https://github.com/learn-co-curriculum/dsc-multiple-comparisons-problem",
-        "Goodhart's Law and Metric Tracking": "https://github.com/learn-co-curriculum/dsc-goodharts-law-and-metric-tracking",
-        "The Kolmogorov-Smirnov Test": "https://github.com/learn-co-curriculum/dsc-kolmogorov-smirnov-test",
-        "The Kolmogorov-Smirnov Test - Lab": "https://github.com/learn-co-curriculum/dsc-komogorov-smirnov-test-lab",
-        "ANOVA": "https://github.com/learn-co-curriculum/dsc-anova",
-        "ANOVA  - Lab": "https://github.com/learn-co-curriculum/dsc-anova-lab",
-        "Chi-Square Tests": "https://github.com/learn-co-curriculum/dsc-chi-square",
-        "Hypothesis Testing - Cumulative Lab": "https://github.com/learn-co-curriculum/dsc-hypothesis-testing-lab",
-        "Statistical Power and ANOVA - Recap": "https://github.com/learn-co-curriculum/dsc-statistical-power-anova-recap"
-    },
-    "Topic 16: AB Testing": {
-        "AB Testing - Introduction": "https://github.com/learn-co-curriculum/dsc-ab-testing-introduction",
-        "A/B Testing": "https://github.com/learn-co-curriculum/dsc-ab-testing",
-        "A/B Testing - Lab": "https://github.com/learn-co-curriculum/dsc-ab-testing-lab",
-        "In Depth A/B Testing - Lab": "https://github.com/learn-co-curriculum/dsc-in-depth-ab-testing-lab",
-        "Website AB Testing - Lab": "https://github.com/learn-co-curriculum/dsc-website-ab-testing-lab",
-        "AB Testing - Recap": "https://github.com/learn-co-curriculum/dsc-ab-testing-recap"
-    },
-    "Topic 17: Bayesian Statistics": {
-        "Bayesian Statistics - Introduction": "https://github.com/learn-co-curriculum/dsc-bayesian-stats-introduction",
-        "Bayesians vs Frequentists": "https://github.com/learn-co-curriculum/dsc-bayesians-vs-frequentists",
-        "Bayes' Theorem": "https://github.com/learn-co-curriculum/dsc-bayes-theorem",
-        "Bayes' Theorem - Lab": "https://github.com/learn-co-curriculum/dsc-bayes-theorem-lab",
-        "The Monty Hall Problem": "https://github.com/learn-co-curriculum/dsc-monty-hall-problem-lab",
-        "Maximum Likelihood Estimation (MLE)": "https://github.com/learn-co-curriculum/dsc-mle",
-        "Maximum A Posteriori Estimation (MAP) and Multinomial Bayes": "https://github.com/learn-co-curriculum/dsc-map-multinomial-bayes",
-        "Bayesian Statistics - Recap": "https://github.com/learn-co-curriculum/dsc-bayesian-stats-recap"
-    },
-    "Topic 18: Introduction to Linear Regression": {
-        "Introduction to Linear Regression - Introduction": "https://github.com/learn-co-curriculum/dsc-linear-regression-section-intro-v2-5",
-        "Statistical Modeling": "https://github.com/learn-co-curriculum/dsc-statistical-modeling",
-        "Simple Linear Regression from Scratch - Codealong": "https://github.com/learn-co-curriculum/dsc-linear-regression-from-scratch",
-        "Regression Model Evaluation": "https://github.com/learn-co-curriculum/dsc-regression-model-evaluation",
-        "Coefficient of Determination - Lab": "https://github.com/learn-co-curriculum/dsc-coefficient-of-determination-lab",
-        "Linear Regression in StatsModels": "https://github.com/learn-co-curriculum/dsc-linear-regression-statsmodels",
-        "Linear Regression in StatsModels - Lab": "https://github.com/learn-co-curriculum/dsc-linear-regression-statsmodels-lab",
-        "Introduction to Linear Regression - Recap": "https://github.com/learn-co-curriculum/dsc-linear-regression-section-recap-v2-5"
-    },
-    "Topic 19: Multiple Linear Regression": {
-        "Multiple Linear Regression - Introduction": "https://github.com/learn-co-curriculum/dsc-multiple-regression-intro",
-        "Multiple Linear Regression": "https://github.com/learn-co-curriculum/dsc-multiple-linear-regression",
-        "Multiple Linear Regression in StatsModels": "https://github.com/learn-co-curriculum/dsc-multiple-linear-regression-in-statsmodels-v2-5",
-        "Multiple Linear Regression in StatsModels - Lab": "https://github.com/learn-co-curriculum/dsc-multiple-linear-regression-statsmodels-lab-v2-5",
-        "Multiple Regression Model Evaluation": "https://github.com/learn-co-curriculum/dsc-multiple-regression-evaluation",
-        "Dealing with Categorical Variables": "https://github.com/learn-co-curriculum/dsc-categorical-variables-regression",
-        "Interpreting One-Hot Encoded Coefficients": "https://github.com/learn-co-curriculum/dsc-interpreting-multiple-regression-coefficients",
-        "Dealing with Categorical Variables - Lab": "https://github.com/learn-co-curriculum/dsc-categorical-variables-regression-lab",
-        "Multiple Linear Regression - Cumulative Lab": "https://github.com/learn-co-curriculum/dsc-multiple-regression-cumulative-lab",
-        "Multiple Linear Regression - Recap": "https://github.com/learn-co-curriculum/dsc-multiple-regression-recap"
-    },
-    "Topic 20: Regression Diagnostics": {
-        "Regression Diagnostics - Introduction": "https://github.com/learn-co-curriculum/dsc-regression-diagnostics-intro",
-        "Linear Transformations": "https://github.com/learn-co-curriculum/dsc-linear-transformations",
-        "Linear Transformations - Lab": "https://github.com/learn-co-curriculum/dsc-linear-transformations-lab",
-        "Log Transformations": "https://github.com/learn-co-curriculum/dsc-log-transformations-v2-5",
-        "Log Transformations - Lab": "https://github.com/learn-co-curriculum/dsc-log-transformations-lab",
-        "Interactions": "https://github.com/learn-co-curriculum/dsc-interaction-terms-v2-5",
-        "Interactions - Lab": "https://github.com/learn-co-curriculum/dsc-interaction-terms-lab-v2-5",
-        "Polynomial Regression": "https://github.com/learn-co-curriculum/dsc-polynomial-regression-v2-5",
-        "Polynomial Regression - Lab": "https://github.com/learn-co-curriculum/dsc-polynomial-regression-lab-v2-5",
-        "Assumptions for Linear Regression": "https://github.com/learn-co-curriculum/dsc-regression-assumptions-v2-5",
-        "The Linearity Assumption": "https://github.com/learn-co-curriculum/dsc-linearity-assumption",
-        "Multicollinearity of Features": "https://github.com/learn-co-curriculum/dsc-multicollinearity-of-features",
-        "Multicollinearity of Features - Lab": "https://github.com/learn-co-curriculum/dsc-multicollinearity-of-features-lab",
-        "The Normality Assumption": "https://github.com/learn-co-curriculum/dsc-normality-assumption",
-        "The Homoscedasticity Assumption": "https://github.com/learn-co-curriculum/dsc-homoscedasticity-assumption",
-        "Regression Diagnostics - Recap": "https://github.com/learn-co-curriculum/dsc-regression-diagnostics-recap"
-    },
-    "Milestones": {
-        "CODE ASSESSMENTS": "https://github.com/learn-co-curriculum/dsc-regression-diagnostics-recap",
-        "Checkpoints": "https://github.com/learn-co-curriculum/dsc-regression-diagnostics-recap",
-        "Phase 2 Project Description": "https://github.com/learn-co-curriculum/dsc-phase-2-project-v2-3",
-        "Phase 2 Project - PDFs": "https://github.com/learn-co-curriculum/dsc-canvas-pdf-instructions",
-        "Blogging Overview": "https://github.com/learn-co-curriculum/dsc-blogging-overview"
-    },
-    "APPENDIX: Combinatorics": {
-        "Combinatorics: Recursive Functions": "https://github.com/learn-co-curriculum/dsc-recursive-functions",
-        "Combinatorics: Recursive Functions - Lab": "https://github.com/learn-co-curriculum/dsc-recursive-functions-lab"
-    },
-    "APPENDIX: More Distributions": {
-        "The Uniform Distribution": "https://github.com/learn-co-curriculum/dsc-uniform-distribution",
-        "Poisson Distribution": "https://github.com/learn-co-curriculum/dsc-poisson-distribution",
-        "The Poisson Distribution - Lab": "https://github.com/learn-co-curriculum/dsc-poisson-distribution-lab",
-        "The Exponential Distribution": "https://github.com/learn-co-curriculum/dsc-exponential-distribution",
-        "The Exponential Distribution - Lab": "https://github.com/learn-co-curriculum/dsc-exponential-distribution-lab"
-    },
-    "APPENDIX: Monte Carlo": {
-        "(Re)sampling: Monte Carlo Simulations": "https://github.com/learn-co-curriculum/dsc-monte-carlo-simulations",
-        "(Re)sampling: Monte Carlo Simulations - Lab": "https://github.com/learn-co-curriculum/dsc-monte-carlo-simulations-lab"
-    },
-    "APPENDIX : Multiple Linear Regression Project": {
-        "Obtaining Your Data": "https://github.com/learn-co-curriculum/dsc-obtaining-your-data",
-        "Obtaining Your Data - Lab": "https://github.com/learn-co-curriculum/dsc-obtaining-your-data-lab",
-        "Scrubbing and Cleaning Data": "https://github.com/learn-co-curriculum/dsc-scrubbing-and-cleaning-data",
-        "Scrubbing and Cleaning Data - Lab": "https://github.com/learn-co-curriculum/dsc-scrubbing-and-cleaning-data-lab",
-        "Exploring Your Data": "https://github.com/learn-co-curriculum/dsc-exploring-your-data",
-        "Exploring Your Data - Lab": "https://github.com/learn-co-curriculum/dsc-exploring-your-data-lab"
-    }
+    "title": "Phase 2",
+    "modules": [
+        {
+            "name": "Topic 11: Combinatorics and Probability",
+            "items": [
+                {
+                    "title": "Combinatorics and Probability - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-probability-section-intro"
+                },
+                {
+                    "title": "What is Probability?",
+                    "content": "https://github.com/learn-co-curriculum/dsc-probability-introduction"
+                },
+                {
+                    "title": "Introduction to Sets",
+                    "content": "https://github.com/learn-co-curriculum/dsc-intro-to-sets"
+                },
+                {
+                    "title": "Introduction to Sets - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-intro-to-sets-lab"
+                },
+                {
+                    "title": "Introduction to Probability",
+                    "content": "https://github.com/learn-co-curriculum/dsc-intro-to-probability"
+                },
+                {
+                    "title": "Introduction to Probability - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-intro-to-probability-lab"
+                },
+                {
+                    "title": "Permutations and Factorials",
+                    "content": "https://github.com/learn-co-curriculum/dsc-permutations-and-factorials-v2-1"
+                },
+                {
+                    "title": "Permutations and Factorials - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-permutations-and-factorials-lab-v2-1"
+                },
+                {
+                    "title": "Combinations",
+                    "content": "https://github.com/learn-co-curriculum/dsc-combinations"
+                },
+                {
+                    "title": "Combinations - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-combinations-lab"
+                },
+                {
+                    "title": "Conditional Probability",
+                    "content": "https://github.com/learn-co-curriculum/dsc-conditional-probability"
+                },
+                {
+                    "title": "Conditional Probability - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-conditional-probability-lab"
+                },
+                {
+                    "title": "Partitioning and the Law of Total Probability",
+                    "content": "https://github.com/learn-co-curriculum/dsc-law-of-total-probability"
+                },
+                {
+                    "title": "Partitioning and Law of Total Probability - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-law-of-total-probability-lab"
+                },
+                {
+                    "title": "Simulations with Conditional and Total Probability - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-probability-simulations-lab"
+                },
+                {
+                    "title": "Combinatorics and Probability - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-probability-section-recap"
+                }
+            ]
+        },
+        {
+            "name": "Topic 12: Statistical Distributions",
+            "items": [
+                {
+                    "title": "Statistical Distributions - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-distributions-intro-v2-2"
+                },
+                {
+                    "title": "Introduction to Sampling",
+                    "content": "https://github.com/learn-co-curriculum/dsc-introduction-to-sampling"
+                },
+                {
+                    "title": "Statistical Distributions and Their Use Cases",
+                    "content": "https://github.com/learn-co-curriculum/dsc-stat-distributions-use-cases"
+                },
+                {
+                    "title": "The Probability Mass Function (PMF)",
+                    "content": "https://github.com/learn-co-curriculum/dsc-probability-mass-function"
+                },
+                {
+                    "title": "The Probability Mass Function - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-probability-mass-function-lab"
+                },
+                {
+                    "title": "The Probability Density Function (PDF)",
+                    "content": "https://github.com/learn-co-curriculum/dsc-probability-density-function"
+                },
+                {
+                    "title": "The Probability Density Function - Lab",
+                    "content": "https://github.com/learn-co-curriculum/probability-density-functions-lab"
+                },
+                {
+                    "title": "The Cumulative Distribution Function",
+                    "content": "https://github.com/learn-co-curriculum/dsc-cumulative-distribution-function"
+                },
+                {
+                    "title": "The Cumulative Distribution Function - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-cumulative-distribution-function-lab"
+                },
+                {
+                    "title": "Bernoulli and Binomial Distribution",
+                    "content": "https://github.com/learn-co-curriculum/dsc-bernoulli-and-binomial-distribution"
+                },
+                {
+                    "title": "Bernoulli and Binomial Distribution - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-bernoulli-and-binomial-distribution-lab"
+                },
+                {
+                    "title": "The Normal Distribution",
+                    "content": "https://github.com/learn-co-curriculum/dsc-normal-distribution"
+                },
+                {
+                    "title": "The Normal Distribution - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-normal-distribution-lab"
+                },
+                {
+                    "title": "The Standard Normal Distribution",
+                    "content": "https://github.com/learn-co-curriculum/dsc-standard-normal-distribution"
+                },
+                {
+                    "title": "The Standard Normal Distribution - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-standard-normal-distribution-lab"
+                },
+                {
+                    "title": "Skewness and Kurtosis",
+                    "content": "https://github.com/learn-co-curriculum/dsc-skewness-and-kurtosis"
+                },
+                {
+                    "title": "Skewness and Kurtosis - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-skewness-and-kurtosis-lab"
+                },
+                {
+                    "title": "Statistical Distributions - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-distributions-recap-v2-2"
+                }
+            ]
+        },
+        {
+            "name": "Topic 13: Central Limit Theorem and Confidence Intervals",
+            "items": [
+                {
+                    "title": "Central Limit Theorem and Confidence Intervals - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-confidence-intervals-intro-v2-2"
+                },
+                {
+                    "title": "Central Limit Theorem",
+                    "content": "https://github.com/learn-co-curriculum/dsc-central-limit-theorem"
+                },
+                {
+                    "title": "Central Limit Theorem - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-central-limit-theorem-lab"
+                },
+                {
+                    "title": "Sampling Statistics - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-sampling-statistics-lab"
+                },
+                {
+                    "title": "Confidence Intervals - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-confidence-intervals-lab"
+                },
+                {
+                    "title": "Confidence Intervals with T-Distribution",
+                    "content": "https://github.com/learn-co-curriculum/dsc-intervals-with-t-distribution"
+                },
+                {
+                    "title": "Confidence Intervals with T Distribution - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-intervals-with-t-distribution-lab"
+                },
+                {
+                    "title": "Introduction to Statistical Significance",
+                    "content": "https://github.com/learn-co-curriculum/dsc-statistical-significance"
+                },
+                {
+                    "title": "Central Limit Theorem and Confidence Intervals - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-inferential-statistics-section-recap"
+                }
+            ]
+        },
+        {
+            "name": "Topic 14: Hypothesis Testing",
+            "items": [
+                {
+                    "title": "Hypothesis Testing - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-hypothesis-testing-intro-v2-1"
+                },
+                {
+                    "title": "Introduction to Experimental Design",
+                    "content": "https://github.com/learn-co-curriculum/dsc-experimental-design"
+                },
+                {
+                    "title": "Statistical Testing with z-score and p-value",
+                    "content": "https://github.com/learn-co-curriculum/dsc-z-score-p-value"
+                },
+                {
+                    "title": "P-Values and the Null Hypothesis",
+                    "content": "https://github.com/learn-co-curriculum/dsc-p-values-and-null-hypothesis"
+                },
+                {
+                    "title": "One-Sample z-Test",
+                    "content": "https://github.com/learn-co-curriculum/dsc-one-sample-z-test"
+                },
+                {
+                    "title": "One-Sample z-test - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-one-sample-z-test-lab"
+                },
+                {
+                    "title": "Conducting T-Tests",
+                    "content": "https://github.com/learn-co-curriculum/dsc-t-tests"
+                },
+                {
+                    "title": "One Sample T-Test - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-one-sample-t-tests-lab"
+                },
+                {
+                    "title": "Two Sample T-Test - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-two-sample-t-tests-lab"
+                },
+                {
+                    "title": "Type I and Type II errors",
+                    "content": "https://github.com/learn-co-curriculum/dsc-type-1-and-2-error"
+                },
+                {
+                    "title": "Type I and Type II Errors - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-type-1-and-2-error-lab"
+                },
+                {
+                    "title": "Resampling Methods",
+                    "content": "https://github.com/learn-co-curriculum/dsc-resampling-methods"
+                },
+                {
+                    "title": "Resampling Methods - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-resampling-methods-lab"
+                },
+                {
+                    "title": "Hypothesis Testing - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-hypothesis-testing-section-recap-v2-1"
+                }
+            ]
+        },
+        {
+            "name": "Topic 15: Statistical Power and ANOVA",
+            "items": [
+                {
+                    "title": "Statistical Power and ANOVA -  Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-statistical-power-anova-introduction"
+                },
+                {
+                    "title": "Effect Size",
+                    "content": "https://github.com/learn-co-curriculum/dsc-effect-sizes"
+                },
+                {
+                    "title": "Statistical Power",
+                    "content": "https://github.com/learn-co-curriculum/dsc-statistical-power"
+                },
+                {
+                    "title": "Statistical Power - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-statistical-power-lab"
+                },
+                {
+                    "title": "Welch's T-Test",
+                    "content": "https://github.com/learn-co-curriculum/dsc-welchs-ttest"
+                },
+                {
+                    "title": "Welch's T-test - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-welchs-ttest-lab"
+                },
+                {
+                    "title": "Effect Size, P-Values and Power - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-effect-sizes-pvalues-and-power-lab"
+                },
+                {
+                    "title": "The Multiple Comparisons Problem",
+                    "content": "https://github.com/learn-co-curriculum/dsc-multiple-comparisons-problem"
+                },
+                {
+                    "title": "Goodhart's Law and Metric Tracking",
+                    "content": "https://github.com/learn-co-curriculum/dsc-goodharts-law-and-metric-tracking"
+                },
+                {
+                    "title": "The Kolmogorov-Smirnov Test",
+                    "content": "https://github.com/learn-co-curriculum/dsc-kolmogorov-smirnov-test"
+                },
+                {
+                    "title": "The Kolmogorov-Smirnov Test - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-komogorov-smirnov-test-lab"
+                },
+                {
+                    "title": "ANOVA",
+                    "content": "https://github.com/learn-co-curriculum/dsc-anova"
+                },
+                {
+                    "title": "ANOVA  - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-anova-lab"
+                },
+                {
+                    "title": "Chi-Square Tests",
+                    "content": "https://github.com/learn-co-curriculum/dsc-chi-square"
+                },
+                {
+                    "title": "Hypothesis Testing - Cumulative Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-hypothesis-testing-lab"
+                },
+                {
+                    "title": "Statistical Power and ANOVA - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-statistical-power-anova-recap"
+                }
+            ]
+        },
+        {
+            "name": "Topic 16: AB Testing",
+            "items": [
+                {
+                    "title": "AB Testing - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-ab-testing-introduction"
+                },
+                {
+                    "title": "A/B Testing",
+                    "content": "https://github.com/learn-co-curriculum/dsc-ab-testing"
+                },
+                {
+                    "title": "A/B Testing - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-ab-testing-lab"
+                },
+                {
+                    "title": "In Depth A/B Testing - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-in-depth-ab-testing-lab"
+                },
+                {
+                    "title": "Website AB Testing - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-website-ab-testing-lab"
+                },
+                {
+                    "title": "AB Testing - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-ab-testing-recap"
+                }
+            ]
+        },
+        {
+            "name": "Topic 17: Bayesian Statistics",
+            "items": [
+                {
+                    "title": "Bayesian Statistics - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-bayesian-stats-introduction"
+                },
+                {
+                    "title": "Bayesians vs Frequentists",
+                    "content": "https://github.com/learn-co-curriculum/dsc-bayesians-vs-frequentists"
+                },
+                {
+                    "title": "Bayes' Theorem",
+                    "content": "https://github.com/learn-co-curriculum/dsc-bayes-theorem"
+                },
+                {
+                    "title": "Bayes' Theorem - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-bayes-theorem-lab"
+                },
+                {
+                    "title": "The Monty Hall Problem",
+                    "content": "https://github.com/learn-co-curriculum/dsc-monty-hall-problem-lab"
+                },
+                {
+                    "title": "Maximum Likelihood Estimation (MLE)",
+                    "content": "https://github.com/learn-co-curriculum/dsc-mle"
+                },
+                {
+                    "title": "Maximum A Posteriori Estimation (MAP) and Multinomial Bayes",
+                    "content": "https://github.com/learn-co-curriculum/dsc-map-multinomial-bayes"
+                },
+                {
+                    "title": "Bayesian Statistics - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-bayesian-stats-recap"
+                }
+            ]
+        },
+        {
+            "name": "Topic 18: Introduction to Linear Regression",
+            "items": [
+                {
+                    "title": "Introduction to Linear Regression - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-linear-regression-section-intro-v2-5"
+                },
+                {
+                    "title": "Statistical Modeling",
+                    "content": "https://github.com/learn-co-curriculum/dsc-statistical-modeling"
+                },
+                {
+                    "title": "Simple Linear Regression from Scratch - Codealong",
+                    "content": "https://github.com/learn-co-curriculum/dsc-linear-regression-from-scratch"
+                },
+                {
+                    "title": "Regression Model Evaluation",
+                    "content": "https://github.com/learn-co-curriculum/dsc-regression-model-evaluation"
+                },
+                {
+                    "title": "Coefficient of Determination - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-coefficient-of-determination-lab"
+                },
+                {
+                    "title": "Linear Regression in StatsModels",
+                    "content": "https://github.com/learn-co-curriculum/dsc-linear-regression-statsmodels"
+                },
+                {
+                    "title": "Linear Regression in StatsModels - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-linear-regression-statsmodels-lab"
+                },
+                {
+                    "title": "Introduction to Linear Regression - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-linear-regression-section-recap-v2-5"
+                }
+            ]
+        },
+        {
+            "name": "Topic 19: Multiple Linear Regression",
+            "items": [
+                {
+                    "title": "Topic 19 Lesson Priorities (Live)",
+                    "content": "pages/multiple-linear-regression-introduction"
+                },
+                {
+                    "title": "Multiple Linear Regression - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-multiple-regression-intro"
+                },
+                {
+                    "title": "Multiple Linear Regression",
+                    "content": "https://github.com/learn-co-curriculum/dsc-multiple-linear-regression"
+                },
+                {
+                    "title": "Multiple Linear Regression in StatsModels",
+                    "content": "https://github.com/learn-co-curriculum/dsc-multiple-linear-regression-in-statsmodels-v2-5"
+                },
+                {
+                    "title": "Multiple Linear Regression in StatsModels - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-multiple-linear-regression-statsmodels-lab-v2-5"
+                },
+                {
+                    "title": "Multiple Regression Model Evaluation",
+                    "content": "https://github.com/learn-co-curriculum/dsc-multiple-regression-evaluation"
+                },
+                {
+                    "title": "Dealing with Categorical Variables",
+                    "content": "https://github.com/learn-co-curriculum/dsc-categorical-variables-regression"
+                },
+                {
+                    "title": "Interpreting One-Hot Encoded Coefficients",
+                    "content": "https://github.com/learn-co-curriculum/dsc-interpreting-multiple-regression-coefficients"
+                },
+                {
+                    "title": "Dealing with Categorical Variables - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-categorical-variables-regression-lab"
+                },
+                {
+                    "title": "Multiple Linear Regression - Cumulative Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-multiple-regression-cumulative-lab"
+                },
+                {
+                    "title": "Multiple Linear Regression - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-multiple-regression-recap"
+                }
+            ]
+        },
+        {
+            "name": "Topic 20: Regression Diagnostics",
+            "items": [
+                {
+                    "title": "Topic 20 Lesson Priorities (Live)",
+                    "content": "pages/regression-diagnostics-introduction"
+                },
+                {
+                    "title": "Regression Diagnostics - Introduction",
+                    "content": "https://github.com/learn-co-curriculum/dsc-regression-diagnostics-intro"
+                },
+                {
+                    "title": "Linear Transformations",
+                    "content": "https://github.com/learn-co-curriculum/dsc-linear-transformations"
+                },
+                {
+                    "title": "Linear Transformations - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-linear-transformations-lab"
+                },
+                {
+                    "title": "Log Transformations",
+                    "content": "https://github.com/learn-co-curriculum/dsc-log-transformations-v2-5"
+                },
+                {
+                    "title": "Log Transformations - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-log-transformations-lab"
+                },
+                {
+                    "title": "Interactions",
+                    "content": "https://github.com/learn-co-curriculum/dsc-interaction-terms-v2-5"
+                },
+                {
+                    "title": "Interactions - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-interaction-terms-lab-v2-5"
+                },
+                {
+                    "title": "Polynomial Regression",
+                    "content": "https://github.com/learn-co-curriculum/dsc-polynomial-regression-v2-5"
+                },
+                {
+                    "title": "Polynomial Regression - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-polynomial-regression-lab-v2-5"
+                },
+                {
+                    "title": "Assumptions for Linear Regression",
+                    "content": "https://github.com/learn-co-curriculum/dsc-regression-assumptions-v2-5"
+                },
+                {
+                    "title": "The Linearity Assumption",
+                    "content": "https://github.com/learn-co-curriculum/dsc-linearity-assumption"
+                },
+                {
+                    "title": "Multicollinearity of Features",
+                    "content": "https://github.com/learn-co-curriculum/dsc-multicollinearity-of-features"
+                },
+                {
+                    "title": "Multicollinearity of Features - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-multicollinearity-of-features-lab"
+                },
+                {
+                    "title": "The Normality Assumption",
+                    "content": "https://github.com/learn-co-curriculum/dsc-normality-assumption"
+                },
+                {
+                    "title": "The Homoscedasticity Assumption",
+                    "content": "https://github.com/learn-co-curriculum/dsc-homoscedasticity-assumption"
+                },
+                {
+                    "title": "Regression Diagnostics - Recap",
+                    "content": "https://github.com/learn-co-curriculum/dsc-regression-diagnostics-recap"
+                }
+            ]
+        },
+        {
+            "name": "Milestones",
+            "items": [
+                {
+                    "title": "CODE ASSESSMENTS",
+                    "content": "https://github.com/learn-co-curriculum/dsc-regression-diagnostics-recap"
+                },
+                {
+                    "title": "Checkpoints",
+                    "content": "https://github.com/learn-co-curriculum/dsc-regression-diagnostics-recap"
+                },
+                {
+                    "title": "Phase 2 Project Description",
+                    "content": "https://github.com/learn-co-curriculum/dsc-phase-2-project-v2-3"
+                },
+                {
+                    "title": "Phase 2 Project - PDFs",
+                    "content": "https://github.com/learn-co-curriculum/dsc-canvas-pdf-instructions"
+                },
+                {
+                    "title": "Blogging Overview",
+                    "content": "https://github.com/learn-co-curriculum/dsc-blogging-overview"
+                }
+            ]
+        },
+        {
+            "name": "APPENDIX: Combinatorics",
+            "items": [
+                {
+                    "title": "Combinatorics: Recursive Functions",
+                    "content": "https://github.com/learn-co-curriculum/dsc-recursive-functions"
+                },
+                {
+                    "title": "Combinatorics: Recursive Functions - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-recursive-functions-lab"
+                }
+            ]
+        },
+        {
+            "name": "APPENDIX: More Distributions",
+            "items": [
+                {
+                    "title": "The Uniform Distribution",
+                    "content": "https://github.com/learn-co-curriculum/dsc-uniform-distribution"
+                },
+                {
+                    "title": "Poisson Distribution",
+                    "content": "https://github.com/learn-co-curriculum/dsc-poisson-distribution"
+                },
+                {
+                    "title": "The Poisson Distribution - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-poisson-distribution-lab"
+                },
+                {
+                    "title": "The Exponential Distribution",
+                    "content": "https://github.com/learn-co-curriculum/dsc-exponential-distribution"
+                },
+                {
+                    "title": "The Exponential Distribution - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-exponential-distribution-lab"
+                }
+            ]
+        },
+        {
+            "name": "APPENDIX: Monte Carlo",
+            "items": [
+                {
+                    "title": "(Re)sampling: Monte Carlo Simulations",
+                    "content": "https://github.com/learn-co-curriculum/dsc-monte-carlo-simulations"
+                },
+                {
+                    "title": "(Re)sampling: Monte Carlo Simulations - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-monte-carlo-simulations-lab"
+                }
+            ]
+        },
+        {
+            "name": "APPENDIX : Multiple Linear Regression Project",
+            "items": [
+                {
+                    "title": "Obtaining Your Data",
+                    "content": "https://github.com/learn-co-curriculum/dsc-obtaining-your-data"
+                },
+                {
+                    "title": "Obtaining Your Data - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-obtaining-your-data-lab"
+                },
+                {
+                    "title": "Scrubbing and Cleaning Data",
+                    "content": "https://github.com/learn-co-curriculum/dsc-scrubbing-and-cleaning-data"
+                },
+                {
+                    "title": "Scrubbing and Cleaning Data - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-scrubbing-and-cleaning-data-lab"
+                },
+                {
+                    "title": "Exploring Your Data",
+                    "content": "https://github.com/learn-co-curriculum/dsc-exploring-your-data"
+                },
+                {
+                    "title": "Exploring Your Data - Lab",
+                    "content": "https://github.com/learn-co-curriculum/dsc-exploring-your-data-lab"
+                }
+            ]
+        }
+    ]
 }

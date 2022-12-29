@@ -1,166 +1,616 @@
 {
-    "Phase 4 Overview": {
-        "Welcome to Phase 4": "https://github.com/learn-co-curriculum/phase-4-welcome-to-phase"
-    },
-    "Discussion Questions": {
-        "REST Discussion Questions": "https://github.com/learn-co-curriculum/phase-4-dq-rest"
-    },
-    "Rails Fundamentals": {
-        "Intro to Rails": "https://github.com/learn-co-curriculum/phase-4-intro-to-rails-readme",
-        "Video: Creating a Rails App": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-creating-a-rails-app",
-        "Video: Rails File Structure": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-rails-file-structure",
-        "Creating a Rails App": "https://github.com/learn-co-curriculum/phase-4-creating-a-rails-app-readme",
-        "Video: MVC": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-mvc",
-        "Model-View-Controller (MVC)": "https://github.com/learn-co-curriculum/phase-4-model-view-controller-readme",
-        "Video: Rails Generators": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-rails-generators",
-        "Video: Rails Migrations": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-rails-migrations",
-        "Video: Seeds": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-seeds",
-        "Video: Faker": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-faker",
-        "Rails and Active Record": "https://github.com/learn-co-curriculum/phase-4-rails-and-active-record-readme",
-        "Rails and Active Record Lab": "https://github.com/learn-co-curriculum/phase-4-rails-and-active-record-lab",
-        "Video: Rails Routes": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-rails-routes",
-        "Rails Routing Basics": "https://github.com/learn-co-curriculum/phase-4-rails-routing-basics-readme",
-        "Rails Routing Basics Lab": "https://github.com/learn-co-curriculum/phase-4-rails-routing-basics-lab",
-        "Route Params": "https://github.com/learn-co-curriculum/phase-4-rails-route-params-readme",
-        "Route Params Lab": "https://github.com/learn-co-curriculum/phase-4-rails-route-params-lab",
-        "Custom Rendering": "https://github.com/learn-co-curriculum/phase-4-custom-rendering",
-        "Rails Fundamentals Quiz": "https://github.com/learn-co-curriculum/phase-4-quiz-rails-fundamentals"
-    },
-    "CRUD with Rails": {
-        "Video: REST": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-rest",
-        "RESTful Routing Conventions": "https://github.com/learn-co-curriculum/phase-4-restful-routing-conventions",
-        "Video: CRUD App Introduction": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-intro-to-crud",
-        "Video: Index": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-index",
-        "Video: Show": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-show",
-        "Rails Resource Routing: Index and Show": "https://github.com/learn-co-curriculum/phase-4-rails-resources-index-show",
-        "Testing APIs with Postman": "https://github.com/learn-co-curriculum/phase-4-testing-apis-with-postman",
-        "Video: Create": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-create",
-        "Rails Resource Routing: Create": "https://github.com/learn-co-curriculum/phase-4-rails-resources-create",
-        "Strong Params and Mass Assignment": "https://github.com/learn-co-curriculum/phase-4-rails-strong-params",
-        "Rails Create, Index, and Show Lab": "https://github.com/learn-co-curriculum/phase-4-rails-create-read-lab",
-        "Video: Update": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-update",
-        "Rails Resource Routing: Update": "https://github.com/learn-co-curriculum/phase-4-rails-resources-update",
-        "Video: Delete": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-delete",
-        "Rails Resource Routing: Destroy": "https://github.com/learn-co-curriculum/phase-4-rails-resources-destroy",
-        "Video: Custom Rendering": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-custom-rendering",
-        "Controller Exception Handling": "https://github.com/learn-co-curriculum/phase-4-controller-exception-handling",
-        "Rails Update and Destroy Lab": "https://github.com/learn-co-curriculum/phase-4-rails-update-destroy-lab",
-        "Putting it All Together: Rails CRUD": "https://github.com/learn-co-curriculum/phase-4-mini-project-crud"
-    },
-    "Validations": {
-        "Video: Validations": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-validations",
-        "Active Record Validations": "https://github.com/learn-co-curriculum/phase-4-active-record-validations-readme",
-        "Video: Custom Validations": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-custom-validations",
-        "Active Record Validations Lab": "https://github.com/learn-co-curriculum/phase-4-active-record-validations-lab",
-        "Controller Validations": "https://github.com/learn-co-curriculum/phase-4-controller-validations-readme",
-        "Controller Validations Lab": "https://github.com/learn-co-curriculum/phase-4-controller-validations-lab",
-        "Validations Quiz": "https://github.com/learn-co-curriculum/phase-4-quiz-validations"
-    },
-    "Client-Server Communication": {
-        "Creating a Rails API from Scratch": "https://github.com/learn-co-curriculum/phase-4-creating-a-rails-api",
-        "Video: Client Configuration": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-client-configuration",
-        "Video: Client-Server GET Requests": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-client-server-get-requests",
-        "Video: Client-Server POST Requests": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-client-server-post-requests",
-        "Video: Client-Server POST Request Error Handling": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-client-server-post-request-error-handling",
-        "Video: Client-Server DELETE Requests": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-client-server-delete-requests",
-        "Adding React to Rails": "https://github.com/learn-co-curriculum/phase-4-adding-react-to-rails",
-        "Debugging Network Requests": "https://github.com/learn-co-curriculum/phase-4-debugging-network-requests",
-        "Validation Messages and Error Handling": "https://github.com/learn-co-curriculum/phase-4-validation-messages-and-error-handling",
-        "Putting it All Together: Client-Server Communication": "https://github.com/learn-co-curriculum/phase-4-debugging-network-requests-lab"
-    },
-    "Active Record Associations": {
-        "Video: Rails Relationships": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-rails-relationships",
-        "Active Record Associations Review": "https://github.com/learn-co-curriculum/phase-4-active-record-associations-review-readme",
-        "Active Record Associations Review Lab": "https://github.com/learn-co-curriculum/phase-4-active-record-associations-review-lab",
-        "Displaying Associated Data": "https://github.com/learn-co-curriculum/phase-4-displaying-associated-data",
-        "Displaying Associated Data Lab": "https://github.com/learn-co-curriculum/phase-4-displaying-associated-data-lab",
-        "Deleting Associated Data": "https://github.com/learn-co-curriculum/phase-4-deleting-associated-data",
-        "Nested Resource Routing": "https://github.com/learn-co-curriculum/phase-4-nested-resource-routing",
-        "Nested Resource Routing Lab": "https://github.com/learn-co-curriculum/phase-4-nested-resource-routing-lab",
-        "Active Record Associations Quiz": "https://github.com/learn-co-curriculum/phase-4-quiz-active-record-associations"
-    },
-    "Serialization": {
-        "Video: Serializers Introduction": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-serializers-introduction",
-        "Active Model Serializer": "https://github.com/learn-co-curriculum/phase-4-using-active-model-serializer",
-        "Video: Serializing Relationships": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-serializing-relationships",
-        "Serializing Associations": "https://github.com/learn-co-curriculum/phase-4-serializing-associations",
-        "Active Model Serializer Lab": "https://github.com/learn-co-curriculum/phase-4-active-model-serializer-lab",
-        "Active Model Serializer Quiz": "https://github.com/learn-co-curriculum/phase-4-quiz-active-model-serializer"
-    },
-    "Applying Your Learning": {
-        "Rails Mock Challenge - Camping Fun": "https://github.com/learn-co-curriculum/phase-4-mock-challenge-camping-fun",
-        "Rails Mock Challenge - Cosmic Travel": "https://github.com/learn-co-curriculum/phase-4-rails-practice-challenge-cosmic-challenge",
-        "Rails Practice Challenge - Students": "https://github.com/learn-co-curriculum/phase-4-rails-practice-challenge-students",
-        "Rails Practice Challenge - Apartments": "https://github.com/learn-co-curriculum/phase-4-rails-practice-challenge-apartments",
-        "Rails Practice Challenge - Gym": "https://github.com/learn-co-curriculum/phase-4-rails-practice-challenge-gym"
-    },
-    "Auth": {
-        "Video: Sessions and Cookies: Configuration": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-sessions-and-cookies--configuration",
-        "Video: Sessions and Cookies Intro": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-sessions-and-cookies-intro",
-        "Cookies and Sessions": "https://github.com/learn-co-curriculum/phase-4-cookies-and-sessions-readme",
-        "Cookies in APIs": "https://github.com/learn-co-curriculum/phase-4-cookies-in-rails-api",
-        "Cookies and Sessions Lab": "https://github.com/learn-co-curriculum/phase-4-cookies-and-sessions-lab",
-        "Authenticating Users": "https://github.com/learn-co-curriculum/phase-4-authenticating-users-readme",
-        "Authenticating Users Lab": "https://github.com/learn-co-curriculum/phase-4-authenticating-users-lab",
-        "Authorizing Requests": "https://github.com/learn-co-curriculum/phase-4-authorizing-requests-readme",
-        "Authorizing Requests Lab": "https://github.com/learn-co-curriculum/phase-4-authorizing-requests-lab",
-        "Video: BCrypt": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-bcrypt",
-        "Video: Auth: Signup": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-auth--signup",
-        "Video: Auth: Login": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-auth--login",
-        "Video: Authorization": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-authorization",
-        "Video: Authorization: Client": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-authorization--client",
-        "Password Protection": "https://github.com/learn-co-curriculum/phase-4-password-protection-readme",
-        "Password Protection Lab": "https://github.com/learn-co-curriculum/phase-4-password-protection-lab",
-        "Putting it All Together: Auth": "https://github.com/learn-co-curriculum/phase-4-rails-putting-it-all-together-auth",
-        "[Optional] JWT Auth in Redux and Rails": "https://github.com/learn-co-curriculum/phase-4-jwt-auth"
-    },
-    "Deploying": {
-        "Intro to Deploying": "https://github.com/learn-co-curriculum/phase-4-intro-to-deploying",
-        "Deploying a Rails API to Render": "https://github.com/learn-co-curriculum/phase-4-deploying-rails-api-to-render",
-        "Deploying a Rails-React App to Render": "https://github.com/learn-co-curriculum/phase-4-deploying-rails-react-to-render",
-        "Deploying Quiz": "https://github.com/learn-co-curriculum/phase-4-quiz-deploying"
-    },
-    "Phase 4 Project": {
-        "Phase 4 Project Guidelines": "https://github.com/learn-co-curriculum/phase-4-project-guidelines"
-    },
-    "Data Structures": {
-        "Introduction to Data Structures": "https://github.com/learn-co-curriculum/phase-4-data-structures-intro-to-data-structures",
-        "Using Data Structures": "https://github.com/learn-co-curriculum/phase-4-data-structures-using-data-structures",
-        "Stack Data Structure": "https://github.com/learn-co-curriculum/phase-4-data-structures-stack",
-        "Implement a Stack Lab": "https://github.com/learn-co-curriculum/phase-4-data-structures-implement-a-stack",
-        "Balancing Parentheses Lab": "https://github.com/learn-co-curriculum/phase-4-data-structures-balancing-parentheses",
-        "Create a Queue from Two Stacks Lab": "https://github.com/learn-co-curriculum/phase-4-data-structures-queue-from-stack",
-        "Singly Linked List Data Structure": "https://github.com/learn-co-curriculum/phase-4-data-structures-singly-linked-list",
-        "Singly Linked List Methods Lab": "https://github.com/learn-co-curriculum/phase-4-data-structures-implement-singly-linked-list",
-        "Singly Linked List Return Node Lab": "https://github.com/learn-co-curriculum/phase-4-data-structures-singly-linked-list-return-node",
-        "Doubly Linked List Data Structure": "https://github.com/learn-co-curriculum/phase-4-data-structures-doubly-linked-list",
-        "Reverse a Doubly Linked List": "https://github.com/learn-co-curriculum/phase-4-reverse-doubly-linked-list",
-        "Tree Data Structure": "https://github.com/learn-co-curriculum/phase-4-data-structures-tree",
-        "Tree Traversal": "https://github.com/learn-co-curriculum/phase-4-data-structures-tree-traversal",
-        "Binary Search Tree Lab": "https://github.com/learn-co-curriculum/phase-4-data-structures-binary-search-tree-lab",
-        "Data Structures Conclusion": "https://github.com/learn-co-curriculum/phase-4-data-structures-conclusion"
-    },
-    "[Optional] Redux: Building Redux from Scratch": {
-        "Why Redux?": "https://github.com/learn-co-curriculum/react-hooks-redux-why-redux",
-        "Using Pure Functions to Update Application State": "https://github.com/learn-co-curriculum/react-hooks-redux-data-flow",
-        "Reducers Lab": "https://github.com/learn-co-curriculum/react-hooks-redux-reducers-lab",
-        "Persisting State and Displaying State": "https://github.com/learn-co-curriculum/react-hooks-redux-dispatch",
-        "Dispatching an Initial Action for Setup": "https://github.com/learn-co-curriculum/react-hooks-redux-initial-dispatch",
-        "Completing our Counter Application": "https://github.com/learn-co-curriculum/react-hooks-redux-dispatch-with-events",
-        "Refactoring Our Code Into A Library": "https://github.com/learn-co-curriculum/react-hooks-redux-create-store",
-        "(Candy) Store Lab": "https://github.com/learn-co-curriculum/react-hooks-redux-create-store-lab"
-    },
-    "[Optional] Redux: Using the Redux Library": {
-        "Intro to Redux: Reading Data from State": "https://github.com/learn-co-curriculum/react-hooks-redux-intro-to-redux-codealong",
-        "Access State with useSelector": "https://github.com/learn-co-curriculum/react-hooks-redux-use-selector-lab",
-        "Review and Dive into Actions": "https://github.com/learn-co-curriculum/react-hooks-redux-action-creators",
-        "Dispatching Actions with useDispatch": "https://github.com/learn-co-curriculum/react-hooks-redux-use-dispatch-readme",
-        "Using the useDispatch Hook Lab": "https://github.com/learn-co-curriculum/react-hooks-redux-use-dispatch-lab",
-        "Redux Combine Reducers": "https://github.com/learn-co-curriculum/react-hooks-redux-combine-reducers",
-        "Redux Put It Together": "https://github.com/learn-co-curriculum/react-hooks-redux-quote-lab",
-        "React Component State vs Redux Store State": "https://github.com/learn-co-curriculum/react-hooks-redux-component-state-vs-store-state",
-        "Asynchronous Web Requests Using Thunk and Redux": "https://github.com/learn-co-curriculum/react-hooks-redux-thunk-readme",
-        "Async Redux Lab: Pictures of Cats": "https://github.com/learn-co-curriculum/react-hooks-redux-thunk-lab",
-        "Redux Toolkit": "https://github.com/learn-co-curriculum/react-hooks-redux-toolkit"
-    }
+    "title": "Phase 4",
+    "modules": [
+        {
+            "name": "Phase 4 Overview",
+            "items": [
+                {
+                    "title": "Welcome to Phase 4",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-welcome-to-phase"
+                }
+            ]
+        },
+        {
+            "name": "Discussion Questions",
+            "items": [
+                {
+                    "title": "REST Discussion Questions",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-dq-rest"
+                }
+            ]
+        },
+        {
+            "name": "Rails Fundamentals",
+            "items": [
+                {
+                    "title": "Intro to Rails",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-intro-to-rails-readme"
+                },
+                {
+                    "title": "Video: Creating a Rails App",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-creating-a-rails-app"
+                },
+                {
+                    "title": "Video: Rails File Structure",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-rails-file-structure"
+                },
+                {
+                    "title": "Creating a Rails App",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-creating-a-rails-app-readme"
+                },
+                {
+                    "title": "Video: MVC",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-mvc"
+                },
+                {
+                    "title": "Model-View-Controller (MVC)",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-model-view-controller-readme"
+                },
+                {
+                    "title": "Video: Rails Generators",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-rails-generators"
+                },
+                {
+                    "title": "Video: Rails Migrations",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-rails-migrations"
+                },
+                {
+                    "title": "Video: Seeds",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-seeds"
+                },
+                {
+                    "title": "Video: Faker",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-faker"
+                },
+                {
+                    "title": "Rails and Active Record",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-and-active-record-readme"
+                },
+                {
+                    "title": "Rails and Active Record Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-and-active-record-lab"
+                },
+                {
+                    "title": "Video: Rails Routes",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-rails-routes"
+                },
+                {
+                    "title": "Rails Routing Basics",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-routing-basics-readme"
+                },
+                {
+                    "title": "Rails Routing Basics Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-routing-basics-lab"
+                },
+                {
+                    "title": "Route Params",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-route-params-readme"
+                },
+                {
+                    "title": "Route Params Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-route-params-lab"
+                },
+                {
+                    "title": "Custom Rendering",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-custom-rendering"
+                },
+                {
+                    "title": "Rails Fundamentals Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-quiz-rails-fundamentals"
+                }
+            ]
+        },
+        {
+            "name": "CRUD with Rails",
+            "items": [
+                {
+                    "title": "Video: REST",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-rest"
+                },
+                {
+                    "title": "RESTful Routing Conventions",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-restful-routing-conventions"
+                },
+                {
+                    "title": "Video: CRUD App Introduction",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-intro-to-crud"
+                },
+                {
+                    "title": "Video: Index",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-index"
+                },
+                {
+                    "title": "Video: Show",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-show"
+                },
+                {
+                    "title": "Rails Resource Routing: Index and Show",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-resources-index-show"
+                },
+                {
+                    "title": "Testing APIs with Postman",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-testing-apis-with-postman"
+                },
+                {
+                    "title": "Video: Create",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-create"
+                },
+                {
+                    "title": "Rails Resource Routing: Create",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-resources-create"
+                },
+                {
+                    "title": "Strong Params and Mass Assignment",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-strong-params"
+                },
+                {
+                    "title": "Rails Create, Index, and Show Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-create-read-lab"
+                },
+                {
+                    "title": "Video: Update",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-update"
+                },
+                {
+                    "title": "Rails Resource Routing: Update",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-resources-update"
+                },
+                {
+                    "title": "Video: Delete",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-delete"
+                },
+                {
+                    "title": "Rails Resource Routing: Destroy",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-resources-destroy"
+                },
+                {
+                    "title": "Video: Custom Rendering",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-custom-rendering"
+                },
+                {
+                    "title": "Controller Exception Handling",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-controller-exception-handling"
+                },
+                {
+                    "title": "Rails Update and Destroy Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-update-destroy-lab"
+                },
+                {
+                    "title": "Putting it All Together: Rails CRUD",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-mini-project-crud"
+                }
+            ]
+        },
+        {
+            "name": "Validations",
+            "items": [
+                {
+                    "title": "Video: Validations",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-validations"
+                },
+                {
+                    "title": "Active Record Validations",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-active-record-validations-readme"
+                },
+                {
+                    "title": "Video: Custom Validations",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-custom-validations"
+                },
+                {
+                    "title": "Active Record Validations Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-active-record-validations-lab"
+                },
+                {
+                    "title": "Controller Validations",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-controller-validations-readme"
+                },
+                {
+                    "title": "Controller Validations Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-controller-validations-lab"
+                },
+                {
+                    "title": "Validations Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-quiz-validations"
+                }
+            ]
+        },
+        {
+            "name": "Client-Server Communication",
+            "items": [
+                {
+                    "title": "Creating a Rails API from Scratch",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-creating-a-rails-api"
+                },
+                {
+                    "title": "Video: Client Configuration",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-client-configuration"
+                },
+                {
+                    "title": "Video: Client-Server GET Requests",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-client-server-get-requests"
+                },
+                {
+                    "title": "Video: Client-Server POST Requests",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-client-server-post-requests"
+                },
+                {
+                    "title": "Video: Client-Server POST Request Error Handling",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-client-server-post-request-error-handling"
+                },
+                {
+                    "title": "Video: Client-Server DELETE Requests",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-client-server-delete-requests"
+                },
+                {
+                    "title": "Adding React to Rails",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-adding-react-to-rails"
+                },
+                {
+                    "title": "Debugging Network Requests",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-debugging-network-requests"
+                },
+                {
+                    "title": "Validation Messages and Error Handling",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-validation-messages-and-error-handling"
+                },
+                {
+                    "title": "Putting it All Together: Client-Server Communication",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-debugging-network-requests-lab"
+                }
+            ]
+        },
+        {
+            "name": "Active Record Associations",
+            "items": [
+                {
+                    "title": "Video: Rails Relationships",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-rails-relationships"
+                },
+                {
+                    "title": "Active Record Associations Review",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-active-record-associations-review-readme"
+                },
+                {
+                    "title": "Active Record Associations Review Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-active-record-associations-review-lab"
+                },
+                {
+                    "title": "Displaying Associated Data",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-displaying-associated-data"
+                },
+                {
+                    "title": "Displaying Associated Data Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-displaying-associated-data-lab"
+                },
+                {
+                    "title": "Deleting Associated Data",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-deleting-associated-data"
+                },
+                {
+                    "title": "Nested Resource Routing",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-nested-resource-routing"
+                },
+                {
+                    "title": "Nested Resource Routing Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-nested-resource-routing-lab"
+                },
+                {
+                    "title": "Active Record Associations Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-quiz-active-record-associations"
+                }
+            ]
+        },
+        {
+            "name": "Serialization",
+            "items": [
+                {
+                    "title": "Video: Serializers Introduction",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-serializers-introduction"
+                },
+                {
+                    "title": "Active Model Serializer",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-using-active-model-serializer"
+                },
+                {
+                    "title": "Video: Serializing Relationships",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-serializing-relationships"
+                },
+                {
+                    "title": "Serializing Associations",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-serializing-associations"
+                },
+                {
+                    "title": "Active Model Serializer Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-active-model-serializer-lab"
+                },
+                {
+                    "title": "Active Model Serializer Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-quiz-active-model-serializer"
+                }
+            ]
+        },
+        {
+            "name": "Applying Your Learning",
+            "items": [
+                {
+                    "title": "Rails Mock Challenge - Camping Fun",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-mock-challenge-camping-fun"
+                },
+                {
+                    "title": "Rails Mock Challenge - Cosmic Travel",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-practice-challenge-cosmic-challenge"
+                },
+                {
+                    "title": "Rails Practice Challenge - Students",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-practice-challenge-students"
+                },
+                {
+                    "title": "Rails Practice Challenge - Apartments",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-practice-challenge-apartments"
+                },
+                {
+                    "title": "Rails Practice Challenge - Gym",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-practice-challenge-gym"
+                }
+            ]
+        },
+        {
+            "name": "Auth",
+            "items": [
+                {
+                    "title": "Video: Sessions and Cookies: Configuration",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-sessions-and-cookies--configuration"
+                },
+                {
+                    "title": "Video: Sessions and Cookies Intro",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-sessions-and-cookies-intro"
+                },
+                {
+                    "title": "Cookies and Sessions",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-cookies-and-sessions-readme"
+                },
+                {
+                    "title": "Cookies in APIs",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-cookies-in-rails-api"
+                },
+                {
+                    "title": "Cookies and Sessions Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-cookies-and-sessions-lab"
+                },
+                {
+                    "title": "Authenticating Users",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-authenticating-users-readme"
+                },
+                {
+                    "title": "Authenticating Users Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-authenticating-users-lab"
+                },
+                {
+                    "title": "Authorizing Requests",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-authorizing-requests-readme"
+                },
+                {
+                    "title": "Authorizing Requests Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-authorizing-requests-lab"
+                },
+                {
+                    "title": "Video: BCrypt",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-bcrypt"
+                },
+                {
+                    "title": "Video: Auth: Signup",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-auth--signup"
+                },
+                {
+                    "title": "Video: Auth: Login",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-auth--login"
+                },
+                {
+                    "title": "Video: Authorization",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-authorization"
+                },
+                {
+                    "title": "Video: Authorization: Client",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-lecture-videos-authorization--client"
+                },
+                {
+                    "title": "Password Protection",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-password-protection-readme"
+                },
+                {
+                    "title": "Password Protection Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-password-protection-lab"
+                },
+                {
+                    "title": "Putting it All Together: Auth",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-rails-putting-it-all-together-auth"
+                },
+                {
+                    "title": "[Optional] JWT Auth in Redux and Rails",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-jwt-auth"
+                }
+            ]
+        },
+        {
+            "name": "Deploying",
+            "items": [
+                {
+                    "title": "Intro to Deploying",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-intro-to-deploying"
+                },
+                {
+                    "title": "Deploying a Rails API to Render",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-deploying-rails-api-to-render"
+                },
+                {
+                    "title": "Deploying a Rails-React App to Render",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-deploying-rails-react-to-render"
+                },
+                {
+                    "title": "Deploying Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-quiz-deploying"
+                }
+            ]
+        },
+        {
+            "name": "Phase 4 Project",
+            "items": [
+                {
+                    "title": "Phase 4 Project Guidelines",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-project-guidelines"
+                }
+            ]
+        },
+        {
+            "name": "Data Structures",
+            "items": [
+                {
+                    "title": "Introduction to Data Structures",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-data-structures-intro-to-data-structures"
+                },
+                {
+                    "title": "Using Data Structures",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-data-structures-using-data-structures"
+                },
+                {
+                    "title": "Stack Data Structure",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-data-structures-stack"
+                },
+                {
+                    "title": "Implement a Stack Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-data-structures-implement-a-stack"
+                },
+                {
+                    "title": "Balancing Parentheses Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-data-structures-balancing-parentheses"
+                },
+                {
+                    "title": "Create a Queue from Two Stacks Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-data-structures-queue-from-stack"
+                },
+                {
+                    "title": "Singly Linked List Data Structure",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-data-structures-singly-linked-list"
+                },
+                {
+                    "title": "Singly Linked List Methods Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-data-structures-implement-singly-linked-list"
+                },
+                {
+                    "title": "Singly Linked List Return Node Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-data-structures-singly-linked-list-return-node"
+                },
+                {
+                    "title": "Doubly Linked List Data Structure",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-data-structures-doubly-linked-list"
+                },
+                {
+                    "title": "Reverse a Doubly Linked List",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-reverse-doubly-linked-list"
+                },
+                {
+                    "title": "Tree Data Structure",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-data-structures-tree"
+                },
+                {
+                    "title": "Tree Traversal",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-data-structures-tree-traversal"
+                },
+                {
+                    "title": "Binary Search Tree Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-data-structures-binary-search-tree-lab"
+                },
+                {
+                    "title": "Data Structures Conclusion",
+                    "content": "https://github.com/learn-co-curriculum/phase-4-data-structures-conclusion"
+                }
+            ]
+        },
+        {
+            "name": "[Optional] Redux: Building Redux from Scratch",
+            "items": [
+                {
+                    "title": "Why Redux?",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-why-redux"
+                },
+                {
+                    "title": "Using Pure Functions to Update Application State",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-data-flow"
+                },
+                {
+                    "title": "Reducers Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-reducers-lab"
+                },
+                {
+                    "title": "Persisting State and Displaying State",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-dispatch"
+                },
+                {
+                    "title": "Dispatching an Initial Action for Setup",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-initial-dispatch"
+                },
+                {
+                    "title": "Completing our Counter Application",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-dispatch-with-events"
+                },
+                {
+                    "title": "Refactoring Our Code Into A Library",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-create-store"
+                },
+                {
+                    "title": "(Candy) Store Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-create-store-lab"
+                }
+            ]
+        },
+        {
+            "name": "[Optional] Redux: Using the Redux Library",
+            "items": [
+                {
+                    "title": "Intro to Redux: Reading Data from State",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-intro-to-redux-codealong"
+                },
+                {
+                    "title": "Access State with useSelector",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-use-selector-lab"
+                },
+                {
+                    "title": "Review and Dive into Actions",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-action-creators"
+                },
+                {
+                    "title": "Dispatching Actions with useDispatch",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-use-dispatch-readme"
+                },
+                {
+                    "title": "Using the useDispatch Hook Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-use-dispatch-lab"
+                },
+                {
+                    "title": "Redux Combine Reducers",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-combine-reducers"
+                },
+                {
+                    "title": "Redux Put It Together",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-quote-lab"
+                },
+                {
+                    "title": "React Component State vs Redux Store State",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-component-state-vs-store-state"
+                },
+                {
+                    "title": "Asynchronous Web Requests Using Thunk and Redux",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-thunk-readme"
+                },
+                {
+                    "title": "Async Redux Lab: Pictures of Cats",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-thunk-lab"
+                },
+                {
+                    "title": "Redux Toolkit",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-redux-toolkit"
+                }
+            ]
+        }
+    ]
 }

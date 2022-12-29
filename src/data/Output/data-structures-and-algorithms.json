@@ -1,90 +1,303 @@
 {
-    "Welcome": {
-        "Welcome to Technical Interview Preparation": "https://github.com/learn-co-curriculum/welcome-to-technical-interview-prep",
-        "Algorithmic Problem Solving": "https://github.com/learn-co-curriculum/algorithmic-problem-solving",
-        "A Note on Testing": "https://github.com/learn-co-curriculum/note-on-testing",
-        "Problem-Solving Tips": "https://github.com/learn-co-curriculum/problem-solving-tips"
-    },
-    "Week 1: Starter Algorithms": {
-        "Day 1: Reverse a String": "https://github.com/learn-co-curriculum/reverse-string",
-        "Day 2: Find First Duplicate": "https://github.com/learn-co-curriculum/find-first-duplicate",
-        "Day 3: Fibonacci Series": "https://github.com/learn-co-curriculum/fibonacci-series",
-        "Day 4: Selection Sort": "https://github.com/learn-co-curriculum/selection-sort",
-        "Day 5: Find Shortest String": "https://github.com/learn-co-curriculum/find-shortest-string"
-    },
-    "Phase 1 Pairing Exercises": {
-        "Code Review": "https://github.com/learn-co-curriculum/dsa-code-review",
-        "Whiteboard": "https://github.com/learn-co-curriculum/dsa-whiteboarding"
-    },
-    "Week 2: Recursion": {
-        "Introduction to Recursion": "https://github.com/learn-co-curriculum/introduction-to-recursion",
-        "Day 1: Recursive Counting": "https://github.com/learn-co-curriculum/recursive-count",
-        "Day 2: Recursive Search": "https://github.com/learn-co-curriculum/recursive-search",
-        "Day 3: Recursive Fibonacci Series": "https://github.com/learn-co-curriculum/fibonacci-recursive",
-        "Day 4: Recursive Find Shortest String": "https://github.com/learn-co-curriculum/find-shortest-string-recursive",
-        "Day 5: Recursive Selection Sort": "https://github.com/learn-co-curriculum/selection-sort-recursive"
-    },
-    "Week 3: Additional Practice": {
-        "Bonus 1: Balancing Parentheses": "https://github.com/learn-co-curriculum/balancing-parentheses",
-        "Bonus 2: Roman Numeral to Integer": "https://github.com/learn-co-curriculum/roman-numeral-to-integer",
-        "Bonus 3: Rotate Array Clockwise": "https://github.com/learn-co-curriculum/rotate-array-clockwise",
-        "Bonus 4: Distinct Pair Sum": "https://github.com/learn-co-curriculum/distinct-pair-sum",
-        "Bonus 5: Consecutive Substrings": "https://github.com/learn-co-curriculum/consecutive-substrings"
-    },
-    "Week 4: Big O Notation": {
-        "Day 1: Introduction to Big O Notation": "https://github.com/learn-co-curriculum/intro-to-big-o",
-        "Day 2: Introduction to Space Complexity": "https://github.com/learn-co-curriculum/intro-to-space-complexity"
-    },
-    "Phase 2 Pairing Exercise": {
-        "Whiteboard Big O": "https://github.com/learn-co-curriculum/dsa-whiteboard-big-o"
-    },
-    "Week 5: Sorting Algorithms": {
-        "Days 1-2: Bubble Sort": "https://github.com/learn-co-curriculum/bubble-sort",
-        "Days 3-5: Merge Sort": "https://github.com/learn-co-curriculum/merge-sort",
-        "Bonus: Quicksort": "https://github.com/learn-co-curriculum/quicksort"
-    },
-    "Week 6: Data Structures and Big O": {
-        "Days 1-2: Implement a Stack Class": "https://github.com/learn-co-curriculum/what-is-a-stack",
-        "Days 3-4: Implement a Queue Class": "https://github.com/learn-co-curriculum/what-is-a-queue",
-        "Day 5: What Is a Set?": "https://github.com/learn-co-curriculum/what-is-a-set"
-    },
-    "Week 7: Foundational Data Structures": {
-        "Days 1-2: Implement a Linked List": "https://github.com/learn-co-curriculum/what-is-a-linked-list",
-        "Bonus Algorithm: Recursive Reverse a String": "https://github.com/learn-co-curriculum/recursive-string-reverse",
-        "Bonus: Modify the Linked List to Track Tail and Size": "https://github.com/learn-co-curriculum/linked-list-with-tail-and-size",
-        "Bonus: Build a Doubly Linked List": "https://github.com/learn-co-curriculum/doubly-linked-list"
-    },
-    "Week 8: Searching": {
-        "Days 1-3: Binary Search": "https://github.com/learn-co-curriculum/binary-search",
-        "Day 4: What Is a Binary Search Tree?": "https://github.com/learn-co-curriculum/binary-search-tree-manual",
-        "Day 5: Balanced and Unbalanced Binary Trees": "https://github.com/learn-co-curriculum/balanced-binary-tree"
-    },
-    "Week 9: Searching and Sorting Continued": {
-        "Days 1 to 2: Level-Order aka Breadth-First Tree Traversal": "https://github.com/learn-co-curriculum/level-order-tree-traversal",
-        "Days 3 to 4: In-Order Tree Traversal": "https://github.com/learn-co-curriculum/tree-traversal-inorder",
-        "Day 5: Find a Target Value in a Binary Search Tree": "https://github.com/learn-co-curriculum/find-value-binary-tree"
-    },
-    "Week 10": {
-        "Days 1 to 2: Create a Queue Class Using Nodes": "https://github.com/learn-co-curriculum/queue-with-nodes",
-        "Days 3 to 5: Least Recently Used (LRU) Cache": "https://github.com/learn-co-curriculum/lru-cache"
-    },
-    "Week 11": {
-        "Day 1: What Is a Graph?": "https://github.com/learn-co-curriculum/what-is-a-graph",
-        "Days 2 to 3: Depth-First Graph Traversal": "https://github.com/learn-co-curriculum/graph-dfs",
-        "Days 4 to 5: Breadth-first Graph Traversal": "https://github.com/learn-co-curriculum/find_distance"
-    },
-    "Week 12": {
-        "Days 1 to 2: Convert an HTML Table to a Graph": "https://github.com/learn-co-curriculum/table-to-graph"
-    },
-    "Week 13": {
-        "Day 1-2: Dynamic Programming": "https://github.com/learn-co-curriculum/dynamic-programming",
-        "Day 3-5: Add Two Numbers - List Nodes": "https://github.com/learn-co-curriculum/Add-Two-Numbers-List-Nodes"
-    },
-    "Week 14": {
-        "Day 1-2: Longest Substring Without Repeating Characters": "https://github.com/learn-co-curriculum/Longest-Substring-Without-Repeating-Characters",
-        "Day 3-5: Validate Binary Search Tree": "https://github.com/learn-co-curriculum/Validate-BST"
-    },
-    "Week 15": {
-        "Week 15 Algo Practices": "https://github.com/learn-co-curriculum/Week-15-algo-practices"
-    }
+    "title": "Data Structures and Algorithms",
+    "modules": [
+        {
+            "name": "Welcome",
+            "items": [
+                {
+                    "title": "Welcome to Technical Interview Preparation",
+                    "content": "https://github.com/learn-co-curriculum/welcome-to-technical-interview-prep"
+                },
+                {
+                    "title": "Algorithmic Problem Solving",
+                    "content": "https://github.com/learn-co-curriculum/algorithmic-problem-solving"
+                },
+                {
+                    "title": "A Note on Testing",
+                    "content": "https://github.com/learn-co-curriculum/note-on-testing"
+                },
+                {
+                    "title": "Problem-Solving Tips",
+                    "content": "https://github.com/learn-co-curriculum/problem-solving-tips"
+                }
+            ]
+        },
+        {
+            "name": "Week 1: Starter Algorithms",
+            "items": [
+                {
+                    "title": "Day 1: Reverse a String",
+                    "content": "https://github.com/learn-co-curriculum/reverse-string"
+                },
+                {
+                    "title": "Day 2: Find First Duplicate",
+                    "content": "https://github.com/learn-co-curriculum/find-first-duplicate"
+                },
+                {
+                    "title": "Day 3: Fibonacci Series",
+                    "content": "https://github.com/learn-co-curriculum/fibonacci-series"
+                },
+                {
+                    "title": "Day 4: Selection Sort",
+                    "content": "https://github.com/learn-co-curriculum/selection-sort"
+                },
+                {
+                    "title": "Day 5: Find Shortest String",
+                    "content": "https://github.com/learn-co-curriculum/find-shortest-string"
+                }
+            ]
+        },
+        {
+            "name": "Phase 1 Pairing Exercises",
+            "items": [
+                {
+                    "title": "Code Review",
+                    "content": "https://github.com/learn-co-curriculum/dsa-code-review"
+                },
+                {
+                    "title": "Whiteboard",
+                    "content": "https://github.com/learn-co-curriculum/dsa-whiteboarding"
+                }
+            ]
+        },
+        {
+            "name": "Week 2: Recursion",
+            "items": [
+                {
+                    "title": "Introduction to Recursion",
+                    "content": "https://github.com/learn-co-curriculum/introduction-to-recursion"
+                },
+                {
+                    "title": "Day 1: Recursive Counting",
+                    "content": "https://github.com/learn-co-curriculum/recursive-count"
+                },
+                {
+                    "title": "Day 2: Recursive Search",
+                    "content": "https://github.com/learn-co-curriculum/recursive-search"
+                },
+                {
+                    "title": "Day 3: Recursive Fibonacci Series",
+                    "content": "https://github.com/learn-co-curriculum/fibonacci-recursive"
+                },
+                {
+                    "title": "Day 4: Recursive Find Shortest String",
+                    "content": "https://github.com/learn-co-curriculum/find-shortest-string-recursive"
+                },
+                {
+                    "title": "Day 5: Recursive Selection Sort",
+                    "content": "https://github.com/learn-co-curriculum/selection-sort-recursive"
+                }
+            ]
+        },
+        {
+            "name": "Week 3: Additional Practice",
+            "items": [
+                {
+                    "title": "Bonus 1: Balancing Parentheses",
+                    "content": "https://github.com/learn-co-curriculum/balancing-parentheses"
+                },
+                {
+                    "title": "Bonus 2: Roman Numeral to Integer",
+                    "content": "https://github.com/learn-co-curriculum/roman-numeral-to-integer"
+                },
+                {
+                    "title": "Bonus 3: Rotate Array Clockwise",
+                    "content": "https://github.com/learn-co-curriculum/rotate-array-clockwise"
+                },
+                {
+                    "title": "Bonus 4: Distinct Pair Sum",
+                    "content": "https://github.com/learn-co-curriculum/distinct-pair-sum"
+                },
+                {
+                    "title": "Bonus 5: Consecutive Substrings",
+                    "content": "https://github.com/learn-co-curriculum/consecutive-substrings"
+                }
+            ]
+        },
+        {
+            "name": "Week 4: Big O Notation",
+            "items": [
+                {
+                    "title": "Day 1: Introduction to Big O Notation",
+                    "content": "https://github.com/learn-co-curriculum/intro-to-big-o"
+                },
+                {
+                    "title": "Day 2: Introduction to Space Complexity",
+                    "content": "https://github.com/learn-co-curriculum/intro-to-space-complexity"
+                }
+            ]
+        },
+        {
+            "name": "Phase 2 Pairing Exercise",
+            "items": [
+                {
+                    "title": "Whiteboard Big O",
+                    "content": "https://github.com/learn-co-curriculum/dsa-whiteboard-big-o"
+                }
+            ]
+        },
+        {
+            "name": "Week 5: Sorting Algorithms",
+            "items": [
+                {
+                    "title": "Days 1-2: Bubble Sort",
+                    "content": "https://github.com/learn-co-curriculum/bubble-sort"
+                },
+                {
+                    "title": "Days 3-5: Merge Sort",
+                    "content": "https://github.com/learn-co-curriculum/merge-sort"
+                },
+                {
+                    "title": "Bonus: Quicksort",
+                    "content": "https://github.com/learn-co-curriculum/quicksort"
+                }
+            ]
+        },
+        {
+            "name": "Week 6: Data Structures and Big O",
+            "items": [
+                {
+                    "title": "Days 1-2: Implement a Stack Class",
+                    "content": "https://github.com/learn-co-curriculum/what-is-a-stack"
+                },
+                {
+                    "title": "Days 3-4: Implement a Queue Class",
+                    "content": "https://github.com/learn-co-curriculum/what-is-a-queue"
+                },
+                {
+                    "title": "Day 5: What Is a Set?",
+                    "content": "https://github.com/learn-co-curriculum/what-is-a-set"
+                }
+            ]
+        },
+        {
+            "name": "Week 7: Foundational Data Structures",
+            "items": [
+                {
+                    "title": "Days 1-2: Implement a Linked List",
+                    "content": "https://github.com/learn-co-curriculum/what-is-a-linked-list"
+                },
+                {
+                    "title": "Bonus Algorithm: Recursive Reverse a String",
+                    "content": "https://github.com/learn-co-curriculum/recursive-string-reverse"
+                },
+                {
+                    "title": "Bonus: Modify the Linked List to Track Tail and Size",
+                    "content": "https://github.com/learn-co-curriculum/linked-list-with-tail-and-size"
+                },
+                {
+                    "title": "Bonus: Build a Doubly Linked List",
+                    "content": "https://github.com/learn-co-curriculum/doubly-linked-list"
+                }
+            ]
+        },
+        {
+            "name": "Week 8: Searching",
+            "items": [
+                {
+                    "title": "Days 1-3: Binary Search",
+                    "content": "https://github.com/learn-co-curriculum/binary-search"
+                },
+                {
+                    "title": "Day 4: What Is a Binary Search Tree?",
+                    "content": "https://github.com/learn-co-curriculum/binary-search-tree-manual"
+                },
+                {
+                    "title": "Day 5: Balanced and Unbalanced Binary Trees",
+                    "content": "https://github.com/learn-co-curriculum/balanced-binary-tree"
+                }
+            ]
+        },
+        {
+            "name": "Week 9: Searching and Sorting Continued",
+            "items": [
+                {
+                    "title": "Days 1 to 2: Level-Order aka Breadth-First Tree Traversal",
+                    "content": "https://github.com/learn-co-curriculum/level-order-tree-traversal"
+                },
+                {
+                    "title": "Days 3 to 4: In-Order Tree Traversal",
+                    "content": "https://github.com/learn-co-curriculum/tree-traversal-inorder"
+                },
+                {
+                    "title": "Day 5: Find a Target Value in a Binary Search Tree",
+                    "content": "https://github.com/learn-co-curriculum/find-value-binary-tree"
+                }
+            ]
+        },
+        {
+            "name": "Week 10",
+            "items": [
+                {
+                    "title": "Days 1 to 2: Create a Queue Class Using Nodes",
+                    "content": "https://github.com/learn-co-curriculum/queue-with-nodes"
+                },
+                {
+                    "title": "Days 3 to 5: Least Recently Used (LRU) Cache",
+                    "content": "https://github.com/learn-co-curriculum/lru-cache"
+                }
+            ]
+        },
+        {
+            "name": "Week 11",
+            "items": [
+                {
+                    "title": "Day 1: What Is a Graph?",
+                    "content": "https://github.com/learn-co-curriculum/what-is-a-graph"
+                },
+                {
+                    "title": "Days 2 to 3: Depth-First Graph Traversal",
+                    "content": "https://github.com/learn-co-curriculum/graph-dfs"
+                },
+                {
+                    "title": "Days 4 to 5: Breadth-first Graph Traversal",
+                    "content": "https://github.com/learn-co-curriculum/find_distance"
+                }
+            ]
+        },
+        {
+            "name": "Week 12",
+            "items": [
+                {
+                    "title": "Days 1 to 2: Convert an HTML Table to a Graph",
+                    "content": "https://github.com/learn-co-curriculum/table-to-graph"
+                }
+            ]
+        },
+        {
+            "name": "Week 13",
+            "items": [
+                {
+                    "title": "Day 1-2: Dynamic Programming",
+                    "content": "https://github.com/learn-co-curriculum/dynamic-programming"
+                },
+                {
+                    "title": "Day 3-5: Add Two Numbers - List Nodes",
+                    "content": "https://github.com/learn-co-curriculum/Add-Two-Numbers-List-Nodes"
+                }
+            ]
+        },
+        {
+            "name": "Week 14",
+            "items": [
+                {
+                    "title": "Day 1-2: Longest Substring Without Repeating Characters",
+                    "content": "https://github.com/learn-co-curriculum/Longest-Substring-Without-Repeating-Characters"
+                },
+                {
+                    "title": "Day 3-5: Validate Binary Search Tree",
+                    "content": "https://github.com/learn-co-curriculum/Validate-BST"
+                }
+            ]
+        },
+        {
+            "name": "Week 15",
+            "items": [
+                {
+                    "title": "Week 15 Algo Practices",
+                    "content": "https://github.com/learn-co-curriculum/Week-15-algo-practices"
+                }
+            ]
+        }
+    ]
 }

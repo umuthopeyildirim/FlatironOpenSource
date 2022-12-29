@@ -1,118 +1,433 @@
 {
-    "Welcome to Phase 2!": {
-        "Welcome to Phase 2": "https://github.com/learn-co-curriculum/phase-2-welcome-to-phase-2"
-    },
-    "Introduction to React": {
-        "Video: Introduction to React": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-intro-to-react",
-        "What is React?": "https://github.com/learn-co-curriculum/react-hooks-what-is-react",
-        "Intro to npm": "https://github.com/learn-co-curriculum/react-hooks-intro-to-npm-readme",
-        "npm Code-Along": "https://github.com/learn-co-curriculum/react-hooks-npm-lab",
-        "Running Tests in React": "https://github.com/learn-co-curriculum/react-hooks-running-tests",
-        "A React App Example": "https://github.com/learn-co-curriculum/react-hooks-react-app-example",
-        "Introduction to React Quiz": "https://github.com/learn-co-curriculum/phase-2-quiz-introduction-to-react"
-    },
-    "Components and Props": {
-        "Video: Components and Props": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-components-and-props",
-        "React Components Basics": "https://github.com/learn-co-curriculum/react-hooks-components-basics",
-        "React Components Basics Lab": "https://github.com/learn-co-curriculum/react-hooks-components-basics-lab",
-        "Video: Import/Export and Code Organization": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-import-export",
-        "Organizing Code with Import/Export": "https://github.com/learn-co-curriculum/react-hooks-import-export",
-        "Organizing Code with Import/Export Lab": "https://github.com/learn-co-curriculum/react-hooks-import-export-lab",
-        "Video: JSX": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-jsx",
-        "Writing JSX": "https://github.com/learn-co-curriculum/react-hooks-jsx",
-        "JSX Lab": "https://github.com/learn-co-curriculum/react-hooks-jsx-lab",
-        "Video: Conditional Rendering": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-conditional-rendering",
-        "Props Basics": "https://github.com/learn-co-curriculum/react-hooks-props-basics",
-        "Props Basics Lab": "https://github.com/learn-co-curriculum/react-hooks-props-basics-lab",
-        "Video: Destructuring": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-destructuring",
-        "Props Destructuring and Default Values": "https://github.com/learn-co-curriculum/react-hooks-props-destructuring",
-        "Video: Lists and Keys": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-lists-and-keys",
-        "Lists and Keys": "https://github.com/learn-co-curriculum/react-hooks-lists-and-keys",
-        "Lists and Keys Lab": "https://github.com/learn-co-curriculum/react-hooks-lists-and-keys-lab",
-        "BONUS: React Fragments": "https://github.com/learn-co-curriculum/react-hooks-fragments",
-        "BONUS: React Children": "https://github.com/learn-co-curriculum/react-hooks-children",
-        "Putting it All Together: Components and Props": "https://github.com/learn-co-curriculum/react-hooks-component-props-mini-project",
-        "Components and Props Quiz": "https://github.com/learn-co-curriculum/phase-2-quiz-components-and-props"
-    },
-    "State and Events": {
-        "Video: Event Basics": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-events-basics",
-        "Event Handling in React": "https://github.com/learn-co-curriculum/react-hooks-event-handling",
-        "Event Handling in React Lab": "https://github.com/learn-co-curriculum/react-hooks-event-handling-lab",
-        "Video: Using State": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-state",
-        "Video: Setting State with Callback Syntax": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-setting-state",
-        "React State": "https://github.com/learn-co-curriculum/react-hooks-state",
-        "React State and Events Code-along": "https://github.com/learn-co-curriculum/react-hooks-state-and-events-codealong",
-        "React State and Arrays": "https://github.com/learn-co-curriculum/react-hooks-state-arrays",
-        "React State Lab": "https://github.com/learn-co-curriculum/react-hooks-state-and-events-lab",
-        "Video: Information Flow": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-information-flow",
-        "Video: Inverse Data Flow": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-inverse-data-flow",
-        "React Information Flow": "https://github.com/learn-co-curriculum/react-hooks-information-flow-code-along",
-        "React Information Flow Lab": "https://github.com/learn-co-curriculum/react-hooks-information-flow-lab",
-        "React Context": "https://github.com/learn-co-curriculum/react-hooks-use-context",
-        "Video: Forms and Controlled Inputs": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-forms",
-        "Controlled Components": "https://github.com/learn-co-curriculum/react-hooks-forms",
-        "React Forms Submit": "https://github.com/learn-co-curriculum/react-hooks-forms-submit",
-        "BONUS: React Forms Abstraction": "https://github.com/learn-co-curriculum/react-hooks-forms-abstraction",
-        "React Controlled Components Lab": "https://github.com/learn-co-curriculum/react-hooks-forms-lab",
-        "Putting it All Together: State and Events": "https://github.com/learn-co-curriculum/react-hooks-state-events-mini-project",
-        "State and Events Quiz": "https://github.com/learn-co-curriculum/phase-2-quiz-state-and-events"
-    },
-    "Applying Your Learning: State and Events": {
-        "ReactTube": "https://github.com/learn-co-curriculum/react-hooks-state-events-pairing",
-        "HogWild: The React app for fans of prize-winning pigs": "https://github.com/learn-co-curriculum/react-hooks-hogwild"
-    },
-    "Side Effects and Data Fetching": {
-        "Video: Side Effects and Data Fetching": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-useeffect",
-        "The useEffect Hook": "https://github.com/learn-co-curriculum/react-hooks-use-effect",
-        "The useEffect Hook - Cleaning Up": "https://github.com/learn-co-curriculum/react-hooks-use-effect-cleanup",
-        "React useEffect Lab": "https://github.com/learn-co-curriculum/react-hooks-use-effect-lab",
-        "Video: useEffect with Data Fetching": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-data-fetching",
-        "Data Fetching in React": "https://github.com/learn-co-curriculum/react-hooks-data-fetching",
-        "React Simple Data Fetching Lab": "https://github.com/learn-co-curriculum/react-hooks-simple-data-fetching-lab",
-        "React Fetch CRUD Codealong": "https://github.com/learn-co-curriculum/react-hooks-fetch-crud-code-along",
-        "Putting it All Together: React Fetch CRUD Lab": "https://github.com/learn-co-curriculum/react-hooks-fetch-crud-lab",
-        "Side Effects and Data Fetching Quiz": "https://github.com/learn-co-curriculum/phase-2-quiz-side-effects-and-data-fetching"
-    },
-    "[Optional] React Under the Hood": {
-        "Create React App": "https://github.com/learn-co-curriculum/react-hooks-create-react-app",
-        "Babel and React": "https://github.com/learn-co-curriculum/react-hooks-babel-and-react",
-        "webpack and React": "https://github.com/learn-co-curriculum/react-hooks-webpack-and-react",
-        "Reconciliation in React": "https://github.com/learn-co-curriculum/react-hooks-reconciliation"
-    },
-    "Applying Your Learning": {
-        "React Mock Code Challenge: gregslist": "https://github.com/learn-co-curriculum/react-hooks-mock-code-challenge-gregslist",
-        "React Mock Code Challenge: Plantsy": "https://github.com/learn-co-curriculum/react-hooks-mock-code-challenge-plantshop",
-        "Practice Challenge: Pokemon Searcher": "https://github.com/learn-co-curriculum/react-hooks-practice-pokemon-searcher",
-        "Practice Challenge: Flatiron Stock Exchange": "https://github.com/learn-co-curriculum/react-hooks-practice-stocks"
-    },
-    "Client-Side Routing": {
-        "Video: React Router Intro": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-routing-intro",
-        "Introduction to Client-Side Routing": "https://github.com/learn-co-curriculum/react-hooks-react-router-intro",
-        "Video: React Router - Router, Switch and Route Components": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-router-switch-and-route-components",
-        "Video: React Router - Link and Navlink": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-link-and-navlink",
-        "React Router Code-Along": "https://github.com/learn-co-curriculum/react-hooks-react-router-code-along",
-        "Basic Routes Lab": "https://github.com/learn-co-curriculum/react-hooks-react-router-routes-lab",
-        "Video: React Router - URL Parameters": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-url-parameters",
-        "Nested Routes": "https://github.com/learn-co-curriculum/react-hooks-react-router-dynamic-routes",
-        "Video: React Router - Programmatic Navigation": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-programmatic-navigation",
-        "Programmatic Navigation": "https://github.com/learn-co-curriculum/react-hooks-react-router-programmatic-navigation",
-        "Client-Side Routing Quiz": "https://github.com/learn-co-curriculum/phase-2-quiz-client-side-routing"
-    },
-    "[Optional] Advanced Hooks": {
-        "The useRef Hook": "https://github.com/learn-co-curriculum/react-hooks-use-ref",
-        "Custom Hooks": "https://github.com/learn-co-curriculum/react-hooks-custom-hooks",
-        "Custom Hooks Workshop": "https://github.com/learn-co-curriculum/phase-2-hooks-workshop-custom-hooks"
-    },
-    "[Optional] Class Components": {
-        "Class Components Intro": "https://github.com/learn-co-curriculum/react-hooks-class-components-intro",
-        "Class Syntax Lab": "https://github.com/learn-co-curriculum/react-hooks-class-syntax-lab",
-        "Class Methods and Event Handling": "https://github.com/learn-co-curriculum/react-hooks-class-events",
-        "Using State in Class Components": "https://github.com/learn-co-curriculum/react-hooks-class-state",
-        "Class Component State and Events Lab": "https://github.com/learn-co-curriculum/react-hooks-class-setstate-lab",
-        "React Component Lifecycle": "https://github.com/learn-co-curriculum/react-hooks-class-component-lifecycle",
-        "Component Mounting and Unmounting Lab": "https://github.com/learn-co-curriculum/react-hooks-component-mounting-lab"
-    },
-    "Phase 2 Projects": {
-        "Phase 2 Project Guidelines": "https://github.com/learn-co-curriculum/react-hooks-phase-2-project"
-    }
+    "title": "Phase 2",
+    "modules": [
+        {
+            "name": "Welcome to Phase 2!",
+            "items": [
+                {
+                    "title": "Welcome to Phase 2",
+                    "content": "https://github.com/learn-co-curriculum/phase-2-welcome-to-phase-2"
+                }
+            ]
+        },
+        {
+            "name": "Introduction to React",
+            "items": [
+                {
+                    "title": "Video: Introduction to React",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-intro-to-react"
+                },
+                {
+                    "title": "What is React?",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-what-is-react"
+                },
+                {
+                    "title": "Intro to npm",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-intro-to-npm-readme"
+                },
+                {
+                    "title": "npm Code-Along",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-npm-lab"
+                },
+                {
+                    "title": "Running Tests in React",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-running-tests"
+                },
+                {
+                    "title": "A React App Example",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-react-app-example"
+                },
+                {
+                    "title": "Introduction to React Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-2-quiz-introduction-to-react"
+                }
+            ]
+        },
+        {
+            "name": "Components and Props",
+            "items": [
+                {
+                    "title": "Video: Components and Props",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-components-and-props"
+                },
+                {
+                    "title": "React Components Basics",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-components-basics"
+                },
+                {
+                    "title": "React Components Basics Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-components-basics-lab"
+                },
+                {
+                    "title": "Video: Import/Export and Code Organization",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-import-export"
+                },
+                {
+                    "title": "Organizing Code with Import/Export",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-import-export"
+                },
+                {
+                    "title": "Organizing Code with Import/Export Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-import-export-lab"
+                },
+                {
+                    "title": "Video: JSX",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-jsx"
+                },
+                {
+                    "title": "Writing JSX",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-jsx"
+                },
+                {
+                    "title": "JSX Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-jsx-lab"
+                },
+                {
+                    "title": "Video: Conditional Rendering",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-conditional-rendering"
+                },
+                {
+                    "title": "Props Basics",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-props-basics"
+                },
+                {
+                    "title": "Props Basics Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-props-basics-lab"
+                },
+                {
+                    "title": "Video: Destructuring",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-destructuring"
+                },
+                {
+                    "title": "Props Destructuring and Default Values",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-props-destructuring"
+                },
+                {
+                    "title": "Video: Lists and Keys",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-lists-and-keys"
+                },
+                {
+                    "title": "Lists and Keys",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lists-and-keys"
+                },
+                {
+                    "title": "Lists and Keys Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lists-and-keys-lab"
+                },
+                {
+                    "title": "BONUS: React Fragments",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-fragments"
+                },
+                {
+                    "title": "BONUS: React Children",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-children"
+                },
+                {
+                    "title": "Putting it All Together: Components and Props",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-component-props-mini-project"
+                },
+                {
+                    "title": "Components and Props Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-2-quiz-components-and-props"
+                }
+            ]
+        },
+        {
+            "name": "State and Events",
+            "items": [
+                {
+                    "title": "Video: Event Basics",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-events-basics"
+                },
+                {
+                    "title": "Event Handling in React",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-event-handling"
+                },
+                {
+                    "title": "Event Handling in React Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-event-handling-lab"
+                },
+                {
+                    "title": "Video: Using State",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-state"
+                },
+                {
+                    "title": "Video: Setting State with Callback Syntax",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-setting-state"
+                },
+                {
+                    "title": "React State",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-state"
+                },
+                {
+                    "title": "React State and Events Code-along",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-state-and-events-codealong"
+                },
+                {
+                    "title": "React State and Arrays",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-state-arrays"
+                },
+                {
+                    "title": "React State Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-state-and-events-lab"
+                },
+                {
+                    "title": "Video: Information Flow",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-information-flow"
+                },
+                {
+                    "title": "Video: Inverse Data Flow",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-inverse-data-flow"
+                },
+                {
+                    "title": "React Information Flow",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-information-flow-code-along"
+                },
+                {
+                    "title": "React Information Flow Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-information-flow-lab"
+                },
+                {
+                    "title": "React Context",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-use-context"
+                },
+                {
+                    "title": "Video: Forms and Controlled Inputs",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-forms"
+                },
+                {
+                    "title": "Controlled Components",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-forms"
+                },
+                {
+                    "title": "React Forms Submit",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-forms-submit"
+                },
+                {
+                    "title": "BONUS: React Forms Abstraction",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-forms-abstraction"
+                },
+                {
+                    "title": "React Controlled Components Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-forms-lab"
+                },
+                {
+                    "title": "Putting it All Together: State and Events",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-state-events-mini-project"
+                },
+                {
+                    "title": "State and Events Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-2-quiz-state-and-events"
+                }
+            ]
+        },
+        {
+            "name": "Applying Your Learning: State and Events",
+            "items": [
+                {
+                    "title": "ReactTube",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-state-events-pairing"
+                },
+                {
+                    "title": "HogWild: The React app for fans of prize-winning pigs",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-hogwild"
+                }
+            ]
+        },
+        {
+            "name": "Side Effects and Data Fetching",
+            "items": [
+                {
+                    "title": "Video: Side Effects and Data Fetching",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-useeffect"
+                },
+                {
+                    "title": "The useEffect Hook",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-use-effect"
+                },
+                {
+                    "title": "The useEffect Hook - Cleaning Up",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-use-effect-cleanup"
+                },
+                {
+                    "title": "React useEffect Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-use-effect-lab"
+                },
+                {
+                    "title": "Video: useEffect with Data Fetching",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-data-fetching"
+                },
+                {
+                    "title": "Data Fetching in React",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-data-fetching"
+                },
+                {
+                    "title": "React Simple Data Fetching Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-simple-data-fetching-lab"
+                },
+                {
+                    "title": "React Fetch CRUD Codealong",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-fetch-crud-code-along"
+                },
+                {
+                    "title": "Putting it All Together: React Fetch CRUD Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-fetch-crud-lab"
+                },
+                {
+                    "title": "Side Effects and Data Fetching Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-2-quiz-side-effects-and-data-fetching"
+                }
+            ]
+        },
+        {
+            "name": "[Optional] React Under the Hood",
+            "items": [
+                {
+                    "title": "Create React App",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-create-react-app"
+                },
+                {
+                    "title": "Babel and React",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-babel-and-react"
+                },
+                {
+                    "title": "webpack and React",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-webpack-and-react"
+                },
+                {
+                    "title": "Reconciliation in React",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-reconciliation"
+                }
+            ]
+        },
+        {
+            "name": "Applying Your Learning",
+            "items": [
+                {
+                    "title": "React Mock Code Challenge: gregslist",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-mock-code-challenge-gregslist"
+                },
+                {
+                    "title": "React Mock Code Challenge: Plantsy",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-mock-code-challenge-plantshop"
+                },
+                {
+                    "title": "Practice Challenge: Pokemon Searcher",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-practice-pokemon-searcher"
+                },
+                {
+                    "title": "Practice Challenge: Flatiron Stock Exchange",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-practice-stocks"
+                }
+            ]
+        },
+        {
+            "name": "Client-Side Routing",
+            "items": [
+                {
+                    "title": "Video: React Router Intro",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-routing-intro"
+                },
+                {
+                    "title": "Introduction to Client-Side Routing",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-react-router-intro"
+                },
+                {
+                    "title": "Video: React Router - Router, Switch and Route Components",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-router-switch-and-route-components"
+                },
+                {
+                    "title": "Video: React Router - Link and Navlink",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-link-and-navlink"
+                },
+                {
+                    "title": "React Router Code-Along",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-react-router-code-along"
+                },
+                {
+                    "title": "Basic Routes Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-react-router-routes-lab"
+                },
+                {
+                    "title": "Video: React Router - URL Parameters",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-url-parameters"
+                },
+                {
+                    "title": "Nested Routes",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-react-router-dynamic-routes"
+                },
+                {
+                    "title": "Video: React Router - Programmatic Navigation",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-lecture-videos-programmatic-navigation"
+                },
+                {
+                    "title": "Programmatic Navigation",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-react-router-programmatic-navigation"
+                },
+                {
+                    "title": "Client-Side Routing Quiz",
+                    "content": "https://github.com/learn-co-curriculum/phase-2-quiz-client-side-routing"
+                }
+            ]
+        },
+        {
+            "name": "[Optional] Advanced Hooks",
+            "items": [
+                {
+                    "title": "The useRef Hook",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-use-ref"
+                },
+                {
+                    "title": "Custom Hooks",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-custom-hooks"
+                },
+                {
+                    "title": "Custom Hooks Workshop",
+                    "content": "https://github.com/learn-co-curriculum/phase-2-hooks-workshop-custom-hooks"
+                }
+            ]
+        },
+        {
+            "name": "[Optional] Class Components",
+            "items": [
+                {
+                    "title": "Class Components Intro",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-class-components-intro"
+                },
+                {
+                    "title": "Class Syntax Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-class-syntax-lab"
+                },
+                {
+                    "title": "Class Methods and Event Handling",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-class-events"
+                },
+                {
+                    "title": "Using State in Class Components",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-class-state"
+                },
+                {
+                    "title": "Class Component State and Events Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-class-setstate-lab"
+                },
+                {
+                    "title": "React Component Lifecycle",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-class-component-lifecycle"
+                },
+                {
+                    "title": "Component Mounting and Unmounting Lab",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-component-mounting-lab"
+                }
+            ]
+        },
+        {
+            "name": "Phase 2 Projects",
+            "items": [
+                {
+                    "title": "Phase 2 Project Guidelines",
+                    "content": "https://github.com/learn-co-curriculum/react-hooks-phase-2-project"
+                }
+            ]
+        }
+    ]
 }

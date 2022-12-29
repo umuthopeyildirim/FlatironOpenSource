@@ -1,13 +1,40 @@
 {
-    "Welcome": {
-        "Capstone Project Description": "https://github.com/learn-co-curriculum/dsc-capstone-project-v2-3"
-    },
-    "Resources": {
-        "Capstone Examples": "https://github.com/learn-co-curriculum/dsc-capstone-examples",
-        "Choosing a Capstone Topic and Dataset": "https://github.com/learn-co-curriculum/dsc-capstone-choosing-a-topic",
-        "Reproducibility": "https://github.com/learn-co-curriculum/dsc-reproducibility"
-    },
-    "Live Capstone Preparation": {
-        "Live Capstone Process": "https://github.com/learn-co-curriculum/dsc-reproducibility"
-    }
+    "title": "Phase 5",
+    "modules": [
+        {
+            "name": "Welcome",
+            "items": [
+                {
+                    "title": "Capstone Project Description",
+                    "content": "https://github.com/learn-co-curriculum/dsc-capstone-project-v2-3"
+                }
+            ]
+        },
+        {
+            "name": "Resources",
+            "items": [
+                {
+                    "title": "Capstone Examples",
+                    "content": "https://github.com/learn-co-curriculum/dsc-capstone-examples"
+                },
+                {
+                    "title": "Choosing a Capstone Topic and Dataset",
+                    "content": "https://github.com/learn-co-curriculum/dsc-capstone-choosing-a-topic"
+                },
+                {
+                    "title": "Reproducibility",
+                    "content": "https://github.com/learn-co-curriculum/dsc-reproducibility"
+                }
+            ]
+        },
+        {
+            "name": "Live Capstone Preparation",
+            "items": [
+                {
+                    "title": "Live Capstone Process",
+                    "content": "https://github.com/learn-co-curriculum/dsc-reproducibility"
+                }
+            ]
+        }
+    ]
 }
