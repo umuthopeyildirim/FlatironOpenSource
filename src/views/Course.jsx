@@ -1,13 +1,15 @@
 import { useParams, Navigate } from "react-router-dom";
+import { useState, useEffect } from "react";
 
 import CoreBar from "../components/CoreBar";
-import CourseTextArea from "../components/Course/CourseTextArea";
+import CourseHero from "../components/Course/CourseHero";
 import CourseBreadCrumb from "../components/Course/CourseBreadCrumb";
 import CoreFooter from "../components/CoreFooter";
 
 import coursesData from "../data/_Courses";
 
 function Course() {
+const [phaseData, setPhaseData] = useState("")
   const routeParams = useParams();
   console.log(routeParams)
   // Check if routeParams is valid by checking slug in coursesData if not redirect to 404
@@ -17,15 +19,21 @@ function Course() {
     return <Navigate replace to="/404" />;
   }
 
+// console.log(phase)
+// console.log(course)
 
-  fetch('https://workers.flatironopensource.ml/course/se-phase4')
-  .then(res=>console.log(res.json()))
-
+//if phase is not in local storage, then do fetch
+//in fetch add data to local storage
+useEffect(() => {
+  fetch(`https://workers.flatironopensource.ml/course/${phase.key}`)
+  .then(res=> res.json())
+  .then(data=> setPhaseData(data))
+},[])
   return (
     <div>
       <CoreBar />
-      <CourseBreadCrumb course={course} phase={phase} />
-      <CourseTextArea course={course} phase={phase} />
+      <CourseBreadCrumb course={course} phase={phase} phaseData = {phaseData}/>
+      <CourseHero course={course} phase={phase} phaseData = {phaseData}/>
       <CoreFooter />
     </div>
   )

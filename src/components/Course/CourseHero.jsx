@@ -3,11 +3,10 @@ import { Button, ButtonGroup } from "react-daisyui";
 import { BsGithub } from "react-icons/bs";
 import data from "../../data/_Data";
 
-function CourseTextArea({ course, phase }) {
+function CourseHero({ course, phase, phaseData }) {
   const [courseModule, setCourseModule] = useState(null)
 
-  // fetch("https://workers.flatironopensource.ml/course/se-phase1")
-  // .then(res=> console.log(res))
+  console.log(phaseData)
 let testArray = data[0].modules.map((mod)=>
   <Button onClick={()=>setCourseModule(mod.name)} key={mod.name}>{mod.name}</Button>
 )
@@ -42,4 +41,4 @@ let courseModuleArray = data[0].modules.find((mod)=> mod.name === courseModule)
   );
 }
 
-export default CourseTextArea;
+export default CourseHero;
