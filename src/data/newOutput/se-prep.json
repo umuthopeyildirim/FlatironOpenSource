@@ -1,0 +1,572 @@
+{
+    "title": "Software Engineering Prep",
+    "modules": [
+        {
+            "name": "Welcome to the Course",
+            "items": [
+                {
+                    "title": "Welcome",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-flatiron-school-philosophy"
+                },
+                {
+                    "title": "About This Course",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-about-this-course"
+                },
+                {
+                    "title": "How to Get Help",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-how-to-get-help"
+                }
+            ]
+        },
+        {
+            "name": "Intro to Canvas",
+            "items": [
+                {
+                    "title": "Introduction To Canvas",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-welcome-intro-to-canvas"
+                },
+                {
+                    "title": "Navigating Canvas",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-navigating-canvas"
+                },
+                {
+                    "title": "Lesson Types",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-canvas-lesson-types"
+                },
+                {
+                    "title": "Introduction to the Local Environment Setup Instructions",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-environment-intro"
+                }
+            ]
+        },
+        {
+            "name": "MacOS Environment Setup",
+            "items": [
+                {
+                    "title": "Introduction to MacOS Environment Setup",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-macos-env-introduction"
+                },
+                {
+                    "title": "MacOS System Setup",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-macos-env-system"
+                },
+                {
+                    "title": "Mac NodeJS Install",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-macos-env-nodejs"
+                },
+                {
+                    "title": "Installing Ruby on MacOS",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-macos-env-ruby"
+                },
+                {
+                    "title": "Mac Git And Github Configuration",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-macos-env-git-github"
+                },
+                {
+                    "title": "Configuring the Flatiron Student Portal",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-configuring-the-flatiron-student-portal"
+                },
+                {
+                    "title": "Verify and Troubleshoot your macOS Environment Setup",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-macos-env-verification"
+                },
+                {
+                    "title": "Survey - MacOS Environment Setup"
+                }
+            ]
+        },
+        {
+            "name": "Windows Environment Setup",
+            "items": [
+                {
+                    "title": "Introduction to Windows Subsystem for Linux (WSL2) Environment Setup",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-wsl2-env-introduction"
+                },
+                {
+                    "title": "Updating Your Windows System and Installing Applications",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-wsl2-env-system"
+                },
+                {
+                    "title": "Setting Up WSL2",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-wsl2-env-windows-subsystem-linux"
+                },
+                {
+                    "title": "Installing Node.js on WSL2",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-wsl2-env-nodejs"
+                },
+                {
+                    "title": "Windows WSL2 Ruby Installation",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-wsl2-env-ruby"
+                },
+                {
+                    "title": "Configuring Git and GitHub on WSL2",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-wsl2-env-git-github"
+                },
+                {
+                    "title": "Configuring the Flatiron Student Portal",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-configuring-the-flatiron-student-portal"
+                },
+                {
+                    "title": "Verify and Troubleshoot your WSL2 Environment Setup",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-wsl2-env-verification"
+                },
+                {
+                    "title": "Survey - Windows Environment Setup"
+                }
+            ]
+        },
+        {
+            "name": "Pre-Assessment",
+            "items": [
+                {
+                    "title": "Pre-Assessment"
+                }
+            ]
+        },
+        {
+            "name": "CLI",
+            "items": [
+                {
+                    "title": "Introduction to the Command Line Interface",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-the-cli"
+                },
+                {
+                    "title": "CLI Navigation",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-bash-navigation"
+                },
+                {
+                    "title": "Working with Files and Directories in the CLI",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-navigating-files-in-bash"
+                },
+                {
+                    "title": "Organizing Your Work for this Course",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-organizing-work-on-your-computer"
+                },
+                {
+                    "title": "Complete Your First Software Engineering Assignment",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-completing-assignments/fork"
+                },
+                {
+                    "title": "Survey - CLI"
+                }
+            ]
+        },
+        {
+            "name": "Programming as Conversation Part 1: Expressions",
+            "items": [
+                {
+                    "title": "Introduction to Programming as Conversation",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-1-intro"
+                },
+                {
+                    "title": "Expressions in JavaScript",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-1-expressions-in-js"
+                },
+                {
+                    "title": "The Constant Expression",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-1-the-constant-expression"
+                },
+                {
+                    "title": "The Assignment Expression",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-1-the-assignment-expression"
+                },
+                {
+                    "title": "The Variable Lookup Expression",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-1-the-variable-lookup-expression"
+                },
+                {
+                    "title": "JavaScript Variables",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-1-js-variables"
+                },
+                {
+                    "title": "JavaScript Data Types",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-1-js-data-types"
+                },
+                {
+                    "title": "Working With Strings",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-1-working-with-strings"
+                },
+                {
+                    "title": "Boolean Expressions",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-1-booleans"
+                },
+                {
+                    "title": "Comparisons in JavaScript",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-1-comparisons-in-javascript"
+                },
+                {
+                    "title": "Logical Operators",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-1-logical-operators"
+                },
+                {
+                    "title": "Programming with Expressions",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-1-programming-with-expressions"
+                },
+                {
+                    "title": "Survey - Programming as Conversation Part 1"
+                }
+            ]
+        },
+        {
+            "name": "Programming as Conversation Part 2: Statements",
+            "items": [
+                {
+                    "title": "Programming as Conversation 2: Introduction",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-2-intro"
+                },
+                {
+                    "title": "Default Sequence and Comments",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-2-default-sequence-and-comments"
+                },
+                {
+                    "title": "Selection with Conditionals: the if Statement",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-2-selection-with-conditionals"
+                },
+                {
+                    "title": "Selection with Conditionals: the 'switch' Statement",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-2-switch-statements"
+                },
+                {
+                    "title": "Logging in JavaScript",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-2-logging-in-javascript"
+                },
+                {
+                    "title": "Repetition: the while Loop",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-2-while-loop"
+                },
+                {
+                    "title": "Survey - Programming as Conversation Part 2"
+                }
+            ]
+        },
+        {
+            "name": "Programming as Conversation Part 3: Bundling Expressions and Statements into Functions",
+            "items": [
+                {
+                    "title": "Programming as Conversation Part 3: Introduction",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-3-intro"
+                },
+                {
+                    "title": "Testing With Javascript",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-3-what-is-a-test/fork"
+                },
+                {
+                    "title": "Testing with JavaScript Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-3-what-is-a-test-lab/fork"
+                },
+                {
+                    "title": "Introduction to Functions in JavaScript",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-3-intro-to-functions"
+                },
+                {
+                    "title": "Introduction to Functions Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-3-intro-to-functions-lab/fork"
+                },
+                {
+                    "title": "JavaScript Function Parameters Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-3-function-parameters-lab/fork"
+                },
+                {
+                    "title": "JavaScript Calculator Challenge Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-pac-3-arithmetic-lab/fork"
+                },
+                {
+                    "title": "Survey - Programming as Conversation Part 3"
+                }
+            ]
+        },
+        {
+            "name": "Working with Data Structures",
+            "items": [
+                {
+                    "title": "Introduction to Working with Data Structures",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-working-with-data-structures-intro"
+                },
+                {
+                    "title": "Arrays",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-arrays"
+                },
+                {
+                    "title": "Array Methods",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-array-methods"
+                },
+                {
+                    "title": "Arrays Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-array-lab/fork"
+                },
+                {
+                    "title": "Objects",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-objects-readme"
+                },
+                {
+                    "title": "Modifying Objects",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-modifying-objects"
+                },
+                {
+                    "title": "Objects Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-objects-lab/fork"
+                },
+                {
+                    "title": "Debugging in Node",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-debugging-in-node"
+                },
+                {
+                    "title": "Errors and Stack Traces",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-errors-and-stack-traces"
+                },
+                {
+                    "title": "Looping Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-looping-code-along/fork"
+                },
+                {
+                    "title": "Object Iteration",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-object-iteration"
+                },
+                {
+                    "title": "Traversing Nested Objects",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-js-2-traversing-nested-objects"
+                },
+                {
+                    "title": "Survey - Working with Data Structures"
+                }
+            ]
+        },
+        {
+            "name": "HTML",
+            "items": [
+                {
+                    "title": "A Quick Tour Of The Web",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-quick-tour-of-the-web"
+                },
+                {
+                    "title": "Welcome to HTML",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-welcome-to-html"
+                },
+                {
+                    "title": "Files and File Types",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-files-extensions-and-filetypes"
+                },
+                {
+                    "title": "Experiencing HTML Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-html-experiencing-html-lab/fork"
+                },
+                {
+                    "title": "Document Structure Continued",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-html-document-structure-lab/fork"
+                },
+                {
+                    "title": "Your First HTML Tag Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-html-tag-lab/fork"
+                },
+                {
+                    "title": "Nested HTML Tags And Attributes",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-nested-html-tags-and-attributes"
+                },
+                {
+                    "title": "Create a Link Using the href Attribute",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-html-link-tag-with-href/fork"
+                },
+                {
+                    "title": "HTML Elements",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-html-lists-images-and-links"
+                },
+                {
+                    "title": "HTML Lists",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-html-lists-lab/fork"
+                },
+                {
+                    "title": "HTML Tables",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-html-tables-lab/fork"
+                },
+                {
+                    "title": "HTML Images",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-html-images-lab/fork"
+                },
+                {
+                    "title": "HTML Validation",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-html-validation"
+                },
+                {
+                    "title": "Expanding Your HTML Vocabulary via MDN",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-expanding-your-html-vocabulary"
+                },
+                {
+                    "title": "Researching HTML Elements",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-researching-html-elements"
+                },
+                {
+                    "title": "HTML Issue Bot 9000",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-html-issue-bot-9000-lab/fork"
+                },
+                {
+                    "title": "Using Your Browser's Developer Tools",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-html-using-browser-dev-tools"
+                },
+                {
+                    "title": "HTML Album Cover",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-html-album-cover-lab/fork"
+                },
+                {
+                    "title": "BONUS: Riyadh Blog",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-html-riyadh-blog-lab/fork"
+                },
+                {
+                    "title": "Survey - HTML"
+                }
+            ]
+        },
+        {
+            "name": "CSS",
+            "items": [
+                {
+                    "title": "Intro to CSS",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-intro-to-css"
+                },
+                {
+                    "title": "Introduction to CSS Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-css-intro-lab/fork"
+                },
+                {
+                    "title": "CSS Fundamentals",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-css-fundamentals"
+                },
+                {
+                    "title": "CSS Fundamentals Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-css-fundamentals-lab/fork"
+                },
+                {
+                    "title": "CSS Validation Lab: Issue Bot 9000",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-css-issue-bot-9000/fork"
+                },
+                {
+                    "title": "My Little Rainbow",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-css-rainbow-lab/fork"
+                },
+                {
+                    "title": "BONUS: CSS Kitten Wheelbarrow",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-css-kitten-lab/fork"
+                },
+                {
+                    "title": "BONUS: CSS Graffiti Override Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-css-graffiti-lab/fork"
+                },
+                {
+                    "title": "Survey - CSS"
+                }
+            ]
+        },
+        {
+            "name": "Manipulating the DOM",
+            "items": [
+                {
+                    "title": "Introduction to the DOM",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-the-dom-introduction"
+                },
+                {
+                    "title": "DOM Editing Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-the-dom-editing-lab/fork"
+                },
+                {
+                    "title": "Changing The DOM with DevTools and JavaScript",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-the-dom-dev-tools"
+                },
+                {
+                    "title": "The DOM Is a Tree",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-the-dom-is-a-tree"
+                },
+                {
+                    "title": "JavaScript Query Selector Methods",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-the-dom-query-selector-methods"
+                },
+                {
+                    "title": "Creating and Inserting DOM Nodes Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-the-dom-modifying-elements-lab/fork"
+                },
+                {
+                    "title": "Survey - Manipulating the DOM"
+                }
+            ]
+        },
+        {
+            "name": "JavaScript Events",
+            "items": [
+                {
+                    "title": "JavaScript Events",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-javascript-events"
+                },
+                {
+                    "title": "JavaScript Event Listeners Lab",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-javascript-events-event-listening-lab/fork"
+                },
+                {
+                    "title": "Moving Things with JavaScript by Acting on Events",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-javascript-events-acting-on-events-lab/fork"
+                },
+                {
+                    "title": "Survey - JavaScript Events"
+                }
+            ]
+        },
+        {
+            "name": "Git",
+            "items": [
+                {
+                    "title": "Intro to Version Control",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-git-version-control-introduction"
+                },
+                {
+                    "title": "Git Basics",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-git-version-control-basics"
+                },
+                {
+                    "title": "Getting Code with Git",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-getting-code-with-git"
+                },
+                {
+                    "title": "Pushing Code with Git",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-git-pushing-code"
+                },
+                {
+                    "title": "Survey - Git"
+                }
+            ]
+        },
+        {
+            "name": "Project Mode",
+            "items": [
+                {
+                    "title": "Software Engineering Prep Final Project Setup Part I: Setting Up Your Repo",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-project-prep-part-1"
+                },
+                {
+                    "title": "Software Engineering Prep Final Project Setup Part II: Hosting a Website on GitHub Pages",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-hosting-on-github-pages"
+                },
+                {
+                    "title": "Project: Build a Personal Website",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-final-project"
+                },
+                {
+                    "title": "Survey - Project Mode"
+                }
+            ]
+        },
+        {
+            "name": "End of Phase Assessment",
+            "items": [
+                {
+                    "title": "Software Engineering Prep Post Test"
+                }
+            ]
+        },
+        {
+            "name": "Moving Forward: Additional Practice",
+            "items": [
+                {
+                    "title": "Additional Practice",
+                    "content": "https://github.com/learn-co-curriculum/phase-0-additional-practice"
+                }
+            ]
+        }
+    ]
+}
