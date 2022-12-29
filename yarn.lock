@@ -756,16 +756,6 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
-idb@^7.1.1:
-  version "7.1.1"
-  resolved "https://registry.npmjs.org/idb/-/idb-7.1.1.tgz"
-  integrity sha512-gchesWBzyvGHRO9W8tzUWFDycow5gwjvFKfyV9FF32Y7F50yZMp7mP+T2mJIWFx49zicqyC4uefHM17o6xKIVQ==
-
-indexeddb-export-import@^2.1.5:
-  version "2.1.5"
-  resolved "https://registry.npmjs.org/indexeddb-export-import/-/indexeddb-export-import-2.1.5.tgz"
-  integrity sha512-gS6gVzFTDuT+r7KyZ3yrzflC8HfktezxAGyImCpICGX5WemMhBLnGaZMkZ0KYj+9hwVAM3dmXMTYy/NvtKAFlQ==
-
 is-arrayish@^0.3.1:
   version "0.3.2"
   resolved "https://registry.npmjs.org/is-arrayish/-/is-arrayish-0.3.2.tgz"
