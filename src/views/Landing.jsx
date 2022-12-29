@@ -23,7 +23,7 @@ function Landing() {
         <About />
       </div>
       <div id="salaries">
-      <SalaryAbout />
+        <SalaryAbout />
         {salariesData.map((salary) => (
           <Salaries key={salary.money} img={salary.img} imgAlt={salary.imgAlt} money={salary.money} title={salary.title} description={salary.description} />
         ))}

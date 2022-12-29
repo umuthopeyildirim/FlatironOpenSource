@@ -22,7 +22,7 @@ function IndivudalLesson({ img, name, description, link }) {
 function Lessons({ coursesData }) {
   return (
     <Hero className="rounded-lg px-10 py-10">
-      <div className="flex flex-col lg:flex-row lg:space-x-3 ">
+      <div className="flex flex-col lg:flex-row lg:space-x-3">
         {coursesData.map((course) => (
           <IndivudalLesson key={course.name} img={course.image} name={course.name} description={course.description} link={course.link} />
         ))}

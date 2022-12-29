@@ -4,7 +4,7 @@ function LandingHero() {
   return(
     <Hero>
       <Hero.Overlay />
-      <Hero.Content className="text-center md:flex md:shrink-0">
+      <Hero.Content className="flex flex-col md:flex-row text-center">
         <div className="max-w-md">
           <h1 className="text-5xl font-bold">
             Flatiron School Open Source
