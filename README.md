@@ -1,3 +1,4 @@
+![Header Image](https://raw.githubusercontent.com/umuthopeyildirim/FlatironSchoolOpenSource/main/public/img/fsos.png)
 # Flatiron School Open Source
 This repo contains the lessons and labs for the Flatiron School's Open Source curriculum. The curriculum is designed to teach students JavaScript, Ruby and Python. This repo is a work in progress and will be updated as the curriculum is developed.
 
@@ -6,18 +7,19 @@ This repo contains the lessons and labs for the Flatiron School's Open Source cu
 * [Software Engineering](#software-engineering)
 * [Data Structures and Algorithms](#data-structures-and-algorithms)
 * [Data Science](#data-science)
-* [Workers README](workers/README.md)
+* [Product Design](#product-design)
 * [Contributing](#contributing)
 * [License](#license)
 
-## Usage(Frontend)
+## Usage
+### Usage(Frontend)
 To use this repo you need to install [node](https://nodejs.org/en/) and [yarn](https://yarnpkg.com/). Once you have those installed, you can run the following commands to start the server:
 ```bash
 yarn 
 yarn dev
 ```
 
-## Usage(Backend)
+### Usage(Backend)
 We use Cloudflare Workers for our backend services. To check out installation instructions, please see the [Workers README](workers/README.md).
 
 ## Software Engineering
@@ -38,6 +40,14 @@ We use Cloudflare Workers for our backend services. To check out installation in
 
 ## Data Structures and Algorithms
 * [Data Structures and Algorithms](https://flatironopensource.ml/course/data-structures-and-algorithms/start-course)
+
+## Product Design
+* [Product Design Prep](https://flatironopensource.ml/course/product-design/prep-course)
+* [Product Design Phase 1](https://flatironopensource.ml/course/product-design/phase-1)
+* [Product Design Phase 2](https://flatironopensource.ml/course/product-design/phase-2)
+* [Product Design Phase 3](https://flatironopensource.ml/course/product-design/phase-3)
+* [Product Design Phase 4](https://flatironopensource.ml/course/product-design/phase-4)
+* [Product Design Phase 5](https://flatironopensource.ml/course/product-design/phase-5)
 
 ## Contributing
 We welcome contributions to the curriculum. Please see the [contributing guidelines](CONTRIBUTING.md) for more information.
