@@ -1,0 +1,295 @@
+{
+    "title": "Phase 5",
+    "modules": [
+        {
+            "name": "Prerequisites",
+            "items": [
+                {
+                    "title": "Phase 4 Complete"
+                }
+            ]
+        },
+        {
+            "name": "13.1 Outline a Case Study",
+            "items": [
+                {
+                    "title": "A Hiring Manager's Perspective on Your Portfolio",
+                    "content": "https://www.pratibhajoshi.com/"
+                },
+                {
+                    "title": "Parts of a Case Study",
+                    "content": "https://designmodo.com/ux-case-study/"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: Outline a Case Study"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Outline a Case Study",
+                    "content": "https://www.invisionapp.com/inside-design/how-to-write-a-ux-case-study/"
+                }
+            ]
+        },
+        {
+            "name": "13.2 Draft a Case Study",
+            "items": [
+                {
+                    "title": "UX Writing",
+                    "content": "https://www.nngroup.com/articles/ux-writing-study-guide/"
+                },
+                {
+                    "title": "Drafting a Case Study",
+                    "content": "https://adamfard.com/blog/ux-case-study"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: Draft a Case Study"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Draft a Case Study",
+                    "content": "https://www.uxmatters.com/mt/archives/2021/08/the-importance-of-ux-writing.php"
+                }
+            ]
+        },
+        {
+            "name": "13.3 Revise a Case Study",
+            "items": [
+                {
+                    "title": "Voice and Tone",
+                    "content": "https://snapwire.co/how-to-create-a-brand-voice/"
+                },
+                {
+                    "title": "Revising your Case Study: Storytelling",
+                    "content": "https://www.nngroup.com/articles/how-people-read-online/"
+                },
+                {
+                    "title": "Revising your Case Study: Making Edits",
+                    "content": "https://fivesecondtest.com/"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: Revise a Case Study"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Revise a Case Study",
+                    "content": "https://www.frontitude.com/blog/defining-your-products-voice-and-tone-for-the-best-ux"
+                }
+            ]
+        },
+        {
+            "name": "Module 13 Assessment",
+            "items": [
+                {
+                    "title": "Module 13: Assessment"
+                }
+            ]
+        },
+        {
+            "name": "13.4 Design Portfolios",
+            "items": [
+                {
+                    "title": "Designing Your Portfolio",
+                    "content": "https://indeed.design/article/ux-design-portfolio-advice-from-hiring-managers"
+                },
+                {
+                    "title": "MVP: The Minimum Viable Portfolio",
+                    "content": "https://www.aaron.mn/"
+                },
+                {
+                    "title": "Personal Branding",
+                    "content": "https://www.homsweethom.com/"
+                },
+                {
+                    "title": "Personal Statements",
+                    "content": "https://nikpayne.com/"
+                },
+                {
+                    "title": "Launching Your Portfolio",
+                    "content": "https://blog.hubspot.com/website/what-is-a-domain"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Design Portfolios",
+                    "content": "https://indeed.design/article/ux-design-portfolio-advice-from-hiring-managers"
+                }
+            ]
+        },
+        {
+            "name": "Capstone Project",
+            "items": [
+                {
+                    "title": "Project Brief: Build Early Money Habits",
+                    "content": "https://www.childstats.gov/americaschildren/tables/pop1.asp"
+                },
+                {
+                    "title": "Project Brief: Research",
+                    "content": "https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/"
+                },
+                {
+                    "title": "Project Brief: User Experience",
+                    "content": "https://trello.com/en-US"
+                },
+                {
+                    "title": "Project Brief: User Interface",
+                    "content": "https://trello.com/en-US"
+                }
+            ]
+        },
+        {
+            "name": "14.1 Proposing a Plan",
+            "items": [
+                {
+                    "title": "Planning a Project",
+                    "content": "https://octet.design/design-brief-ui-ux-project/"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: Proposing a Plan"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Proposing a Plan",
+                    "content": "https://usabilitygeek.com/how-to-get-more-clarity-and-control-over-your-ux-projects/"
+                }
+            ]
+        },
+        {
+            "name": "14.2 Choosing a Specialization",
+            "items": [
+                {
+                    "title": "Specialization: UX Research",
+                    "content": "https://careerfoundry.com/en/blog/ux-design/ux-researcher-career-guide/"
+                },
+                {
+                    "title": "Specialization: UX Design",
+                    "content": "https://uxdesign.cc/who-is-a-ux-designer-b484855e32b1"
+                },
+                {
+                    "title": "Specialization: UI Design",
+                    "content": "https://www.invisionapp.com/inside-design/ux-ui-designer/"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: Choosing a Specialization"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Choosing a Specialization",
+                    "content": "https://www.interaction-design.org/literature/article/the-ultimate-guide-to-understanding-ux-roles-and-which-one-you-should-go-for"
+                }
+            ]
+        },
+        {
+            "name": "14.3 Specialization Research",
+            "items": [
+                {
+                    "title": "\ud83d\udd2cLab: Specialization Research"
+                }
+            ]
+        },
+        {
+            "name": "Module 14 Assessment",
+            "items": [
+                {
+                    "title": "Module 14: Assessment"
+                }
+            ]
+        },
+        {
+            "name": "15.1 The Job Search",
+            "items": [
+                {
+                    "title": "Overcoming Impostor Syndrome",
+                    "content": "https://uxdesign.cc/overcoming-not-imposter-syndrome-6d92c71c1751"
+                },
+                {
+                    "title": "Crafting Your Elevator Pitch",
+                    "content": "https://www.thebalancecareers.com/elevator-speech-examples-and-writing-tips-2061976"
+                },
+                {
+                    "title": "Building Your Resume: Getting Started",
+                    "content": "https://www.linkedin.com/"
+                },
+                {
+                    "title": "Building Your Resume: Work Experience",
+                    "content": "https://www.invisionapp.com/inside-design/how-to-create-a-ux-portfolio-without-ux-experience/"
+                },
+                {
+                    "title": "Building Your Resume: Skills and Education",
+                    "content": "https://medium.com/bestfolios/8-brilliant-ux-designer-resumes-that-secured-job-offers-from-google-c9e534adafc2"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: The Job Search",
+                    "content": "https://dropbox.design/article/building-diverse-design-communities"
+                }
+            ]
+        },
+        {
+            "name": "15.2 Networking",
+            "items": [
+                {
+                    "title": "Using LinkedIn",
+                    "content": "https://www.thebalancecareers.com/what-is-the-hidden-job-market-2062004"
+                },
+                {
+                    "title": "Building Your LinkedIn Profile",
+                    "content": "https://www.linkedin.com/business/talent/blog/product-tips/tips-for-taking-professional-linkedin-profile-pictures"
+                },
+                {
+                    "title": "Networking Using LinkedIn",
+                    "content": "https://www.meetup.com/"
+                },
+                {
+                    "title": "Requesting an Informational Interview",
+                    "content": "https://www.linkedin.com/pulse/how-request-conduct-follow-up-informational-interview-rebecca-beaton/"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Networking",
+                    "content": "https://www.weidert.com/blog/best-ways-to-gain-more-connections-on-linkedin"
+                }
+            ]
+        },
+        {
+            "name": "15.3 Interviews and Design Challenges",
+            "items": [
+                {
+                    "title": "Overview: The Interview Process",
+                    "content": "https://usabilitygeek.com/what-recruiters-wish-ux-design-applicants-knew-before-applying/"
+                },
+                {
+                    "title": "Essential Interview Questions",
+                    "content": "https://www.uxbeginner.com/how-to-prepare-ux-interview-design-challenge/"
+                },
+                {
+                    "title": "Presenting Your Portfolio",
+                    "content": "https://medium.com/presentation-design-tips/using-figma-for-a-portfolio-review-ea477a929e5"
+                },
+                {
+                    "title": "Portfolio Critique Interview Questions",
+                    "content": "https://www.pathrise.com/guides/how-to-get-a-job-at-company"
+                },
+                {
+                    "title": "Tips for Design Challenges",
+                    "content": "https://dscout.com/people-nerds/whiteboard-challenge-ux-research-interview-tips"
+                },
+                {
+                    "title": "The Ethics of Design Challenges",
+                    "content": "https://www.nospec.com/"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Interviews and Design Challenges",
+                    "content": "https://usabilitygeek.com/what-recruiters-wish-ux-design-applicants-knew-before-applying/"
+                }
+            ]
+        },
+        {
+            "name": "15.4 Next Steps",
+            "items": [
+                {
+                    "title": "Next Steps",
+                    "content": "https://giphy.com/gifs/good-job-congratulations-otter-ely3apij36BJhoZ234"
+                }
+            ]
+        },
+        {
+            "name": "Module 15 Assessment",
+            "items": [
+                {
+                    "title": "Module 15: Assessment"
+                }
+            ]
+        }
+    ]
+}

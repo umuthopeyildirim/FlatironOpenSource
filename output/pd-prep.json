@@ -1,0 +1,161 @@
+{
+    "title": "Product Design Prework V2",
+    "modules": [
+        {
+            "name": "Introduction",
+            "items": [
+                {
+                    "title": "Welcome!"
+                },
+                {
+                    "title": "Introduction to Canvas"
+                },
+                {
+                    "title": "What is Canvas?"
+                },
+                {
+                    "title": "Navigating Canvas"
+                },
+                {
+                    "title": "Lesson Types in Canvas"
+                },
+                {
+                    "title": "Course Structure"
+                },
+                {
+                    "title": "Product Design Program Overview"
+                }
+            ]
+        },
+        {
+            "name": "Pre-assessment",
+            "items": [
+                {
+                    "title": "Prework: Pre Assessment"
+                }
+            ]
+        },
+        {
+            "name": "Tools",
+            "items": [
+                {
+                    "title": "Introduction to Tools",
+                    "content": "https://uxtools.co/survey-2020"
+                },
+                {
+                    "title": "Figma",
+                    "content": "https://uxtools.co/survey-2020"
+                },
+                {
+                    "title": "Setting Up Your Figma Account & Walkthrough"
+                },
+                {
+                    "title": "Birds! Design and Prototyping with Figma"
+                },
+                {
+                    "title": "Birds: Design and Layout Introduction",
+                    "content": "viewer/files/Figma%20-%20Design%20and%20Prototyping.zip?canvas_=1&canvas_qs_wrap=1"
+                },
+                {
+                    "title": "Birds: Design and Layout"
+                },
+                {
+                    "title": "Birds: Prototyping"
+                },
+                {
+                    "title": "Flowershop: Additional Layout and Prototyping Practice",
+                    "content": "viewer/files/Flowers%20-%20Design%20and%20Prototyping.zip?canvas_=1&canvas_qs_wrap=1"
+                },
+                {
+                    "title": "Additional Practice with Figma",
+                    "content": "https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23"
+                },
+                {
+                    "title": "Invision",
+                    "content": "https://www.youtube.com/playlist?list=PLXDU_eVOJTx6zk5MDarIs0asNoZqlRG23"
+                },
+                {
+                    "title": "Setting Up Your Invision Account & Walkthrough"
+                },
+                {
+                    "title": "Webflow"
+                },
+                {
+                    "title": "Set Up Your Webflow Account and Webflow 101",
+                    "content": "https://webflow.com/for/classroom"
+                }
+            ]
+        },
+        {
+            "name": "Understanding Product Design",
+            "items": [
+                {
+                    "title": "What is Product Design?"
+                },
+                {
+                    "title": "Product Design and McDonalds"
+                },
+                {
+                    "title": "A Note Taking App"
+                },
+                {
+                    "title": "Design Lab: Grocery List App"
+                },
+                {
+                    "title": "User Experience Design"
+                },
+                {
+                    "title": "What is User Experience Design?"
+                },
+                {
+                    "title": "Design Lab: Agency UX Process",
+                    "content": "https://www.instrument.com/what-we-do"
+                },
+                {
+                    "title": "User Interface Design",
+                    "content": "https://www.instrument.com/what-we-do"
+                },
+                {
+                    "title": "What is User Interface Design?"
+                },
+                {
+                    "title": "Examples of High Quality Interface Design"
+                },
+                {
+                    "title": "Emerging Markets: Product Ideas from Data and Insights"
+                },
+                {
+                    "title": "Market Research"
+                },
+                {
+                    "title": "Design Lab: Product Concepts for Developing Markets",
+                    "content": "viewer/files/Marketing%20Research%20for%20Food%20Products%20in%20Developing%20Countries%20-%20IDL-9543.pdf?canvas_=1&canvas_qs_wrap=1"
+                },
+                {
+                    "title": "Design Critique",
+                    "content": "viewer/files/Marketing%20Research%20for%20Food%20Products%20in%20Developing%20Countries%20-%20IDL-9543.pdf?canvas_=1&canvas_qs_wrap=1"
+                },
+                {
+                    "title": "The Role of Critique in Learning",
+                    "content": "https://www.aiga.org/resources/how-to-survive-a-critique-a-guide-to-giving-and-receiving-feedback"
+                }
+            ]
+        },
+        {
+            "name": "Post-assessment",
+            "items": [
+                {
+                    "title": "Prework: Post-Assessment"
+                }
+            ]
+        },
+        {
+            "name": "Next Steps",
+            "items": [
+                {
+                    "title": "Next Steps"
+                }
+            ]
+        }
+    ]
+}

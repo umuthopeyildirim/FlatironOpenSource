@@ -5,7 +5,7 @@ import json
 from bs4 import BeautifulSoup, SoupStrainer
 from bs4.diagnose import diagnose
 
-envValue = requests.get('https://workers.flatironopensource.ml/course/data-structures-and-algorithms')
+envValue = requests.get('https://workers.flatironopensource.ml/course/pd-phase5')
 phaseValue = json.loads(envValue.content)
 
 moduleList = {}
@@ -48,5 +48,5 @@ for modules in phaseValue["modules"]:
 json_object = json.dumps(moduleList, indent=4)
 # print(json_object)
 
-with open("/Users/hope/Desktop/Project/FlatironSchoolOpenSource/src/data/newOutput/data-structures-and-algorithms.json", "w") as outfile:
+with open("/Users/hope/Desktop/Project/FlatironSchoolOpenSource/output/pd-phase5.json", "w") as outfile:
     outfile.write(json_object)

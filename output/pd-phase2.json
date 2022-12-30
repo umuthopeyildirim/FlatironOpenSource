@@ -1,0 +1,447 @@
+{
+    "title": "Phase 2",
+    "modules": [
+        {
+            "name": "Prerequisites",
+            "items": [
+                {
+                    "title": "Phase 1 Complete"
+                }
+            ]
+        },
+        {
+            "name": "4.1 Visual Hierarchy",
+            "items": [
+                {
+                    "title": "\u2705  Learning Objectives: Visual Hierarchy"
+                },
+                {
+                    "title": "\ud83c\udfac Visual Hierarchy (8 mins.)"
+                },
+                {
+                    "title": "Hierarchy and Dominance",
+                    "content": "https://usabilityhub.com/guides"
+                },
+                {
+                    "title": "Visual Hierarchy in UX: Definition"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: 4.1 Visual Hierarchy"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Visual Hierarchy",
+                    "content": "https://marion.scot/the-elements-of-composition-in-art/"
+                }
+            ]
+        },
+        {
+            "name": "4.2 Elements of Composition",
+            "items": [
+                {
+                    "title": "\u2705  Learning Objectives: Elements of Composition"
+                },
+                {
+                    "title": "\ud83c\udfac Visual Composition (10 mins.)"
+                },
+                {
+                    "title": "\ud83c\udfac Elements of Composition (55 mins.)"
+                },
+                {
+                    "title": "Elements of Visual Composition",
+                    "content": "https://www.kimp.io/balance-in-design/"
+                },
+                {
+                    "title": "\ud83c\udfac Gestalt Principles (4 mins.)"
+                },
+                {
+                    "title": "Working with Gestalt Principles",
+                    "content": "https://history-of-psychology.readthedocs.io/en/latest/kohler.html"
+                },
+                {
+                    "title": "\ud83c\udfac Reading Patterns (5 mins.)"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: 4.2 Elements of Composition"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Elements of Composition",
+                    "content": "https://www.nngroup.com/articles/principles-visual-design/"
+                }
+            ]
+        },
+        {
+            "name": "4.3 Layout Grids",
+            "items": [
+                {
+                    "title": "\u2705  Learning Objectives: Layout Grids"
+                },
+                {
+                    "title": "\ud83c\udfac Layout Grids (10 mins.)"
+                },
+                {
+                    "title": "Grid Layout",
+                    "content": "https://css-tricks.com/a-responsive-grid-layout-with-no-media-queries/"
+                },
+                {
+                    "title": "The Box Model"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: 4.3 Layout Grids"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Layout Grids",
+                    "content": "https://www.creativebloq.com/web-design/grid-theory-41411345"
+                }
+            ]
+        },
+        {
+            "name": "4.4 Imagery and Iconography",
+            "items": [
+                {
+                    "title": "\u2705  Learning Objectives: Imagery and Iconography"
+                },
+                {
+                    "title": "\ud83c\udfac Imagery and Icons (4 mins.) pt.1"
+                },
+                {
+                    "title": "\ud83c\udfac Imagery and Icons (4 mins.) pt.2"
+                },
+                {
+                    "title": "Research for Visual Design",
+                    "content": "https://dscout.com/people-nerds/generative-research-complete-guide"
+                },
+                {
+                    "title": "Style Tiles for Ideation",
+                    "content": "https://dribbble.com/walczaka"
+                },
+                {
+                    "title": "Making an Emotional Connection",
+                    "content": "https://uxplanet.org/designing-emotional-ui-b11fa0fda5c"
+                },
+                {
+                    "title": "Guiding Principles for Imagery",
+                    "content": "https://www.smashingmagazine.com/2017/01/more-than-just-pretty-how-imagery-drives-user-experience/"
+                },
+                {
+                    "title": "Icons As Part Of A Great User Experience"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: 4.4 Imagery and Iconography"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Imagery and Iconography",
+                    "content": "https://www.smashingmagazine.com/2017/01/more-than-just-pretty-how-imagery-drives-user-experience/"
+                }
+            ]
+        },
+        {
+            "name": "Module 4: Assessment",
+            "items": [
+                {
+                    "title": "Module 4 Quiz"
+                },
+                {
+                    "title": "\ud83c\udfac Module 4 Assessment (10 mins.)"
+                },
+                {
+                    "title": "Module 4: Assessment"
+                }
+            ]
+        },
+        {
+            "name": "5.1 Color Models",
+            "items": [
+                {
+                    "title": "\u2705  Learning Objectives: Color Models"
+                },
+                {
+                    "title": "\ud83c\udfa5 Understanding Color: Color (7 mins.)"
+                },
+                {
+                    "title": "\ud83c\udfac Understanding Color: Color Basics (2 mins.)"
+                },
+                {
+                    "title": "Color Theory",
+                    "content": "https://library.si.edu/exhibition/color-in-a-new-light/science"
+                },
+                {
+                    "title": "Color Models",
+                    "content": "https://www.wikiwand.com/en/CMYK_color_model"
+                },
+                {
+                    "title": "\ud83c\udfac Understanding Color: Color Themes (2 mins.)"
+                },
+                {
+                    "title": "\ud83c\udfac Understanding Color: Psychology of Color (5 mins.)"
+                },
+                {
+                    "title": "Color Psychology",
+                    "content": "https://usabilitygeek.com/colors-in-ui-design-a-guide-for-creating-the-perfect-ui/"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 5.1 Color Models"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Color Models",
+                    "content": "https://www.interaction-design.org/literature/topics/color-theory#:~:text=Color%20theory%20is%20the%20collection,%2C%20psychology%2C%20culture%20and%20more."
+                }
+            ]
+        },
+        {
+            "name": "5.2 Applying Color",
+            "items": [
+                {
+                    "title": "\u2705  Learning Objectives: Applying Color"
+                },
+                {
+                    "title": "\ud83c\udfac Applying Color: Benefits and Best Practices (6 mins.)"
+                },
+                {
+                    "title": "Color Usage",
+                    "content": "https://blog.tubikstudio.com/contrast-in-user-interface-design/"
+                },
+                {
+                    "title": "Color Schemes",
+                    "content": "https://www.pittsburghmagazine.com/choosing-a-perfect-palette/"
+                },
+                {
+                    "title": "\ud83c\udfac Applying Color: Color and Accessibility (2 mins.)"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: 5.2 Applying Color"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Applying Color",
+                    "content": "https://xd.adobe.com/ideas/process/ui-design/what-is-color-theory/"
+                }
+            ]
+        },
+        {
+            "name": "5.3 Typography",
+            "items": [
+                {
+                    "title": "\u2705  Learning Objectives: Typography"
+                },
+                {
+                    "title": "\ud83c\udfac Fundamentals of Typography: Purpose of Good Typography (3 mins.)"
+                },
+                {
+                    "title": "\ud83c\udfac Fundamentals of Typography: Type Classification (3 mins.)"
+                },
+                {
+                    "title": "Type Classifications",
+                    "content": "https://www.adobe.com/be_en/creativecloud/design/discover/serif-vs-sans-serif.html"
+                },
+                {
+                    "title": "\ud83c\udfac Fundamentals of Typography: Basic Terminology (6 mins.)"
+                },
+                {
+                    "title": "Type Terminology",
+                    "content": "https://snowball.digital/blog/what-is-the-difference-between-a-font-and-a-typeface"
+                },
+                {
+                    "title": "Font File Types"
+                },
+                {
+                    "title": "Licensing Fonts",
+                    "content": "https://fonts.adobe.com/fonts"
+                },
+                {
+                    "title": "Font Foundries",
+                    "content": "https://discover.typography.com/theme/its-a-date/"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: 5.3  Typography"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Typography",
+                    "content": "https://www.supremo.co.uk/typeterms/"
+                }
+            ]
+        },
+        {
+            "name": "5.4 Applying Type",
+            "items": [
+                {
+                    "title": "\u2705  Learning Objectives: Applying Type"
+                },
+                {
+                    "title": "\ud83c\udfac Typography in UI Design (10 mins.)"
+                },
+                {
+                    "title": "Typography in Design and Communication",
+                    "content": "https://www.fontpair.co/"
+                },
+                {
+                    "title": "Accessible Typography",
+                    "content": "https://99percentinvisible.org/episode/curb-cuts/"
+                },
+                {
+                    "title": "Typographic Scales"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: 5.4 Applying Type"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Applying Type",
+                    "content": "https://marvelapp.com/blog/body-text-small/"
+                }
+            ]
+        },
+        {
+            "name": "Module 5 Assessment",
+            "items": [
+                {
+                    "title": "Module 5 Quiz"
+                },
+                {
+                    "title": "Module 5: Assessment"
+                }
+            ]
+        },
+        {
+            "name": "6.1  Interaction Principles",
+            "items": [
+                {
+                    "title": "\u2705  Learning Objectives: Interaction Principles"
+                },
+                {
+                    "title": "\ud83c\udfac Interaction Design Principles (15 mins.)"
+                },
+                {
+                    "title": "Principles for Interaction",
+                    "content": "https://uxdesign.cc/what-is-an-affordance-6b60f2de79f2"
+                },
+                {
+                    "title": "\ud83c\udfac The Purpose of Interaction Design (7 mins.)"
+                },
+                {
+                    "title": "Design Affordances",
+                    "content": "https://fellowproducts.com/products/staggekg"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 6.1 Interaction Principles"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Interaction Principles",
+                    "content": "https://www.interaction-design.org/literature/topics/design-principles"
+                }
+            ]
+        },
+        {
+            "name": "6.2 User Interface Patterns",
+            "items": [
+                {
+                    "title": "\u2705  Learning Objectives: User Interface Patterns"
+                },
+                {
+                    "title": "\ud83c\udfac Interaction Design Patterns (8 mins.)"
+                },
+                {
+                    "title": "Interaction States",
+                    "content": "https://www.nngroup.com/articles/visibility-system-status/"
+                },
+                {
+                    "title": "Material Design and Apple HIG",
+                    "content": "https://www.nectarpd.com/blog/3-differences-apples-hig-vs-googles-material-design-standards"
+                },
+                {
+                    "title": "Digital Design Patterns",
+                    "content": "https://www.webdesignerdepot.com/2013/01/the-device-agnostic-approach-to-responsive-design/"
+                },
+                {
+                    "title": "Forms",
+                    "content": "https://uxdesign.cc/text-fields-forms-design-ui-components-series-2b32b2beebd0"
+                },
+                {
+                    "title": "Microcopy",
+                    "content": "https://uxplanet.org/microcopy-tiny-words-with-a-huge-ux-impact-90140acc6e42"
+                },
+                {
+                    "title": "\ud83c\udfac Dark Patterns (11 mins.)"
+                },
+                {
+                    "title": "Dark Patterns: A Closer Look",
+                    "content": "https://www.deceptive.design/"
+                },
+                {
+                    "title": "\ud83c\udfac Mobile Interaction Patterns (10 mins.)"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 6.2 User Interface Patterns"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: User Interface Patterns",
+                    "content": "https://www.interaction-design.org/literature/topics/ui-design-patterns"
+                }
+            ]
+        },
+        {
+            "name": "6.3 Animation Principles",
+            "items": [
+                {
+                    "title": "\u2705  Learning Objectives: Animation Principles"
+                },
+                {
+                    "title": "Motion and Communication",
+                    "content": "https://www.nngroup.com/articles/microinteractions/"
+                },
+                {
+                    "title": "Principles of Animation",
+                    "content": "https://www.toptal.com/designers/ux/motion-design-principles"
+                },
+                {
+                    "title": "Animation in Figma",
+                    "content": "https://help.figma.com/hc/en-us/articles/360040522373"
+                },
+                {
+                    "title": "Animation in Webflow"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 6.3 Animation Principles"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Animation Principles",
+                    "content": "https://www.nngroup.com/articles/animation-purpose-ux/"
+                }
+            ]
+        },
+        {
+            "name": "6.4 Microinteractions",
+            "items": [
+                {
+                    "title": "\u2705  Learning Objectives: Microinteractions"
+                },
+                {
+                    "title": "\ud83c\udfac Microinteractions (13 mins.)"
+                },
+                {
+                    "title": "Microinteractions",
+                    "content": "https://microinteractions.com/about-the-book/"
+                },
+                {
+                    "title": "An Interview with Dan Saffer\u2013Designing Microinteractions",
+                    "content": "https://asset.uie.com/BSAL/BSAL192SpoolCast_Saffer-ui18.mp3"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 6.4 Microinteractions"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Microinteractions",
+                    "content": "https://www.nngroup.com/articles/microinteractions/"
+                }
+            ]
+        },
+        {
+            "name": "Module 6 Assessment",
+            "items": [
+                {
+                    "title": "Module 6 Quiz"
+                },
+                {
+                    "title": "Module 6: Assessment"
+                }
+            ]
+        }
+    ]
+}
