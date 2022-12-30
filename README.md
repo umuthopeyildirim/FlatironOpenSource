@@ -9,12 +9,16 @@ This repo contains the lessons and labs for the Flatiron School's Open Source cu
 * [Workers README](workers/README.md)
 * [Contributing](#contributing)
 * [License](#license)
-## Usage
+
+## Usage(Frontend)
 To use this repo you need to install [node](https://nodejs.org/en/) and [yarn](https://yarnpkg.com/). Once you have those installed, you can run the following commands to start the server:
 ```bash
 yarn 
 yarn dev
 ```
+
+## Usage(Backend)
+We use Cloudflare Workers for our backend services. To check out installation instructions, please see the [Workers README](workers/README.md).
 
 ## Software Engineering
 * [Software Engineering Prep](https://flatironopensource.ml/course/software-engineering/prep-course)
@@ -23,7 +27,6 @@ yarn dev
 * [Software Engineering Phase 3](https://flatironopensource.ml/course/software-engineering/phase-3)
 * [Software Engineering Phase 4](https://flatironopensource.ml/course/software-engineering/phase-4)
 * [Software Engineering Phase 5](Shttps://flatironopensource.ml/course/software-engineering/phase-5)
-
 
 ## Data Science
 * [Data Science Prep 2022](https://flatironopensource.ml/course/data-science/prep-course)

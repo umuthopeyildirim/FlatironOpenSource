@@ -1,3 +1,5 @@
+# Small python script to extract the Github links from the Canvas API
+
 import requests
 import json
 from bs4 import BeautifulSoup, SoupStrainer
