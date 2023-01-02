@@ -1,93 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://flatironopensource.ml/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
 
   <url>
     <loc>https://flatironopensource.ml/courses/data-science</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
 
   <url>
     <loc>https://flatironopensource.ml/courses/software-engineering</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
 
   <url>
     <loc>https://flatironopensource.ml/courses/data-structures-and-algorithms</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
 
   <url>
     <loc>https://flatironopensource.ml/course/data-structures-and-algorithms/start-course</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
 
   <url>
     <loc>https://flatironopensource.ml/course/data-science/prep-course</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
 
   <url>
     <loc>https://flatironopensource.ml/course/data-science/phase-1</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
 
   <url>
     <loc>https://flatironopensource.ml/course/data-science/phase-2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
 
   <url>
     <loc>https://flatironopensource.ml/course/data-science/phase-3</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
 
   <url>
     <loc>https://flatironopensource.ml/course/data-science/phase-4</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
 
   <url>
     <loc>https://flatironopensource.ml/course/data-science/phase-5</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
 
   <url>
     <loc>https://flatironopensource.ml/course/software-engineering/prep-course</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
 
   <url>
     <loc>https://flatironopensource.ml/course/software-engineering/phase-1</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
 
   <url>
     <loc>https://flatironopensource.ml/course/software-engineering/phase-2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
 
   <url>
     <loc>https://flatironopensource.ml/course/software-engineering/phase-3</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
 
   <url>
     <loc>https://flatironopensource.ml/course/software-engineering/phase-4</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
 
   <url>
     <loc>https://flatironopensource.ml/course/software-engineering/phase-5</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
 
