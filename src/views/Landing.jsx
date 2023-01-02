@@ -22,6 +22,9 @@ function Landing() {
         <About />
       </div>
       <div id="salaries">
+        <h1 className="text-5xl font-bold px-6">
+          Salary Information for Careers in Tech
+        </h1>
         {salariesData.map((salary) => (
           <Salaries key={salary.money} img={salary.img} imgAlt={salary.imgAlt} money={salary.money} title={salary.title} description={salary.description} />
         ))}

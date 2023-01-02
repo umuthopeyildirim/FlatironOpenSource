@@ -3,11 +3,8 @@ import { Hero } from "react-daisyui";
 function Salaries({ img, imgAlt, money ,title, description }) {
   return (
     <>                
-    <h1 className="text-5xl font-bold px-6">
-      Salary Information for Careers in Tech
-    </h1>
     <Hero>
-        <Hero.Content className="rounded-lg px-10 py-10">
+        <Hero.Content className="rounded-lg">
           <div className="flex flex-col md:flex-row	items-center">
             <img
                 alt={imgAlt}
