@@ -1,0 +1,499 @@
+{
+    "title": "Phase 1",
+    "modules": [
+        {
+            "name": "Prerequisites",
+            "items": [
+                {
+                    "title": "Pre-work Complete"
+                },
+                {
+                    "title": "Learning Content & Grading",
+                    "content": "https://vimeo.com/600675686"
+                },
+                {
+                    "title": "Your Cohort Figma Team"
+                },
+                {
+                    "title": "\ud83c\udfa5 Finding Lectures in Base"
+                },
+                {
+                    "title": "\ud83c\udfa5 DLabs Overview (4 mins.)"
+                }
+            ]
+        },
+        {
+            "name": "1.1 Design Ethics",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Design Ethics"
+                },
+                {
+                    "title": "\ud83c\udfac Design Values and Responsibility (5 mins.)"
+                },
+                {
+                    "title": "Design Ethics",
+                    "content": "https://www.merriam-webster.com/dictionary/ethic"
+                },
+                {
+                    "title": "\ud83c\udfac Design Ethics: Advocating for User Safety and Building Trust (8 mins.)"
+                },
+                {
+                    "title": "Confronting Bias in Research",
+                    "content": "https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18"
+                },
+                {
+                    "title": "Dark Patterns",
+                    "content": "https://arxiv.org/pdf/1907.07032.pdf"
+                },
+                {
+                    "title": "\ud83c\udfac Design Ethics: Design Plagiarism vs Paying Homage (3 mins.)"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 1.1 Design Ethics"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Design Ethics",
+                    "content": "https://jnd.org/community-based-human-centered-design/"
+                }
+            ]
+        },
+        {
+            "name": "1.2 Inclusive Design",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Inclusive Design"
+                },
+                {
+                    "title": "\ud83c\udfac Inclusive Design: Benefits of Inclusive Design (4 mins.)"
+                },
+                {
+                    "title": "What is Inclusive Design? ",
+                    "content": "https://www.fastcompany.com/90243282/the-no-1-thing-youre-getting-wrong-about-inclusive-design"
+                },
+                {
+                    "title": "The Value of Inclusive Design",
+                    "content": "https://www.uxmatters.com/mt/archives/2019/08/inclusive-design-an-overview-of-current-thinking.php"
+                },
+                {
+                    "title": "Microsoft Inclusive Design Toolkit",
+                    "content": "https://www.microsoft.com/design/inclusive/"
+                },
+                {
+                    "title": "3 Disability Microaggressions And Why They Matter"
+                },
+                {
+                    "title": "Inclusive Personas",
+                    "content": "https://blog.adobe.com/en/publish/2017/09/29/putting-personas-to-work-in-ux-design-what-they-are-and-why-theyre-important"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: 1.2 Inclusive Design"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Inclusive Design",
+                    "content": "https://www.microsoft.com/design/inclusive/"
+                }
+            ]
+        },
+        {
+            "name": "1.3  Accessibility",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Accessibility",
+                    "content": "https://www.w3.org/WAI/standards-guidelines/wcag/glance/"
+                },
+                {
+                    "title": "\ud83c\udfac Accessibility: Benefits of Accessible Design (2 mins.)"
+                },
+                {
+                    "title": "Accessibility Introduction",
+                    "content": "https://www.nationwidechildrens.org/conditions/auditory-processing-disorder"
+                },
+                {
+                    "title": "\ud83c\udfac Accessibility: Practicing Accessibility (4 mins.)"
+                },
+                {
+                    "title": "UX Principles that include Cognitive Accessibility"
+                },
+                {
+                    "title": "Improving Accessibility",
+                    "content": "https://www.deque.com/blog/what-to-look-for-in-an-accessibility-audit/"
+                },
+                {
+                    "title": "Accessibility on the Web",
+                    "content": "https://www.w3.org/WAI/standards-guidelines/wcag/"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: 1.3 Accessibility"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Accessibility",
+                    "content": "https://www.interaction-design.org/literature/topics/accessibility#:~:text=Accessibility%20is%20the%20concept%20of,notably%20better%20designs%20for%20all."
+                }
+            ]
+        },
+        {
+            "name": "1.4 Digital Well-being",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Digital Well-being"
+                },
+                {
+                    "title": "\ud83c\udfac Digital Well-being (5 mins.)"
+                },
+                {
+                    "title": "\ud83c\udfac Digital Well-being: Good Practices (8 mins.)"
+                },
+                {
+                    "title": "Habit-forming Design",
+                    "content": "https://blog.williams-sonoma.com/"
+                },
+                {
+                    "title": "The Hook Model",
+                    "content": "https://www.nirandfar.com/hooked/"
+                },
+                {
+                    "title": "Calm Technology",
+                    "content": "https://www.ted.com/talks/amber_case_we_are_all_cyborgs_now?language=en"
+                },
+                {
+                    "title": "\ud83c\udfac Amber Case, Calm Technology (50 min)"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 1.4 Digital Wellbeing"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Digital Well-being",
+                    "content": "https://design.google/library/designing-for-digital-wellbeing/"
+                }
+            ]
+        },
+        {
+            "name": "Module 1: Assessment",
+            "items": [
+                {
+                    "title": "Module 1 Quiz"
+                },
+                {
+                    "title": "Module 1 Assessment"
+                }
+            ]
+        },
+        {
+            "name": "2.1 Problem Space Research",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Problem Space Research"
+                },
+                {
+                    "title": "UX Research",
+                    "content": "https://dscout.com/people-nerds/how-to-set-up-a-user-research-framework-and-why-your-team-needs-one"
+                },
+                {
+                    "title": "Researching the Problem",
+                    "content": "https://medium.com/inclusive-software/yes-to-problem-space-research-df97aa69edf9"
+                },
+                {
+                    "title": "Research Approaches",
+                    "content": "https://www.designorate.com/inductive-reasoning-in-user-experience-research/"
+                },
+                {
+                    "title": "\ud83c\udfac Problem Space Research: Research Plans (8 mins.)"
+                },
+                {
+                    "title": "\ud83c\udfac Problem Space Research: Contextual Inquiry (4 mins.)"
+                },
+                {
+                    "title": "Business Analysis: Basic Concepts",
+                    "content": "https://medium.com/nform-user-experience/balance-the-circles-ux-designers-e8ede266b11"
+                },
+                {
+                    "title": "Sharing Insights: The Oft Overlooked Practice"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: 2.1 Problem Space Research"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Problem Space Research",
+                    "content": "https://info.keylimeinteractive.com/foundational-vs.-directional-research"
+                }
+            ]
+        },
+        {
+            "name": "2.2 Market Research",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Market Research"
+                },
+                {
+                    "title": "\ud83c\udfac What is Market Research? (7 mins.)"
+                },
+                {
+                    "title": "Domain Research"
+                },
+                {
+                    "title": "Competitive Research",
+                    "content": "https://uxplanet.org/top-things-to-know-about-ux-competitive-analysis-d91689fd8b36"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 2.2 Competitive Analysis"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Market Research",
+                    "content": "https://www.askattest.com/blog/guides/market-research-new-product-development"
+                }
+            ]
+        },
+        {
+            "name": "2.3 Qualitative Research",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Qualitative Research"
+                },
+                {
+                    "title": "\ud83c\udfac Qualitative Design Research (24 mins.)"
+                },
+                {
+                    "title": "\ud83c\udfac Qualitative Research: Types of Interviews (12 mins.)"
+                },
+                {
+                    "title": "Introducing Qualitative Research",
+                    "content": "https://www.playbookux.com/what-type-of-qualitative-ux-research-method-should-i-run/"
+                },
+                {
+                    "title": "Conducting an Interview",
+                    "content": "https://indiyoung.com/"
+                },
+                {
+                    "title": "Preparing for Interviews",
+                    "content": "https://www.smashingmagazine.com/2020/06/user-interview-questions/"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 2.3 Qualitative Research"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Qualitative Research",
+                    "content": "https://xd.adobe.com/ideas/process/user-research/why-behind-qualitative-user-research/"
+                }
+            ]
+        },
+        {
+            "name": "2.4 Quantitative Research",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Quantitative Research"
+                },
+                {
+                    "title": "\ud83c\udfac How We Can Find Ourselves in Data (11 mins.)"
+                },
+                {
+                    "title": "Introducing Quantitative Research",
+                    "content": "https://neilpatel.com/blog/how-to-get-actionable-data-from-google-analytics-in-10-minutes/"
+                },
+                {
+                    "title": "Data Informed, Not Data Driven",
+                    "content": "https://backlinko.com/hub/seo/bounce-rate"
+                },
+                {
+                    "title": "Writing Surveys",
+                    "content": "https://www.pewresearch.org/methods/u-s-survey-research/questionnaire-design/"
+                },
+                {
+                    "title": "The 7 Essentials of Successful Survey Design"
+                },
+                {
+                    "title": "Avoiding Survey Biases",
+                    "content": "https://www.nngroup.com/articles/confirmation-bias-ux/"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: 2.4 Quantitative Research"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Quantitative Research",
+                    "content": "https://www.nngroup.com/articles/quantitative-user-research-methods/"
+                }
+            ]
+        },
+        {
+            "name": "Module 2: Assessment",
+            "items": [
+                {
+                    "title": "Module 2 Quiz"
+                },
+                {
+                    "title": "Module 2 Assessment"
+                },
+                {
+                    "title": "Project Brief: Youth and Social Media",
+                    "content": "https://www.pewresearch.org/internet/2018/05/31/teens-social-media-technology-2018/"
+                },
+                {
+                    "title": "Research Guide: Youth and Social Media",
+                    "content": "https://www.commonsensemedia.org/sites/default/files/uploads/research/2019-census-8-to-18-key-findings-updated.pdf"
+                }
+            ]
+        },
+        {
+            "name": "3.1 Synthesis",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Synthesis"
+                },
+                {
+                    "title": "What is Synthesis? ",
+                    "content": "https://dscout.com/people-nerds/user-research-synthesis"
+                },
+                {
+                    "title": "User Modeling",
+                    "content": "https://xd.adobe.com/ideas/process/ui-design/how-to-use-mental-models-in-ux-design/"
+                },
+                {
+                    "title": "Everyone is Biased: How Reboot Builds Bias Checks into Design Research"
+                },
+                {
+                    "title": "\ud83c\udfac Coding Qualitative Interviews"
+                },
+                {
+                    "title": "Affinity Diagrams",
+                    "content": "https://ux-everything.com/affinity-diagram/"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 3.1 Synthesis"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Synthesis",
+                    "content": "https://www.userinterviews.com/ux-research-field-guide-chapter/research-analysis"
+                }
+            ]
+        },
+        {
+            "name": "3.2 Problem Scoping",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Problem Scoping"
+                },
+                {
+                    "title": "\ud83c\udfac Problem Scoping: What's Your Scope? (10 mins.)"
+                },
+                {
+                    "title": "Are You Solving the Right Problems, Harvard Business Review"
+                },
+                {
+                    "title": "Scoping the Problem",
+                    "content": "https://uxdesign.cc/the-problem-with-solutions-372bc10e90a2"
+                },
+                {
+                    "title": "Case Study: Problem Framing, Not Problem Finding"
+                },
+                {
+                    "title": "Writing Problem Statements",
+                    "content": "http://www.madlibs.com/"
+                },
+                {
+                    "title": "How Might We?",
+                    "content": "https://uxknowledgebase.com/how-might-we-questions-ux-knowledge-piece-sketch-30-22cc3a556130"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: 3.2 Scoping the Problem"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Problem Scoping",
+                    "content": "https://www.nngroup.com/articles/problem-statements/"
+                }
+            ]
+        },
+        {
+            "name": "3.3 Sketching and Rapid Prototyping",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Sketching and Rapid Prototyping"
+                },
+                {
+                    "title": "\ud83c\udfac Ideation Principles (5 mins.)"
+                },
+                {
+                    "title": "The Value of Rapid Ideation",
+                    "content": "https://www.justinmind.com/blog/8-ux-ideation-techniques-to-try-out/"
+                },
+                {
+                    "title": "Rapid Ideation Methods",
+                    "content": "https://www.uxforthemasses.com/sketch-storming/"
+                },
+                {
+                    "title": "\ud83c\udfac Sketching Principles (5 mins.)"
+                },
+                {
+                    "title": "The Value of Sketching",
+                    "content": "https://uxdesign.cc/ui-ux-sketching-techniques-101-7e91d854ae3d"
+                },
+                {
+                    "title": "Sketching Techniques",
+                    "content": "https://xinyicui.medium.com/ui-ux-strategy-a-guide-to-paper-prototype-sketching-3c475ce560f9"
+                },
+                {
+                    "title": "Three Types of Product Flows",
+                    "content": "https://blog.prototypr.io/ux-flows-and-why-theyre-so-confusing-26670b9089d4"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: 3.3 Sketching and Rapid Prototyping"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Sketching and Rapid Prototyping",
+                    "content": "https://www.toptal.com/designers/ux/guide-to-ux-sketching"
+                }
+            ]
+        },
+        {
+            "name": "3.4 Evaluating Early Ideas",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Evaluating Early Ideas"
+                },
+                {
+                    "title": "\ud83c\udfac Reducing Bias in Early Evaluation (6 mins.)"
+                },
+                {
+                    "title": "Evaluating and Converging Early Ideas",
+                    "content": "https://www.prodigygame.com/main-en/blog/convergent-divergent-thinking/"
+                },
+                {
+                    "title": "Miro: Prioritization Templates"
+                },
+                {
+                    "title": "Prototyping Basics",
+                    "content": "https://sidebench.com/2128-2/"
+                },
+                {
+                    "title": "Prototyping Tools",
+                    "content": "https://uxtools.co/survey-2020/#prototyping"
+                },
+                {
+                    "title": "Low Fidelity with Invision",
+                    "content": "https://support.invisionapp.com/hc/en-us/articles/115000648743"
+                },
+                {
+                    "title": "Rapid Usability Testing",
+                    "content": "https://uxdesign.cc/usability-testing-what-is-it-how-to-do-it-51356e5de5d"
+                },
+                {
+                    "title": "\ud83d\udd2cLab: 3.4 Evaluating Early Ideas"
+                },
+                {
+                    "title": "\ud83c\udf31 Resources: Evaluating Early Ideas",
+                    "content": "https://www.nngroup.com/articles/diverge-converge/"
+                }
+            ]
+        },
+        {
+            "name": "Module 3: Assessment",
+            "items": [
+                {
+                    "title": "Module 3 Quiz"
+                },
+                {
+                    "title": "Module 3 Assessement"
+                }
+            ]
+        }
+    ]
+}

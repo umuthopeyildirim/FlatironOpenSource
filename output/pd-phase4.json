@@ -1,0 +1,458 @@
+{
+    "title": "Phase 4",
+    "modules": [
+        {
+            "name": "Prerequisites",
+            "items": [
+                {
+                    "title": "Phase 3 Complete"
+                }
+            ]
+        },
+        {
+            "name": "10.1 Lean UX",
+            "items": [
+                {
+                    "title": "Lean UX: A History",
+                    "content": "https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b"
+                },
+                {
+                    "title": "Working with Lean UX",
+                    "content": "https://leanstartup.co/what-is-an-mvp/"
+                },
+                {
+                    "title": "\ud83c\udfac Lean UX | The Waterfall Method"
+                },
+                {
+                    "title": "\ud83c\udfac Lean UX | Introducing Lean UX"
+                },
+                {
+                    "title": "\ud83c\udfac Lean UX | Minimum Viable Product (MVP)"
+                },
+                {
+                    "title": "\ud83c\udfac Lean UX | User Stories"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 10.1 Lean UX"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Lean UX",
+                    "content": "https://xd.adobe.com/ideas/perspectives/leadership-insights/designers-guide-lean-agile-ux/"
+                }
+            ]
+        },
+        {
+            "name": "Phase 4 Project Brief",
+            "items": [
+                {
+                    "title": "Project Brief: Better School Choice",
+                    "content": "https://www.ourkids.net/school/choosing-a-school-parent-interviews"
+                }
+            ]
+        },
+        {
+            "name": "10.2 Jobs to Be Done",
+            "items": [
+                {
+                    "title": "The JTBD framework",
+                    "content": "https://claytonchristensen.com/biography/"
+                },
+                {
+                    "title": "Job and Outcome Statements",
+                    "content": "https://www.toptal.com/designers/ux/jobs-to-be-done-framework"
+                },
+                {
+                    "title": "Job Maps",
+                    "content": "https://jobs-to-be-done.com/mapping-the-job-to-be-done-45336427b3bc"
+                },
+                {
+                    "title": "Writing Job Stories",
+                    "content": "https://www.intercom.com/blog/the-dribbblisation-of-design/"
+                },
+                {
+                    "title": "\ud83c\udfac Jobs to Be Done | Introduction"
+                },
+                {
+                    "title": "\ud83c\udfac Jobs to Be Done | Identify Job Types"
+                },
+                {
+                    "title": "\ud83c\udfac Jobs to Be Done | Job Maps"
+                },
+                {
+                    "title": "\ud83c\udfac Jobs to Be Done | Criteria For Success"
+                },
+                {
+                    "title": "\ud83c\udfac Jobs to Be Done | Deeper Dive"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 10.2 Jobs to Be Done"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Jobs to Be Done",
+                    "content": "https://www.nngroup.com/articles/personas-jobs-be-done/"
+                }
+            ]
+        },
+        {
+            "name": "10.3 Balancing User and Business Goals, Feature Prioritization",
+            "items": [
+                {
+                    "title": "Business Goals vs. User Goals",
+                    "content": "https://chartio.com/learn/product-analytics/what-is-conversion-rate/"
+                },
+                {
+                    "title": "Feature Prioritization",
+                    "content": "https://medium.com/@Ana.Manrique/the-ux-paradox-6f2e4b5979df"
+                },
+                {
+                    "title": "Feature Prioritization Techniques",
+                    "content": "https://uxdesign.cc/feature-prioritization-a089fd0af08"
+                },
+                {
+                    "title": "\ud83c\udfac Balancing User Needs and Business Goals | Speak Business"
+                },
+                {
+                    "title": " \ud83c\udfac Balancing User Needs and Business Goals | Earning Stakeholder Trust"
+                },
+                {
+                    "title": "\ud83c\udfac Balancing User Needs and Business Goals | Feature Prioritization"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 10.3 Balancing User & Business Goals"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Balancing User and Business Goals, Feature Prioritization",
+                    "content": "https://www.reforge.com/blog/the-product-strategy-stack"
+                }
+            ]
+        },
+        {
+            "name": "10.4 Behavioral Design",
+            "items": [
+                {
+                    "title": "Mental and Conceptual Models",
+                    "content": "https://www.uxmatters.com/mt/archives/2016/05/mental-models-and-user-experience.php"
+                },
+                {
+                    "title": "User Psychology and Behavior Change",
+                    "content": "https://www.uxforthemasses.com/10-gamification-lessons/"
+                },
+                {
+                    "title": "Designing for Behavior Change",
+                    "content": "https://designmuseumfoundation.org/art-of-designing-for-behavior-change/"
+                },
+                {
+                    "title": "\ud83c\udfac Behavioral Design | What is Behavioral Design?"
+                },
+                {
+                    "title": "\ud83c\udfac Behavioral Design | Understanding Decision Making"
+                },
+                {
+                    "title": "\ud83c\udfac Behavioral Design | Influencing User Decisions"
+                },
+                {
+                    "title": "\ud83c\udfac Behavioral Design | Designing For Decision Making"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Behavioral Design",
+                    "content": "https://xd.adobe.com/ideas/process/ui-design/how-to-use-mental-models-in-ux-design/"
+                }
+            ]
+        },
+        {
+            "name": "Module 10 Assessment",
+            "items": [
+                {
+                    "title": "Module 10 Quiz"
+                },
+                {
+                    "title": "Module 10: Assessment"
+                }
+            ]
+        },
+        {
+            "name": "11.1 Information Design Basics",
+            "items": [
+                {
+                    "title": "Information Design",
+                    "content": "https://en.wikipedia.org/wiki/Charles_Joseph_Minard#/media/File:Minard.png"
+                },
+                {
+                    "title": "Design For Scanning, Not Reading",
+                    "content": "https://www.nngroup.com/articles/how-users-read-on-the-web/"
+                },
+                {
+                    "title": "Lists",
+                    "content": "https://overcast.fm/"
+                },
+                {
+                    "title": "Tables",
+                    "content": "https://www.notion.so/"
+                },
+                {
+                    "title": " \ud83c\udfac Information Design | What is Information Design?"
+                },
+                {
+                    "title": "\ud83c\udfac Information Design | Data vs. Information"
+                },
+                {
+                    "title": " \ud83c\udfac Information Design | Information Design as a Task"
+                },
+                {
+                    "title": "\ud83c\udfac Information Design | Information Design as a Mindset"
+                },
+                {
+                    "title": "\ud83c\udfac Information Design | Practicing Information Design"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 11.1 Information Design "
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Information Design",
+                    "content": "https://www.interaction-design.org/literature/article/user-goals-and-how-they-influence-information-design-decisions"
+                }
+            ]
+        },
+        {
+            "name": "11.2 Information Design Ethics",
+            "items": [
+                {
+                    "title": "Privacy by Design",
+                    "content": "https://www.termsfeed.com/blog/privacy-design/"
+                },
+                {
+                    "title": "Data Privacy in the News",
+                    "content": "https://gdpr.eu/what-is-gdpr/"
+                },
+                {
+                    "title": "\ud83c\udfac Information Design Ethics | Information as a Right"
+                },
+                {
+                    "title": "\ud83c\udfac Information Design Ethics | PAPA "
+                },
+                {
+                    "title": "\ud83c\udfac Information Design Ethics | Consumption of Information"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Information Design Ethics",
+                    "content": "https://www.smashingmagazine.com/2017/07/privacy-by-design-framework/"
+                }
+            ]
+        },
+        {
+            "name": "11.3 Data Visualization",
+            "items": [
+                {
+                    "title": "Data Visualization Basics",
+                    "content": "https://www.poppyfield.org/"
+                },
+                {
+                    "title": "Bar Charts, Histograms, and Pie Charts",
+                    "content": "https://chartio.com/learn/charts/bar-chart-complete-guide/"
+                },
+                {
+                    "title": "Line and Area Charts, Scatter Plots, and Maps",
+                    "content": "https://datavizproject.com/data-type/line-chart/"
+                },
+                {
+                    "title": "\ud83c\udfac Data Visualization | Information Design vs. Data Visualization"
+                },
+                {
+                    "title": "\ud83c\udfac Data Visualization | Data Visualization Process"
+                },
+                {
+                    "title": "\ud83c\udfac Data Visualization | Types of Visualizations"
+                },
+                {
+                    "title": "\ud83c\udfac Data Visualization | Accessible Visualizations"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 11.3 Data Visualization"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Data Visualization",
+                    "content": "https://www.tableau.com/learn/articles/data-visualization"
+                }
+            ]
+        },
+        {
+            "name": "11.4 Designing Dashboards",
+            "items": [
+                {
+                    "title": "Introducing Dashboards",
+                    "content": "https://www.mentalfloss.com/article/63747/meanings-behind-these-15-symbols-your-cars-dashboard"
+                },
+                {
+                    "title": "Dashboard Design: Best Practices",
+                    "content": "https://www.justinmind.com/blog/dashboard-design-best-practices-ux-ui/"
+                },
+                {
+                    "title": "Sorting and Filtering",
+                    "content": "https://baymard.com/research/ecommerce-product-lists"
+                },
+                {
+                    "title": "\ud83c\udfac Designing Dashboards | What is a Dashboard?"
+                },
+                {
+                    "title": " \ud83c\udfac Designing Dashboards | Types of Dashboards"
+                },
+                {
+                    "title": "\ud83c\udfac Designing Dashboards | Dashboards & Data Storytelling"
+                },
+                {
+                    "title": " \ud83c\udfac Designing Dashboards | Dashboard Design Pitfalls"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 11.4 Designing Dashboards"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Designing Dashboards",
+                    "content": "https://www.justinmind.com/blog/dashboard-design-best-practices-ux-ui/"
+                }
+            ]
+        },
+        {
+            "name": "Module 11 Assessment",
+            "items": [
+                {
+                    "title": "Module 11 Quiz"
+                },
+                {
+                    "title": "Module 11: Assessment"
+                }
+            ]
+        },
+        {
+            "name": "12.1 Intro to Storytelling and Presenting",
+            "items": [
+                {
+                    "title": "Presenting to Different Audiences",
+                    "content": "https://monteiro.medium.com/13-ways-designers-screw-up-client-presentations-51aaee11e28c"
+                },
+                {
+                    "title": "Storytelling in Design Presentations",
+                    "content": "https://www.interaction-design.org/literature/article/how-to-create-engaging-ux-case-studies-with-freytag-s-5-part-dramatic-structure"
+                },
+                {
+                    "title": "\ud83c\udfac Storytelling and Presenting | Storytelling 101"
+                },
+                {
+                    "title": "\ud83c\udfac Storytelling and Presenting | Creating a Presentation"
+                },
+                {
+                    "title": "\ud83c\udfac Storytelling and Presenting | Designing Your Slides"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 12.1 Storytelling and Presenting"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Intro to Storytelling and Presenting",
+                    "content": "https://www.interaction-design.org/literature/topics/storytelling"
+                }
+            ]
+        },
+        {
+            "name": "12.2 Presenting Research",
+            "items": [
+                {
+                    "title": "Presenting Research Insights",
+                    "content": "https://blog.hubspot.com/marketing/competitive-matrix"
+                },
+                {
+                    "title": "\ud83c\udfac Presenting Research | Value of Presenting Research"
+                },
+                {
+                    "title": " \ud83c\udfac Presenting Research | Sharing Research Findings"
+                },
+                {
+                    "title": "\ud83c\udfac Presenting Research | What to do"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 12.2 Presenting Research"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Presenting Research",
+                    "content": "https://xd.adobe.com/ideas/process/user-research/turn-user-research-smart-design-decisions/"
+                }
+            ]
+        },
+        {
+            "name": "12.3 Presenting UX & Annotating Your Work",
+            "items": [
+                {
+                    "title": "Annotating UX Deliverables",
+                    "content": "https://medium.com/wayfair-design/design-basics-annotating-your-work-6eac0562097f"
+                },
+                {
+                    "title": "Presenting UX to Non-Designers",
+                    "content": "https://dribbble.com/stories/2019/07/22/11-tips-for-pitching-your-ui-ux-designs-to-non-designers"
+                },
+                {
+                    "title": "\ud83c\udfac Presenting UX Designs | Editing Your Story"
+                },
+                {
+                    "title": "\ud83c\udfac Presenting UX Designs | Introduce the Project"
+                },
+                {
+                    "title": "\ud83c\udfac Presenting UX Designs | Set Context"
+                },
+                {
+                    "title": "\ud83c\udfac Presenting UX Designs | Explain Your Process"
+                },
+                {
+                    "title": "\ud83c\udfac Presenting UX Designs | Present Your Solution"
+                },
+                {
+                    "title": "\ud83c\udfac Presenting UX Designs | Conclusion"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Presenting UX + Annotating your work",
+                    "content": "https://www.uxpin.com/studio/blog/getting-to-yes-presenting-and-defending-design/"
+                }
+            ]
+        },
+        {
+            "name": "12.4 Presenting UI & Annotating Your Work",
+            "items": [
+                {
+                    "title": "Annotations for Accessibility",
+                    "content": "https://www.w3.org/WAI/test-evaluate/involving-users/"
+                },
+                {
+                    "title": "Creating a UI Style Guide",
+                    "content": "https://designsystemsrepo.com/"
+                },
+                {
+                    "title": "\ud83c\udfac Presenting UI Designs | Plan Your Presentation"
+                },
+                {
+                    "title": "\ud83c\udfac Presenting UI Designs | Prepare Your Slides"
+                },
+                {
+                    "title": "\ud83c\udfac Presenting UI Designs | Describing Your Design"
+                },
+                {
+                    "title": "\ud83c\udfac Presenting UI Designs | Shaping and Receiving Feedback"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 12.4 Presenting UI"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Presenting UI + Annotating your work",
+                    "content": "https://dribbble.com/stories/2019/07/22/11-tips-for-pitching-your-ui-ux-designs-to-non-designers"
+                }
+            ]
+        },
+        {
+            "name": "Module 12 Assessment",
+            "items": [
+                {
+                    "title": "Module 12 Quiz"
+                },
+                {
+                    "title": "Module 12: Assessment"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,469 @@
+{
+    "title": "Phase 3",
+    "modules": [
+        {
+            "name": "Prerequisites",
+            "items": [
+                {
+                    "title": "Phase 2 Complete"
+                }
+            ]
+        },
+        {
+            "name": "7.1 Content Strategy",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Content Strategy"
+                },
+                {
+                    "title": "\ud83c\udfac Information Architecture Basics (8 mins.)"
+                },
+                {
+                    "title": "Information Architecture Overview",
+                    "content": "https://unsplash.com/s/photos/books-bookcase"
+                },
+                {
+                    "title": "Principles of Information Architecture",
+                    "content": "https://www.amazon.com/Universal-Principles-Design-William-Lidwell/dp/1592530079"
+                },
+                {
+                    "title": "Content Inventories and Audits",
+                    "content": "https://www.nngroup.com/articles/content-audits/"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 7.1 Content Strategy"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Content Strategy",
+                    "content": "http://www.howtomakesenseofanymess.com/"
+                }
+            ]
+        },
+        {
+            "name": "Phase 3 Project Brief",
+            "items": [
+                {
+                    "title": "Project Brief: HAYDN",
+                    "content": "https://drive.google.com/open?id=1Frrvh6obg2u2M7XVCIuPzBnNyRjxGXE0&authuser=joshua.robinson%40flatironschool.com&usp=drive_fs"
+                }
+            ]
+        },
+        {
+            "name": "7.2 Navigation & Wayfinding",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Navigation and Wayfinding"
+                },
+                {
+                    "title": "Navigation and Wayfinding (Chapter 5 of Everyday Information Architecture by Lisa Maria Marquis, PDF)"
+                },
+                {
+                    "title": "\ud83c\udfac Navigation and Sitemaps (5 mins.)"
+                },
+                {
+                    "title": "Sitemaps",
+                    "content": "https://alistapart.com/article/everyday-information-architecture-excerpt/#:~:text=Structural%20audits%20have%20an%20important,site%20as%20it%20really%20works"
+                },
+                {
+                    "title": "\ud83c\udfac Search (5 mins.)"
+                },
+                {
+                    "title": "\ud83c\udfac Combining Methods (3 mins.)"
+                },
+                {
+                    "title": "Tree Testing",
+                    "content": "https://www.userzoom.com/ux-blog/what-is-tree-testing-and-how-can-it-improve-ux/"
+                },
+                {
+                    "title": "\ud83c\udfac Tree Testing (3 mins.)"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 7.2 Navigation and Wayfinding"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Navigation and Wayfinding",
+                    "content": "https://xd.adobe.com/ideas/process/information-architecture/information-architecture-navigation/"
+                }
+            ]
+        },
+        {
+            "name": "7.3 Organizing Information",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Organizing Information"
+                },
+                {
+                    "title": "Introducing Taxonomies",
+                    "content": "https://xd.adobe.com/ideas/process/information-architecture/organizing-information-taxonomies-metadata/"
+                },
+                {
+                    "title": "Working with Metadata",
+                    "content": "https://xd.adobe.com/ideas/process/information-architecture/organizing-information-taxonomies-metadata/"
+                },
+                {
+                    "title": "\ud83c\udfac Card Sorting and Tree Testing: How Do They Work Together? (3 mins.)"
+                },
+                {
+                    "title": "\ud83c\udfac Starting with Content (6 mins.)"
+                },
+                {
+                    "title": "\ud83c\udfac Labeling and Ontology (5 mins.)"
+                },
+                {
+                    "title": "\ud83c\udfac Findability vs Discoverability (3 mins.)"
+                },
+                {
+                    "title": "Card Sorting",
+                    "content": "https://xd.adobe.com/ideas/process/ui-design/how-to-use-mental-models-in-ux-design/"
+                },
+                {
+                    "title": "\ud83c\udfac Card Sorting (10 mins.)"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 7.3 Organizing Information"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Organizing Information",
+                    "content": "https://xd.adobe.com/ideas/process/information-architecture/organizing-information-taxonomies-metadata/"
+                }
+            ]
+        },
+        {
+            "name": "7.4 Medium-Fidelity Prototypes",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Medium-Fidelity Prototypes"
+                },
+                {
+                    "title": "\ud83c\udfac What is a Wireframe? (11 mins.)"
+                },
+                {
+                    "title": "Introducing Wireframes",
+                    "content": "https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/"
+                },
+                {
+                    "title": "Wireframe Elements",
+                    "content": "https://www.mockuptiger.com/wireframe-boxes-containers-and-list-controls"
+                },
+                {
+                    "title": "Wireframe Kits",
+                    "content": "https://www.lofiwireframekit.com/"
+                },
+                {
+                    "title": "\ud83c\udfac Prototyping (9 mins.)"
+                },
+                {
+                    "title": "\ud83c\udfac Using Lorem Ipsem (3 mins.)"
+                },
+                {
+                    "title": "Task Scenarios for Usability Testing",
+                    "content": "https://blog.testlodge.com/usability-testing-examples/"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 7.4 Medium-Fidelity Prototypes"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Medium-Fidelity Prototypes",
+                    "content": "https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/"
+                }
+            ]
+        },
+        {
+            "name": "Module 7 Assessment",
+            "items": [
+                {
+                    "title": "Module 7 Quiz"
+                },
+                {
+                    "title": "Module 7: Assessment"
+                }
+            ]
+        },
+        {
+            "name": "8.1 HTML Basics",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: HTML Basics"
+                },
+                {
+                    "title": "How Does the Web Work?",
+                    "content": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server"
+                },
+                {
+                    "title": "\ud83c\udfa5 Intro to HTML (60 mins.)"
+                },
+                {
+                    "title": "\ud83d\udcfd\ufe0f Intro to Replit"
+                },
+                {
+                    "title": "Intro to HTML"
+                },
+                {
+                    "title": "About HTML Documents"
+                },
+                {
+                    "title": "Semantic HTML: Headings, Paragraphs, Lists, Links",
+                    "content": "https://webaim.org/techniques/semanticstructure/"
+                },
+                {
+                    "title": "Content Sectioning",
+                    "content": "https://learn.shayhowe.com/html-css/getting-to-know-html/"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 8.1 HTML Basics"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: HTML Basics",
+                    "content": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works"
+                }
+            ]
+        },
+        {
+            "name": "8.2 CSS Basics",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: CSS Basics"
+                },
+                {
+                    "title": "\ud83c\udfa5 Intro to CSS (60 mins.)"
+                },
+                {
+                    "title": "Intro to CSS",
+                    "content": "https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Open_the_Inspector"
+                },
+                {
+                    "title": "CSS Rules and Selectors",
+                    "content": "https://validator.w3.org/"
+                },
+                {
+                    "title": "CSS Properties and Values",
+                    "content": "https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax"
+                },
+                {
+                    "title": "Working with Web Fonts",
+                    "content": "https://www.cssfontstack.com/"
+                },
+                {
+                    "title": "CSS Layout and Positioning",
+                    "content": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+                },
+                {
+                    "title": "CSS Cascade, Specificity, and Inheritance",
+                    "content": "https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 8.2 CSS Basics"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: CSS Basics",
+                    "content": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics"
+                }
+            ]
+        },
+        {
+            "name": "8.3 Screen Size & Responsiveness",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Screen Size & Responsiveness"
+                },
+                {
+                    "title": "Responsive Design Principles",
+                    "content": "https://alistapart.com/article/responsive-web-design/"
+                },
+                {
+                    "title": "Responsive Images",
+                    "content": "https://www.w3schools.com/howto/howto_css_image_responsive.asp"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 8.3 Screen Size & Responsiveness"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Screen Size & Responsiveness",
+                    "content": "https://alistapart.com/article/responsive-web-design/"
+                }
+            ]
+        },
+        {
+            "name": "8.4 Responsive CSS",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Responsive CSS"
+                },
+                {
+                    "title": "CSS Media Queries",
+                    "content": "https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/"
+                },
+                {
+                    "title": "CSS Flexbox",
+                    "content": "https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/"
+                },
+                {
+                    "title": "\ud83c\udfa5 CSS Flexbox and Grid (120 mins.)"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 8.4 Responsive CSS"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: CSS Flexbox",
+                    "content": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+                }
+            ]
+        },
+        {
+            "name": "Module 8 Assessment",
+            "items": [
+                {
+                    "title": "Module 8 Quiz"
+                },
+                {
+                    "title": "Module 8: Assessment"
+                }
+            ]
+        },
+        {
+            "name": "9.1 Material Design",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Material Design"
+                },
+                {
+                    "title": "Introducing Material Design",
+                    "content": "https://material.io/"
+                },
+                {
+                    "title": "\ud83c\udfac Material Design (6 mins.)"
+                },
+                {
+                    "title": "\ud83c\udfac Using Material Design (2 mins.)"
+                },
+                {
+                    "title": "Material Design Principles",
+                    "content": "https://dribbble.com/shots/2238573-Google-I-O-App-Layer-Visualization"
+                },
+                {
+                    "title": "Material Design Patterns",
+                    "content": "https://material.io/components"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 9.1 Material Design"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Material Design",
+                    "content": "https://material.io/"
+                }
+            ]
+        },
+        {
+            "name": "9.2 Human Interface Guidelines",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Human Interface Guidelines"
+                },
+                {
+                    "title": "Human Interface Guidelines: A Brief History",
+                    "content": "https://blog.prototypr.io/rediscovering-apples-human-interface-guidelines-1987-59731376b39e"
+                },
+                {
+                    "title": "\ud83c\udfac Human Interface Guidelines (7 mins.)"
+                },
+                {
+                    "title": "Working with Human Interface Guidelines",
+                    "content": "https://developer.apple.com/design/human-interface-guidelines/guidelines/overview"
+                },
+                {
+                    "title": "Human Interface Guidelines: Patterns",
+                    "content": "https://developer.apple.com/design/human-interface-guidelines/guidelines/overview"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 9.2 Human Interface Guidelines"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Human Interface Guidelines",
+                    "content": "https://developer.apple.com/design/human-interface-guidelines/guidelines/overview"
+                }
+            ]
+        },
+        {
+            "name": "9.3 Design Across Devices",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Design Across Devices"
+                },
+                {
+                    "title": "Mobile vs. Desktop Usability",
+                    "content": "https://99designs.com/blog/web-digital/desktop-vs-mobile-app-design/"
+                },
+                {
+                    "title": "\ud83c\udfac Design Across Devices (17 mins.)"
+                },
+                {
+                    "title": "Multi-Device Experiences",
+                    "content": "https://support.apple.com/en-us/HT204666"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 9.3 Design Across Devices"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Design Across Devices",
+                    "content": "https://usabilitygeek.com/streamlining-ux-across-multiple-platforms/"
+                }
+            ]
+        },
+        {
+            "name": "9.4 Usability Testing",
+            "items": [
+                {
+                    "title": "\u2705 Learning Objectives: Usability Testing"
+                },
+                {
+                    "title": "Usability Testing Basics",
+                    "content": "https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/"
+                },
+                {
+                    "title": "\ud83c\udfac Usability Testing Basics (16 mins.)"
+                },
+                {
+                    "title": "\ud83c\udfac Usability Testing Setup (13 mins.)"
+                },
+                {
+                    "title": "Moderating a Usability Test",
+                    "content": "http://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html"
+                },
+                {
+                    "title": "Analyzing Usability Test Results ",
+                    "content": "http://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html"
+                },
+                {
+                    "title": "Analyzing Qualitative Data",
+                    "content": "https://www.maxqda.com/blogpost/smart-coding-tool"
+                },
+                {
+                    "title": "Heuristic Models for Good Design ",
+                    "content": "https://www.verywellmind.com/what-is-a-heuristic-2795235"
+                },
+                {
+                    "title": "Heuristic Evaluations ",
+                    "content": "https://xd.adobe.com/ideas/process/user-testing/how-to-heuristic-evaluation-analysis-ux-design/"
+                },
+                {
+                    "title": "\ud83d\udd2c Lab: 9.4 Usability Testing"
+                },
+                {
+                    "title": "\ud83d\udcda Resources: Usability Testing",
+                    "content": "https://www.nngroup.com/articles/usability-testing-101/"
+                }
+            ]
+        },
+        {
+            "name": "Module 9 Assessment",
+            "items": [
+                {
+                    "title": "Module 9 Quiz"
+                },
+                {
+                    "title": "Module 9: Assessment"
+                }
+            ]
+        }
+    ]
+}
