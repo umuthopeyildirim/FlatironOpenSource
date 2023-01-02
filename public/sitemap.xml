@@ -3,25 +3,25 @@
   <url>
     <loc>https://flatironopensource.ml</loc>
     <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <priority>0.9</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
   <url>
     <loc>https://flatironopensource.ml/courses/data-science</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
   <url>
     <loc>https://flatironopensource.ml/courses/software-engineering</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
   <url>
     <loc>https://flatironopensource.ml/courses/data-structures-and-algorithms</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
   <url>

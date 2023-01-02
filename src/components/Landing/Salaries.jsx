@@ -4,7 +4,7 @@ function Salaries({ img, imgAlt, money ,title, description }) {
   return (
     <Hero>
         <Hero.Content className="rounded-lg px-10 py-10">
-          <div className="flex flex-col md:flex-row">
+          <div className="flex flex-col md:flex-row	items-center">
             <img
                 alt={imgAlt}
                 src={img}
