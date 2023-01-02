@@ -1,5 +1,4 @@
 # MIT License
-
 Copyright (c) 2022 Umut Hope YILDIRIM
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -21,7 +20,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 # Learn.co Educational Content License
-
 Copyright (c) 2018 Flatiron School, Inc
 
 The Flatiron School, Inc. owns this Educational Content. However, the Flatiron

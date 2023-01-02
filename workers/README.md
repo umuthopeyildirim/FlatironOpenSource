@@ -1,5 +1,4 @@
 # Flatiron Open Source Worker
-
 This is a simple worker that can be used request data from Workers KV and send it to client side.
 It is very fast and can be used to serve static files.
 
