@@ -1134,6 +1134,11 @@ util-deprecate@^1.0.2:
   resolved "https://registry.npmjs.org/util-deprecate/-/util-deprecate-1.0.2.tgz"
   integrity sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==
 
+vite-plugin-radar@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/vite-plugin-radar/-/vite-plugin-radar-0.6.0.tgz#3feaae9bc9b2961c23c90d19d665f9ce9e20257a"
+  integrity sha512-/nsxB4I15Tge8vBsx4TagM5oX2hozTW7575W2Ym7ame/umlMUZfRB9sj/09wFsgCVYv4cIa2g808k74ji0Ngkw==
+
 vite@^4.0.3:
   version "4.0.3"
   resolved "https://registry.npmjs.org/vite/-/vite-4.0.3.tgz"
