@@ -957,10 +957,10 @@ quick-lru@^5.1.1:
   resolved "https://registry.npmjs.org/quick-lru/-/quick-lru-5.1.1.tgz"
   integrity sha512-WuyALRjWPDGtt/wzJiadO5AXY+8hZ80hVpe6MyivgraREW751X3SbhRvG3eLKOYN+8VEvqLcf3wdnt44Z4S4SA==
 
-react-daisyui@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/react-daisyui/-/react-daisyui-3.0.1.tgz#fac60aa7bbb702e028731ca649f6085f19ad668e"
-  integrity sha512-UAsSpIJaRh7gpBNpn7abrpFecq2Bj+C/ZHquCK86ovdQygD1lB0nId+LV5mNVs54+yPW04d+P4JL9aFcvSrEIg==
+react-daisyui@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/react-daisyui/-/react-daisyui-3.0.2.tgz#d0e9080e2c81b47f2bad5ebb2b370c2183fc40da"
+  integrity sha512-Zyhrdu4AkdqSPJ3OoeZLumDlMug/nvgQ2q20nkU7Yz96wjWXIS4795uWXM34bRZ//fYacrlmaH2lCPHWMNkXGg==
 
 react-dom@^18.2.0:
   version "18.2.0"
