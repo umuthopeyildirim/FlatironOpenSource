@@ -7,6 +7,14 @@ const coursesData = [
         link: "/courses/product-design",
         phases: [
             {
+                name: "Prep Course",
+                slug: "prep-course",
+                description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
+                image: "/img/prep.webp",
+                link: "/course/software-engineering/prep-course",
+                key: "pd-prep"
+            },
+            {
                 name: "Phase 1",
                 slug: "phase-1",
                 description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
@@ -14,34 +22,38 @@ const coursesData = [
                 link: "/course/product-design/phase-1",
                 key: "pd-phase1"
             },
-            // {
-            //     name: "Phase 2",
-            //     slug: "phase-2",
-            //     description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-            //     image: "/img/2.webp",
-            //     link: "/course/product-design/phase-2"
-            // },
-            // {
-            //     name: "Phase 3",
-            //     slug: "phase-3",
-            //     description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-            //     image: "/img/3.webp",
-            //     link: "/course/product-design/phase-3"
-            // },
-            // {
-            //     name: "Phase 4",
-            //     slug: "phase-4",
-            //     description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-            //     image: "/img/4.webp",
-            //     link: "/course/product-design/phase-4"
-            // },
-            // {
-            //     name: "Phase 5",
-            //     slug: "phase-5",
-            //     description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-            //     image: "/img/5.webp",
-            //     link: "/course/product-design/phase-5"
-            // }
+            {
+                name: "Phase 2",
+                slug: "phase-2",
+                description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
+                image: "/img/2.webp",
+                link: "/course/product-design/phase-2",
+                key: "pd-phase2"
+            },
+            {
+                name: "Phase 3",
+                slug: "phase-3",
+                description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
+                image: "/img/3.webp",
+                link: "/course/product-design/phase-3",
+                key: "pd-phase3"
+            },
+            {
+                name: "Phase 4",
+                slug: "phase-4",
+                description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
+                image: "/img/4.webp",
+                link: "/course/product-design/phase-4",
+                key: "pd-phase4"
+            },
+            {
+                name: "Phase 5",
+                slug: "phase-5",
+                description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
+                image: "/img/5.webp",
+                link: "/course/product-design/phase-5",
+                key: "pd-phase5"
+            }
         ]
     },
     {
