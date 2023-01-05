@@ -11,7 +11,7 @@ const coursesData = [
                 slug: "prep-course",
                 description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
                 image: "/img/prep.webp",
-                link: "/course/software-engineering/prep-course",
+                link: "/course/product-design/prep-course",
                 key: "pd-prep"
             },
             {
