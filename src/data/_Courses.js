@@ -1,48 +1,49 @@
 const coursesData = [
-    // {
-    //     name: "Product Design",
-    //     description: "The UX / UI product design program at Flatiron School focuses on digital product design — designing digital products such as websites, mobile applications, and computer programs.",
-    //     slug: "product-design",
-    //     image: "/img/Product-Design-Hero-Image-8.svg",
-    //     link: "/courses/product-design",
-    //     phases: [
-    //         {
-    //             name: "Phase 1",
-    //             slug: "phase-1",
-    //             description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
-    //             image: "/img/1.webp",
-    //             link: "/course/product-design/phase-1"
-    //         },
-    //         {
-    //             name: "Phase 2",
-    //             slug: "phase-2",
-    //             description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-    //             image: "/img/2.webp",
-    //             link: "/course/product-design/phase-2"
-    //         },
-    //         {
-    //             name: "Phase 3",
-    //             slug: "phase-3",
-    //             description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-    //             image: "/img/3.webp",
-    //             link: "/course/product-design/phase-3"
-    //         },
-    //         {
-    //             name: "Phase 4",
-    //             slug: "phase-4",
-    //             description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-    //             image: "/img/4.webp",
-    //             link: "/course/product-design/phase-4"
-    //         },
-    //         {
-    //             name: "Phase 5",
-    //             slug: "phase-5",
-    //             description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
-    //             image: "/img/5.webp",
-    //             link: "/course/product-design/phase-5"
-    //         }
-    //     ]
-    // },
+    {
+        name: "Product Design",
+        description: "The UX / UI product design program at Flatiron School focuses on digital product design — designing digital products such as websites, mobile applications, and computer programs.",
+        slug: "product-design",
+        image: "/img/Product-Design-Hero-Image-8.svg",
+        link: "/courses/product-design",
+        phases: [
+            {
+                name: "Phase 1",
+                slug: "phase-1",
+                description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
+                image: "/img/1.webp",
+                link: "/course/product-design/phase-1",
+                key: "pd-phase1"
+            },
+            // {
+            //     name: "Phase 2",
+            //     slug: "phase-2",
+            //     description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
+            //     image: "/img/2.webp",
+            //     link: "/course/product-design/phase-2"
+            // },
+            // {
+            //     name: "Phase 3",
+            //     slug: "phase-3",
+            //     description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
+            //     image: "/img/3.webp",
+            //     link: "/course/product-design/phase-3"
+            // },
+            // {
+            //     name: "Phase 4",
+            //     slug: "phase-4",
+            //     description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
+            //     image: "/img/4.webp",
+            //     link: "/course/product-design/phase-4"
+            // },
+            // {
+            //     name: "Phase 5",
+            //     slug: "phase-5",
+            //     description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
+            //     image: "/img/5.webp",
+            //     link: "/course/product-design/phase-5"
+            // }
+        ]
+    },
     {
         name: "Software Engineering",
         description: "Become a software engineer to help businesses develop software, build web apps, and products that will help shape the future of the company.",
