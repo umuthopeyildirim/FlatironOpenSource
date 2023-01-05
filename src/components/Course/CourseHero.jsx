@@ -1,15 +1,17 @@
+import { data } from "autoprefixer";
 import { useState } from "react";
 import { Button, ButtonGroup } from "react-daisyui";
 import { BsGithub } from "react-icons/bs";
 
 function CourseHero({ course, phase, phaseData }) {
   const [courseModule, setCourseModule] = useState(null)
-  const [content, setContent] = useState(phaseData.content)
-  console.log(phaseData.content)
+  const [content, setContent] = useState(null)
+
   let testArray = phaseData.modules.map((mod)=>
     <Button onClick={()=>setCourseModule(mod.name)} key={mod.name}>{mod.name}</Button>
   );
   let courseModuleArray = phaseData.modules.find((mod)=> mod.name === courseModule);
+
 
   return(
     <>
@@ -30,22 +32,22 @@ function CourseHero({ course, phase, phaseData }) {
             </ButtonGroup>
             <ButtonGroup className="md:w-100 w-full md:ml-5 mt-2.5" vertical>
               {courseModule!==null?courseModuleArray.name: null}
-              {courseModule!==null?courseModuleArray.items.map(data=><Button onClick={()=>window.open(data.content)}key={data.title} startIcon={<BsGithub />} >{data.title}</Button>):null}
+              
+              {course.name !== "Product Design"? (courseModule!==null?courseModuleArray.items.map(data=><Button onClick={()=>window.open(data.content)}key={data.title} startIcon={<BsGithub />} >{data.title}</Button>):null):
+              
+              (courseModule!==null?courseModuleArray.items.map(data=><Button onClick={()=>setContent(data.content)}key={data.title} startIcon={<BsGithub />} >{data.title}</Button>):null)
+              }
             </ButtonGroup>
           </div>
         </div>
-      </div>
-      {
-      content
-      ?
-        <>
+        {course.name=== "Product Design"?  <>
           <div dangerouslySetInnerHTML={{__html: content}}></div>
-        </>
-      :
-        null
-      }
+        </>: null}
+  
+      </div>
     </>
-  );
+  )
 }
 
 export default CourseHero;
+
