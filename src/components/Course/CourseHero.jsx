@@ -41,7 +41,7 @@ function CourseHero({ course, phase, phaseData }) {
           </div>
         </div>
         {course.name=== "Product Design"?  <>
-          <div dangerouslySetInnerHTML={{__html: content}}></div>
+          <div dangerouslySetInnerHTML={{__html: content}} className="flex flex-col w-full md:ml-5 mt-2.5"></div>
         </>: null}
   
       </div>
