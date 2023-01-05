@@ -2,6 +2,7 @@ import { data } from "autoprefixer";
 import { useState } from "react";
 import { Button, ButtonGroup } from "react-daisyui";
 import { BsGithub } from "react-icons/bs";
+import DOMPurify from 'dompurify';
 
 function CourseHero({ course, phase, phaseData }) {
   const [courseModule, setCourseModule] = useState(null)
@@ -12,6 +13,16 @@ function CourseHero({ course, phase, phaseData }) {
   );
   let courseModuleArray = phaseData.modules.find((mod)=> mod.name === courseModule);
 
+  let handleSetContent = (data) => {
+    let clean = DOMPurify.sanitize(data, { USE_PROFILES: { html: true } });
+    setContent(clean)
+  }
+
+  const htmlDecode = content => {
+    let e = document.createElement("div");
+    e.innerHTML = DOMPurify.sanitize(content, { USE_PROFILES: { html: true } });
+    return e.innerHTML;
+  };
 
   return(
     <>
@@ -36,14 +47,16 @@ function CourseHero({ course, phase, phaseData }) {
                 
                 {course.name !== "Product Design"? (courseModule!==null?courseModuleArray.items.map(data=><Button onClick={()=>window.open(data.content)}key={data.title} startIcon={<BsGithub />} >{data.title}</Button>):null):
                 
-                (courseModule!==null?courseModuleArray.items.map(data=><Button onClick={()=>setContent(data.content)}key={data.title} startIcon={<BsGithub />} >{data.title}</Button>):null)
+                (courseModule!==null?courseModuleArray.items.map(data=><Button onClick={()=>handleSetContent(data.content)}key={data.title} startIcon={<BsGithub />} >{data.title}</Button>):null)
                 }
               </ButtonGroup>
             </div>
           </div>
         </div>
         {course.name=== "Product Design"?  <>
-          <div className="mx-5 md:ml-5 mt-2.5" dangerouslySetInnerHTML={{__html: content}}></div>
+          <h4 className="text-3xl">ddd</h4>
+          <section className="mx-5 md:ml-5 mt-2.5" dangerouslySetInnerHTML={{__html: htmlDecode(content)}}>
+          </section>
         </>: null}
   
       </div>
