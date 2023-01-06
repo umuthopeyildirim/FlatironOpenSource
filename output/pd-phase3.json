@@ -61,7 +61,7 @@
                 },
                 {
                     "title": "Navigation and Wayfinding (Chapter 5 of Everyday Information Architecture by Lisa Maria Marquis, PDF)",
-                    "content": "https://bucket.flatironopensource.ml/everyday-information-architecture-chapter-5-navigation-and-wayfinding.pdf"
+                    "content": "<a class=\"external-link\" href=\"https://bucket.flatironopensource.ml/everyday-information-architecture-chapter-5-navigation-and-wayfinding.pdf\" target=\"_blank\">Navigation and Wayfinding</a>"
                 },
                 {
                     "title": "\ud83c\udfac Navigation and Sitemaps (5 mins.)",
@@ -114,7 +114,8 @@
                 },
                 {
                     "title": "\ud83c\udfac Card Sorting and Tree Testing: How Do They Work Together? (3 mins.)",
-                    "content": "https://youtu.be/cSHiu_m6vCs"
+                    "content": "<a class=\"external-link\" href=\"https://youtu.be/cSHiu_m6vCs\" target=\"_blank\">Card Sorting and Tree Testing: How Do They Work Together?</a>"
+
                 },
                 {
                     "title": "\ud83c\udfac Starting with Content (6 mins.)",
