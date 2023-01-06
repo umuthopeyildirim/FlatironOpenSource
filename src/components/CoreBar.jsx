@@ -26,7 +26,7 @@ function CoreBar(){
                             <Link href="#newsletter">Newsletter</Link>
                         </Menu.Item> */}
                         <Menu.Item>
-                            <Link href="https://github.com/umuthopeyildirim/FlatironSchoolOpenSource" target="_blank"><BsGithub />Github</Link>
+                            <Link href="https://github.com/umuthopeyildirim/FlatironOpenSource" target="_blank"><BsGithub />Github</Link>
                         </Menu.Item>
                     </Menu>
                 </Navbar.End>
