@@ -3,6 +3,8 @@ import { useState } from "react";
 import { Button, ButtonGroup } from "react-daisyui";
 import { BsGithub } from "react-icons/bs";
 import DOMPurify from 'dompurify';
+import '../../assets/css/course.css';
+
 
 function CourseHero({ course, phase, phaseData }) {
   const [courseModule, setCourseModule] = useState(null)
@@ -17,12 +19,6 @@ function CourseHero({ course, phase, phaseData }) {
     let clean = DOMPurify.sanitize(data, { USE_PROFILES: { html: true } });
     setContent(clean)
   }
-
-  const htmlDecode = content => {
-    let e = document.createElement("div");
-    e.innerHTML = DOMPurify.sanitize(content, { USE_PROFILES: { html: true } });
-    return e.innerHTML;
-  };
 
   return(
     <>
@@ -54,9 +50,8 @@ function CourseHero({ course, phase, phaseData }) {
           </div>
         </div>
         {course.name=== "Product Design"?  <>
-          <h4 className="text-3xl">ddd</h4>
-          <section className="mx-5 md:ml-5 mt-2.5" dangerouslySetInnerHTML={{__html: htmlDecode(content)}}>
-          </section>
+          <div className="mx-5 md:ml-5 mt-2.5" dangerouslySetInnerHTML={{__html: content}}>
+          </div>
         </>: null}
   
       </div>
