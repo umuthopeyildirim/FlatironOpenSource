@@ -41,9 +41,9 @@ function CourseHero({ course, phase, phaseData }) {
               <ButtonGroup className="md:w-100 w-full md:ml-5 mt-2.5" vertical>
                 {courseModule!==null?courseModuleArray.name: null}
                 
-                {course.name !== "Product Design"? (courseModule!==null?courseModuleArray.items.map(data=><Button onClick={()=>window.open(data.content)}key={data.title}>{data.title}</Button>):null):
+                {course.name !== "Product Design"? (courseModule!==null?courseModuleArray.items.map(data=><Button onClick={()=>window.open(data.content)}key={data.title} startIcon={<BsGithub />}>{data.title}</Button>):null):
                 
-                (courseModule!==null?courseModuleArray.items.map(data=><Button onClick={()=>handleSetContent(data.content)}key={data.title} startIcon={<BsGithub />} >{data.title}</Button>):null)
+                (courseModule!==null?courseModuleArray.items.map(data=><Button onClick={()=>handleSetContent(data.content)}key={data.title}  >{data.title}</Button>):null)
                 }
               </ButtonGroup>
             </div>
