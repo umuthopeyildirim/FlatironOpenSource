@@ -1,8 +1,8 @@
 {
-  "name": "FlatironSchoolOpenSource",
+  "name": "FlatironOpenSource",
   "version": "1.0.0",
   "description": "Flatiron School lessons for graduated students.",
-  "repository": "git@github.com:umuthopeyildirim/FlatironSchoolOpenSource.git",
+  "repository": "git@github.com:umuthopeyildirim/FlatironOpenSource.git",
   "author": "Umut Hope YILDIRIM <umut475@gmail.com>, Ian Gottheim <iangottheim@gmail.com>",
   "license": "MIT",
   "private": false,
