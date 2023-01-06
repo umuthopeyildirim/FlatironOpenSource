@@ -5,7 +5,7 @@ import json
 from bs4 import BeautifulSoup, SoupStrainer
 from bs4.diagnose import diagnose
 
-envValue = requests.get('https://workers.flatironopensource.ml/course/pd-phase1')
+envValue = requests.get('https://workers.flatironopensource.ml/course/pd-prep')
 phaseValue = json.loads(envValue.content)
 
 moduleList = {}
@@ -28,7 +28,10 @@ for modules in phaseValue["modules"]:
         # Add the title of the item to the item dictionary
         item["title"] = item1["title"]
         # Find "content" in the soup object
-        item["content"] = item1["content"]
+        try:
+            item["content"] = item1["content"]
+        except:
+            item["content"] = ""
         # Add the item to the module items key
         module["items"].append(item)
     # Add the module to the moduleList modules key
@@ -39,5 +42,5 @@ for modules in phaseValue["modules"]:
 json_object = json.dumps(moduleList, indent=4)
 # print(json_object)
 
-with open("/Users/hope/Desktop/Project/FlatironSchoolOpenSource/output/pd-phase1.json", "w") as outfile:
+with open("/Users/hope/Desktop/Project/FlatironSchoolOpenSource/output/pd-prep.json", "w") as outfile:
     outfile.write(json_object)

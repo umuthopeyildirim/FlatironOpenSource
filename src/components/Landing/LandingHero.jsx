@@ -15,8 +15,8 @@ function LandingHero() {
            <br></br> 
           </p>
           <p>
-          Software Engineering, Data Science, and Data Structures & Algorithms are curently available.
-            Product Design and Cybersecurity will be released in the near future.
+          Software Engineering, Data Science, Product Design, and Data Structures & Algorithms are curently available.
+            Cybersecurity will be released in the near future.
             </p>
             <br></br>
             <p>
