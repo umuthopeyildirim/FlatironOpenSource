@@ -16,7 +16,20 @@ function CourseHero({ course, phase, phaseData }) {
   let courseModuleArray = phaseData.modules.find((mod)=> mod.name === courseModule);
 
   let handleSetContent = (data) => {
-    let clean = DOMPurify.sanitize(data, { ADD_TAGS: ["iframe"], ADD_ATTR: ['allow', 'allowfullscreen', 'frameborder', 'scrolling'], USE_PROFILES: { html: true } });
+    DOMPurify.addHook('afterSanitizeAttributes', function (node) {
+      // set all elements owning target to target=_blank
+      if ('target' in node) {
+        node.setAttribute('target', '_blank');
+      }
+      // set non-HTML/MathML links to xlink:show=new
+      if (
+        !node.hasAttribute('target') &&
+        (node.hasAttribute('xlink:href') || node.hasAttribute('href'))
+      ) {
+        node.setAttribute('xlink:show', 'new');
+      }
+    });
+    let clean = DOMPurify.sanitize(data, { ADD_TAGS: ["iframe", "target"], ADD_ATTR: ['allow', 'allowfullscreen', 'frameborder', 'scrolling'], USE_PROFILES: { html: true } });
     setContent(clean)
   }
 
