@@ -2,7 +2,7 @@
 # Flatiron Open Source
 This repo contains the lessons and labs for the Flatiron School's Open Source curriculum. The curriculum is designed to teach students JavaScript, Ruby and Python. This repo is a work in progress and will be updated as the curriculum is developed.
 
-> :information_source **Note:** You can download vanilla courses by checking releases tab. Here is a [link](https://github.com/umuthopeyildirim/FlatironOpenSource/releases/tag/Courses) to the latest release.
+> ℹ️ **Note:** You can download vanilla courses by checking releases tab. Here is a [link](https://github.com/umuthopeyildirim/FlatironOpenSource/releases/tag/Courses) to the latest release.
 
 ## Table of Contents
 * [Usage](#usage)
