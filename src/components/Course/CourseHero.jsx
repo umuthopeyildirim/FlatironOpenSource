@@ -16,9 +16,8 @@ function CourseHero({ course, phase, phaseData }) {
   let courseModuleArray = phaseData.modules.find((mod)=> mod.name === courseModule);
 
   let handleSetContent = (data) => {
-    let clean = DOMPurify.sanitize(data, { ALLOWED_TAGS: ["iframe"], ADD_ATTR: ['allow', 'allowfullscreen', 'frameborder', 'scrolling'] });
-    console.log(clean)
-    setContent(clean)
+    let clean = DOMPurify.sanitize(data);
+    setContent(data)
   }
 
   return(
