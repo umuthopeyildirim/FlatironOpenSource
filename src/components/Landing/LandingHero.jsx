@@ -7,7 +7,7 @@ function LandingHero() {
       <Hero.Content className="flex flex-col md:flex-row text-center">
         <div className="max-w-md">
           <h1 className="text-5xl font-bold">
-            Flatiron School Open Source
+            Flatiron Open Source
             <br></br> 
           </h1>
           <p className="py-6">
