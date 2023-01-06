@@ -20,7 +20,6 @@ function LandingHero() {
             </p>
             <br></br>
             <p>
-          <Button href="/#lessons" color="accent">Check out their lessons</Button>
           </p>
           <br></br>
         </div>
