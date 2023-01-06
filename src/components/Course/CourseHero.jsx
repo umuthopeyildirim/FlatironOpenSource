@@ -16,7 +16,8 @@ function CourseHero({ course, phase, phaseData }) {
   let courseModuleArray = phaseData.modules.find((mod)=> mod.name === courseModule);
 
   let handleSetContent = (data) => {
-    let clean = DOMPurify.sanitize(data, { USE_PROFILES: { html: true } });
+    let clean = DOMPurify.sanitize(data, { ALLOWED_TAGS: ["iframe"], ADD_ATTR: ['allow', 'allowfullscreen', 'frameborder', 'scrolling'] });
+    console.log(clean)
     setContent(clean)
   }
 
@@ -50,7 +51,7 @@ function CourseHero({ course, phase, phaseData }) {
           </div>
         </div>
         {course.name=== "Product Design"?  <>
-          <div className="mx-5 md:ml-5 mt-2.5" dangerouslySetInnerHTML={{__html: content}}>
+          <div className="mx-5 md:ml-5 mt-2.5 courseScreen" dangerouslySetInnerHTML={{__html: content}}>
           </div>
         </>: null}
   
