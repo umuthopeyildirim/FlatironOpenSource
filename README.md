@@ -25,31 +25,31 @@ yarn dev
 We use Cloudflare Workers for our backend services. To check out installation instructions, please see the [Workers README](workers/README.md).
 
 ## Software Engineering
-* [Software Engineering Prep](https://flatironopensource.ml/course/software-engineering/prep-course)
-* [Software Engineering Phase 1](https://flatironopensource.ml/course/software-engineering/phase-1)
-* [Software Engineering Phase 2](https://flatironopensource.ml/course/software-engineering/phase-2)
-* [Software Engineering Phase 3](https://flatironopensource.ml/course/software-engineering/phase-3)
-* [Software Engineering Phase 4](https://flatironopensource.ml/course/software-engineering/phase-4)
-* [Software Engineering Phase 5](https://flatironopensource.ml/course/software-engineering/phase-5)
+* [Software Engineering Prep](https://flatironopensource.com/course/software-engineering/prep-course)
+* [Software Engineering Phase 1](https://flatironopensource.com/course/software-engineering/phase-1)
+* [Software Engineering Phase 2](https://flatironopensource.com/course/software-engineering/phase-2)
+* [Software Engineering Phase 3](https://flatironopensource.com/course/software-engineering/phase-3)
+* [Software Engineering Phase 4](https://flatironopensource.com/course/software-engineering/phase-4)
+* [Software Engineering Phase 5](https://flatironopensource.com/course/software-engineering/phase-5)
 
 ## Data Science
-* [Data Science Prep 2022](https://flatironopensource.ml/course/data-science/prep-course)
-* [Data Science Phase 1](https://flatironopensource.ml/course/data-science/phase-1)
-* [Data Science Phase 2](https://flatironopensource.ml/course/data-science/phase-2)
-* [Data Science Phase 3](https://flatironopensource.ml/course/data-science/phase-3)
-* [Data Science Phase 4](https://flatironopensource.ml/course/data-science/phase-4)
-* [Data Science Phase 5](https://flatironopensource.ml/course/data-science/phase-5)
+* [Data Science Prep 2022](https://flatironopensource.com/course/data-science/prep-course)
+* [Data Science Phase 1](https://flatironopensource.com/course/data-science/phase-1)
+* [Data Science Phase 2](https://flatironopensource.com/course/data-science/phase-2)
+* [Data Science Phase 3](https://flatironopensource.com/course/data-science/phase-3)
+* [Data Science Phase 4](https://flatironopensource.com/course/data-science/phase-4)
+* [Data Science Phase 5](https://flatironopensource.com/course/data-science/phase-5)
 
 ## Data Structures and Algorithms
-* [Data Structures and Algorithms](https://flatironopensource.ml/course/data-structures-and-algorithms/start-course)
+* [Data Structures and Algorithms](https://flatironopensource.com/course/data-structures-and-algorithms/start-course)
 
 ## Product Design
-* [Product Design Prep](https://flatironopensource.ml/course/product-design/prep-course)
-* [Product Design Phase 1](https://flatironopensource.ml/course/product-design/phase-1)
-* [Product Design Phase 2](https://flatironopensource.ml/course/product-design/phase-2)
-* [Product Design Phase 3](https://flatironopensource.ml/course/product-design/phase-3)
-* [Product Design Phase 4](https://flatironopensource.ml/course/product-design/phase-4)
-* [Product Design Phase 5](https://flatironopensource.ml/course/product-design/phase-5)
+* [Product Design Prep](https://flatironopensource.com/course/product-design/prep-course)
+* [Product Design Phase 1](https://flatironopensource.com/course/product-design/phase-1)
+* [Product Design Phase 2](https://flatironopensource.com/course/product-design/phase-2)
+* [Product Design Phase 3](https://flatironopensource.com/course/product-design/phase-3)
+* [Product Design Phase 4](https://flatironopensource.com/course/product-design/phase-4)
+* [Product Design Phase 5](https://flatironopensource.com/course/product-design/phase-5)
 
 ## Contributing
 We welcome contributions to the curriculum. Please see the [contributing guidelines](CONTRIBUTING.md) for more information.

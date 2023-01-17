@@ -5,7 +5,7 @@ import json
 from bs4 import BeautifulSoup, SoupStrainer
 from bs4.diagnose import diagnose
 
-envValue = requests.get('https://workers.flatironopensource.ml/course/pd-prep')
+envValue = requests.get('https://workers.flatironopensource.co/course/pd-prep')
 phaseValue = json.loads(envValue.content)
 
 moduleList = {}
