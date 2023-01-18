@@ -102,4 +102,22 @@
     <priority>0.5</priority>
     <lastmod>2022-12-29T21:32:17+00:00</lastmod>
   </url>
+    <url>
+    <loc>https://flatironopensource.com/privacy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2022-12-29T21:32:17+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://flatironopensource.com/terms</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2022-12-29T21:32:17+00:00</lastmod>
+  </url>
+    <url>
+    <loc>https://flatironopensource.com/cookies</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2022-12-29T21:32:17+00:00</lastmod>
+  </url>
 </urlset>

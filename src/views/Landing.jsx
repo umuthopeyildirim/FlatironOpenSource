@@ -2,11 +2,12 @@ import CoreBar from "../components/CoreBar";
 import LandingHero from "../components/Landing/LandingHero";
 import Lessons from "../components/Landing/Lessons";
 import CoreFooter from "../components/CoreFooter";
+import LandingModal from "../components/Landing/LandingModal";
 
 // Datas
 import coursesData from "../data/_Courses";
 
-import { useState, useEffect } from "react";
+
 
 
 
@@ -18,16 +19,19 @@ function Landing() {
 
 function setAlerts(){
   alert("Please know that we use Google Analytics and cookies to track user traffic for this site. By clicking ok, you consent to flatironopensource.com's Cookie and Privacy policies.")
-  localStorage.setItem("alertOn", false)
+  localStorage.setItem("consent", false)
+}
+function setOpen()
+{
+  console.log("hello")
 }
 
 
   return (
     <div>
-     {!localStorage.getItem("alertOn")? setAlerts(): null}
-    
+     {/* {!localStorage.getItem("consent")? setAlerts(): null} */}
+     <LandingModal open = {setOpen()}/>
       <CoreBar />
-     
       <LandingHero />
       <div id="lessons">
         <Lessons coursesData={coursesData} />
