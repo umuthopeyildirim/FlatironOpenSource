@@ -21,7 +21,7 @@ return (
 
       <Modal.Body className="font-bold w-11/12 max-w-5xl bg-primary">
       <p> Please note that we use Google Analytics and cookies to track user traffic for this site.</p>
-      <p>By clicking "Confirm Consent", you consent to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. </p>
+      <p>By clicking "Confirm Consent," you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. </p>
       <p>Flatironopensource.com's Cookies and Privacy policies, as well as the site's Terms and Conditions, can be found in the footer below </p>
       </Modal.Body>
 
