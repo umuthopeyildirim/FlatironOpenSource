@@ -12,7 +12,7 @@ import { useState, useEffect } from "react";
 
 function Landing() {
 
-
+//Google Analytics Alert 
 const [alertOn, setAlertOn] = useState(true)
 
 function setAlerts(){
@@ -20,12 +20,12 @@ function setAlerts(){
   setAlertOn(!alertOn)
 }
 
+
   return (
     <div>
      {alertOn? setAlerts(): null}
-     
+    
       <CoreBar />
-     
       <LandingHero />
       <div id="lessons">
         <Lessons coursesData={coursesData} />
