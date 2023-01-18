@@ -11,9 +11,14 @@ import coursesData from "../data/_Courses";
 function Landing() {
 
  
+
   return (
     <div>
-     <LandingModal/>
+    {
+      localStorage.getItem("consent")?
+      null:
+      <LandingModal/>
+    }
       <CoreBar />
       <LandingHero />
       <div id="lessons">
