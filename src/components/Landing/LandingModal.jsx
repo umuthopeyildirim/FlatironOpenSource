@@ -1,5 +1,8 @@
 import { Button, Modal } from "react-daisyui"
 import { useEffect, useState } from "react"
+
+//Google Analytics Pop Up
+
 function LandingModal() {
 
 const [visible, setVisible] = useState(false)
