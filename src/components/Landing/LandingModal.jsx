@@ -14,13 +14,15 @@ const toggleVisible = () => {
 return (
   <div className="font-sans">
     <Button onClick={toggleVisible}>GDPR Security Disclaimer</Button>
-    <Modal open={visible}>
+    <Modal open={visible} className = "w-full text-sm text-white px-4 py-3 bg-gray-900 border border-gray-700 rounded-lg focus:outline-none focus:border-purple-400">
       <Modal.Header className="font-bold w-11/12 max-w-5xl bg-primary">
         GDPR Security Disclaimer
       </Modal.Header>
 
-      <Modal.Body className = "items-center text-center">
-      Please know that we use Google Analytics and cookies to track user traffic for this site. By clicking ok, you consent to flatironopensource.com's Cookie and Privacy policies.
+      <Modal.Body className="font-bold w-11/12 max-w-5xl bg-primary">
+      <p> Please note that we use Google Analytics and cookies to track user traffic for this site.</p>
+      <p>By clicking ok, you consent to flatironopensource.com's Cookies and Privacy policies. </p>
+      <p>Cookies and Privacy policies, as well as the site's Terms and Conditions, can be found in the footer below </p>
       </Modal.Body>
 
       <Modal.Actions>
