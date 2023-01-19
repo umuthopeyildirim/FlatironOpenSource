@@ -7,11 +7,7 @@ import LandingModal from "../components/Landing/LandingModal";
 // Datas
 import coursesData from "../data/_Courses";
 
-
 function Landing() {
-
- 
-
   return (
     <div>
     {

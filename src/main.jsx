@@ -13,6 +13,7 @@ import Course from './views/Course';
 import Privacy from './views/Privacy';
 import Terms from './views/Terms';
 import Cookies from './views/Cookies';
+
 /* Error Pages */
 import NotFound from './views/errors/NotFound';
 
