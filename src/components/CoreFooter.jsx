@@ -18,6 +18,12 @@ function CoreFooter(){
                 <a href="/courses/product-design" className="link link-hover">Product Design</a>
                 <a href="/courses/data-structures-and-algorithms" className="link link-hover">Data Structures and Algorithms</a>
             </div>
+            <div>
+                <Footer.Title>Legal</Footer.Title>
+                <a href="/privacy" className="link link-hover">Privacy</a>
+                <a href="/terms" className="link link-hover">Terms</a>
+                <a href="/cookies" className="link link-hover">Cookies</a>
+            </div>
         </Footer>
     );
 }

@@ -26,7 +26,7 @@ function Course() {
     }
     else{
       // fetch json from API
-      fetch(`https://workers.flatironopensource.ml/course/${phase.key}`)
+      fetch(`https://workers.flatironopensource.com/course/${phase.key}`)
       .then((response) => response.json())
       .then((data) => {
         setPhaseData(data)

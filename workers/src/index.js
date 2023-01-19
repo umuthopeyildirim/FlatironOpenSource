@@ -28,7 +28,7 @@ async function handleRequest(request, env) {
       new Response("That's not a valid HTTP status code.", {
         headers: { 
           "Content-Type": "application/json",
-          "Access-Control-Allow-Origin": "https://flatironopensource.ml",
+          "Access-Control-Allow-Origin": "https://flatironopensource.com",
           "Access-Control-Allow-Methods": "GET",
         }
       });
