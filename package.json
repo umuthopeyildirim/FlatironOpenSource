@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.13",
-    "daisyui": "^2.50.1",
+    "daisyui": "^2.50.2",
     "dompurify": "^3.0.0",
     "postcss": "^8.4.21",
     "react": "^18.2.0",
