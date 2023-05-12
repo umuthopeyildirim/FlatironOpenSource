@@ -32,4 +32,4 @@ function LandingModal() {
   );
 }
 
-export default LandingModal
+export default LandingModal;
