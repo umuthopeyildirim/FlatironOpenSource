@@ -8,3 +8,6 @@ workers_dev = true
 kv_namespaces = [
   { binding = "COURSES", id = "7347ea89daa346a397734c3d3be11d18" }
 ]
+
+[placement]
+mode = "smart"

@@ -8,3 +8,6 @@ workers_dev = true
 kv_namespaces = [
   { binding = "your_kv_binding", id = "your_KV_id" } # check out this page for more info: https://developers.cloudflare.com/workers/runtime-apis/kv
 ]
+
+[placement]
+mode = "smart"
