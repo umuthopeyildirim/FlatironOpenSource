@@ -12,7 +12,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "autoprefixer": "^10.4.14",
+    "autoprefixer": "^10.4.15",
     "daisyui": "^2.52.0",
     "dompurify": "^3.0.5",
     "postcss": "^8.4.27",
