@@ -58,7 +58,7 @@ const coursesData = [
     },
     {
         name: "Software Engineering",
-        description: "Become a software engineer to help businesses develop software, build web apps, and products that will help shape the future of the company.",
+        description: "Now with Python. Become a software engineer to help businesses develop software, build web apps, and products that will help shape the future of the company.",
         slug: "software-engineering",
         image: "/img/SE-Hero-Image-2.svg",
         link: "/courses/software-engineering",
@@ -66,7 +66,7 @@ const coursesData = [
             {
                 name: "Prep Course",
                 slug: "prep-course",
-                description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
+                description: "Learn the fundamentals of JavaScript and how browsers work.",
                 image: "/img/prep.webp",
                 link: "/course/software-engineering/prep-course",
                 key: "se-prep"
@@ -74,7 +74,7 @@ const coursesData = [
             {
                 name: "Phase 1",
                 slug: "phase-1",
-                description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
+                description: "Learn the fundamentals of JavaScript and how browsers work",
                 image: "/img/1.webp",
                 link: "/course/software-engineering/phase-1",
                 key: "se-phase1"
@@ -82,23 +82,39 @@ const coursesData = [
             {
                 name: "Phase 2",
                 slug: "phase-2",
-                description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
+                description: "Learn React, a JavaScript library for building user interfaces.",
                 image: "/img/2.webp",
                 link: "/course/software-engineering/phase-2",
                 key: "se-phase2"
             },
             {
-                name: "Phase 3",
+                name: "Phase 3 - Python (New)",
+                slug: "phase-3-python",
+                description: "Learn Python and how to use it to build web applications.",
+                image: "/img/3.webp",
+                link: "/course/software-engineering/phase-3-python",
+                key: "se-phase3-python"
+            },
+            {
+                name: "Phase 4 - Flask (New)",
+                slug: "phase-4-flask",
+                description: "Learn Flask, a Python web framework, and how to use it to build web applications.",
+                image: "/img/4.webp",
+                link: "/course/software-engineering/phase-4-flask",
+                key: "se-phase4-flask"
+            },
+            {
+                name: "Phase 3 - Ruby",
                 slug: "phase-3",
-                description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
+                description: "Learn Ruby and how to use it to build web applications.",
                 image: "/img/3.webp",
                 link: "/course/software-engineering/phase-3",
                 key: "se-phase3"
             },
             {
-                name: "Phase 4",
+                name: "Phase 4 - Ruby on Rails",
                 slug: "phase-4",
-                description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
+                description: "Learn Ruby on Rails, a Ruby web framework, and how to use it to build web applications.",
                 image: "/img/4.webp",
                 link: "/course/software-engineering/phase-4",
                 key: "se-phase4"
@@ -106,7 +122,7 @@ const coursesData = [
             {
                 name: "Phase 5",
                 slug: "phase-5",
-                description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
+                description: "Now use everything you've learned to build a full-stack web application.",
                 image: "/img/5.webp",
                 link: "/course/software-engineering/phase-5",
                 key: "se-phase5"
@@ -123,7 +139,7 @@ const coursesData = [
             {
                 name: "Prep Course",
                 slug: "prep-course",
-                description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
+                description: "Learn the fundamentals of data science.",
                 image: "/img/prep.webp",
                 link: "/course/data-science/prep-course",
                 key: "ds-prep"
@@ -131,7 +147,7 @@ const coursesData = [
             {
                 name: "Phase 1",
                 slug: "phase-1",
-                description: "Learn the fundamentals of UX design and how to use them to create a user-centered design process.",
+                description: "Learn the fundamentals of data science.",
                 image: "/img/1.webp",
                 link: "/course/data-science/phase-1",
                 key: "ds-phase1"
@@ -139,7 +155,7 @@ const coursesData = [
             {
                 name: "Phase 2",
                 slug: "phase-2",
-                description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
+                description: "Learn the fundamentals of data science.",
                 image: "/img/2.webp",
                 link: "/course/data-science/phase-2",
                 key: "ds-phase2"
@@ -147,7 +163,7 @@ const coursesData = [
             {
                 name: "Phase 3",
                 slug: "phase-3",
-                description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
+                description: "Learn the fundamentals of data science.",
                 image: "/img/3.webp",
                 link: "/course/data-science/phase-3",
                 key: "ds-phase3"
@@ -155,7 +171,7 @@ const coursesData = [
             {
                 name: "Phase 4",
                 slug: "phase-4",
-                description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
+                description: "Learn the fundamentals of data science.",
                 image: "/img/4.webp",
                 link: "/course/data-science/phase-4",
                 key: "ds-phase4"
@@ -163,7 +179,7 @@ const coursesData = [
             {
                 name: "Phase 5",
                 slug: "phase-5",
-                description: "Learn the fundamentals of UI design and how to use them to create a user-centered design process.",
+                description: "Learn the fundamentals of data science.",
                 image: "/img/5.webp",
                 link: "/course/data-science/phase-5",
                 key: "ds-phase5"
