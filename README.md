@@ -28,8 +28,10 @@ We use Cloudflare Workers for our backend services. To check out installation in
 * [Software Engineering Prep](https://flatironopensource.com/course/software-engineering/prep-course)
 * [Software Engineering Phase 1](https://flatironopensource.com/course/software-engineering/phase-1)
 * [Software Engineering Phase 2](https://flatironopensource.com/course/software-engineering/phase-2)
-* [Software Engineering Phase 3](https://flatironopensource.com/course/software-engineering/phase-3)
-* [Software Engineering Phase 4](https://flatironopensource.com/course/software-engineering/phase-4)
+* [Software Engineering Phase 3 - Python](https://flatironopensource.com/course/software-engineering/phase-3-python)
+* [Software Engineering Phase 4 - Flask](https://flatironopensource.com/course/software-engineering/phase-4-flask)
+* [Software Engineering Phase 3 - Ruby](https://flatironopensource.com/course/software-engineering/phase-3)
+* [Software Engineering Phase 4 - Ruby on Rails](https://flatironopensource.com/course/software-engineering/phase-4)
 * [Software Engineering Phase 5](https://flatironopensource.com/course/software-engineering/phase-5)
 
 ## Data Science
