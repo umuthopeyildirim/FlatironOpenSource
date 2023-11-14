@@ -36,8 +36,8 @@ dependencies:
     specifier: ^3.3.5
     version: 3.3.5
   yarn:
-    specifier: ^1.22.19
-    version: 1.22.19
+    specifier: ^1.22.20
+    version: 1.22.20
 
 devDependencies:
   '@types/react':
@@ -1451,8 +1451,8 @@ packages:
     engines: {node: '>= 14'}
     dev: false
 
-  /yarn@1.22.19:
-    resolution: {integrity: sha512-/0V5q0WbslqnwP91tirOvldvYISzaqhClxzyUKXYxs07yUILIs5jx/k6CFe8bvKSkds5w+eiOqta39Wk3WxdcQ==}
+  /yarn@1.22.20:
+    resolution: {integrity: sha512-rAQTKOBnJSk3MhOJ536OIR9R/taWCU/e+Caun3BJuBoP5kZUDZoqNqt8PAPfBLihZVQoX/sUaNQqAdKjY9agcw==}
     engines: {node: '>=4.0.0'}
     hasBin: true
     requiresBuild: true
