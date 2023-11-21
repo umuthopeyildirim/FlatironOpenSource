@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.16",
-    "daisyui": "^4.4.2",
+    "daisyui": "^3.9.4",
     "dompurify": "^3.0.6",
     "postcss": "^8.4.31",
     "react": "^18.2.0",
@@ -31,6 +31,6 @@
     "vite-plugin-radar": "^0.9.1"
   },
   "engines": {
-    "node": ">=16.14"
+    "node": ">=16.0.0"
   }
 }
