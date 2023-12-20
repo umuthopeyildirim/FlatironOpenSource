@@ -22,7 +22,7 @@ dependencies:
     version: 18.2.0
   react-daisyui:
     specifier: ^4.1.2
-    version: 4.1.2(daisyui@3.9.4)(react-dom@18.2.0)(react@18.2.0)(tailwindcss@3.3.7)
+    version: 4.1.2(daisyui@3.9.4)(react-dom@18.2.0)(react@18.2.0)(tailwindcss@3.4.0)
   react-dom:
     specifier: ^18.2.0
     version: 18.2.0(react@18.2.0)
@@ -33,8 +33,8 @@ dependencies:
     specifier: ^6.21.0
     version: 6.21.0(react-dom@18.2.0)(react@18.2.0)
   tailwindcss:
-    specifier: ^3.3.7
-    version: 3.3.7
+    specifier: ^3.4.0
+    version: 3.4.0
   yarn:
     specifier: ^1.22.21
     version: 1.22.21
@@ -863,7 +863,7 @@ packages:
       css-selector-tokenizer: 0.8.0
       postcss: 8.4.32
       postcss-js: 4.0.1(postcss@8.4.32)
-      tailwindcss: 3.3.7
+      tailwindcss: 3.4.0
     transitivePeerDependencies:
       - ts-node
     dev: false
@@ -1281,7 +1281,7 @@ packages:
     resolution: {integrity: sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==}
     dev: false
 
-  /react-daisyui@4.1.2(daisyui@3.9.4)(react-dom@18.2.0)(react@18.2.0)(tailwindcss@3.3.7):
+  /react-daisyui@4.1.2(daisyui@3.9.4)(react-dom@18.2.0)(react@18.2.0)(tailwindcss@3.4.0):
     resolution: {integrity: sha512-Sx8ziaxKDe/59bw+UxTFOoDSJEuA8iGhgmMbzSAtnhaaZPP20kluHG+1/wY5mBSxfcAuk6oI8fqKcJRp55WzPQ==}
     peerDependencies:
       daisyui: ^3.0.22
@@ -1292,7 +1292,7 @@ packages:
       daisyui: 3.9.4
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
-      tailwindcss: 3.3.7
+      tailwindcss: 3.4.0
     dev: false
 
   /react-dom@18.2.0(react@18.2.0):
@@ -1443,8 +1443,8 @@ packages:
     engines: {node: '>= 0.4'}
     dev: false
 
-  /tailwindcss@3.3.7:
-    resolution: {integrity: sha512-pjgQxDZPvyS/nG3ZYkyCvsbONJl7GdOejfm24iMt2ElYQQw8Jc4p0m8RdMp7mznPD0kUhfzwV3zAwa80qI0zmQ==}
+  /tailwindcss@3.4.0:
+    resolution: {integrity: sha512-VigzymniH77knD1dryXbyxR+ePHihHociZbXnLZHUyzf2MMs2ZVqlUrZ3FvpXP8pno9JzmILt1sZPD19M3IxtA==}
     engines: {node: '>=14.0.0'}
     hasBin: true
     dependencies:
