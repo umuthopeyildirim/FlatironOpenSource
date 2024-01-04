@@ -3,7 +3,7 @@
   "description": "Flatiron Open Source Workers for course data we hold on our backend.",
   "version": "1.0.0",
   "devDependencies": {
-    "wrangler": "3.16.0"
+    "wrangler": "3.22.3"
   },
   "private": false
 }
