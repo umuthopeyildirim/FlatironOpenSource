@@ -25,10 +25,10 @@
     "yarn": "^1.22.22"
   },
   "devDependencies": {
-    "@types/react": "^18.2.78",
+    "@types/react": "^18.2.79",
     "@types/react-dom": "^18.2.25",
     "@vitejs/plugin-react": "^4.2.1",
-    "vite": "^5.2.8",
+    "vite": "^5.2.9",
     "vite-plugin-radar": "^0.9.4"
   },
   "engines": {
